@@ -1,0 +1,57 @@
+Harvey, D. R. 2012. *Preserving digital materials*. Berlin: De Gruyter Saur.
+
+Preserving Digital Materials by Douglas Ross Harvey is a great introduction to the field of digital preservation. Although it does not seek to get into details, it references a lot of other publications that I have used throughout this literature review, and is considered a great reference by archivists, librarians and other recordkeepers. The first chapter is concerned with the definition of digital preservation itself, which is central to the theme of my dissertation. Harvey argues that the most important challenge we are faced now with digital preservation is the changement of paradigm; he says the volume of information, the nature of the data that is deemed valuable for preservation, the means of accessing the data, the abundance of metadata, and the physical supports to hold digital data mean we must completely redefine our paradigms for the preservation of digital data, as traditional approaches from paper-based archiving become irrelevant.
+
+> “In library and recordkeeping practice we are moving rapidly from collection-based models, whose principles and practices have been developed over many centuries, to models where collections are not of paramount importance and where what matters is the extent of access provided to information resources”
+
+## Previous paradigm
+
+(copied p. 10). Called pre-digital preservation paradigm
+
+- When materials are treated, the treatments should, when possible, be re- versible– Whenever possible or appropriate, the originals should be preserved; only materials that are untreatable should be reformatted– Library materials should be preserved for as long as possible– Efforts should be put into preventive conservation, and aimed at providingappropriate storage and handling of artifacts– Benign neglect may be the best treatment (derived from Cloonan (1993,p.596), Harvey (1993, pp.14,140), and Bastian, Cloonan and Harvey (2011, pp.612-613)).
+
+more defs pp 10-11
++ Bastian, Cloonan and Harvey, 2011, p.611
+
+> Change is also apparent in the ways that information professionals define preservation. In a 2002 survey of records managers and archivists who deal with electronic records, Cloonan and Sanett (2002, p.73) posed the questions: ‘What is the meaning of preservation? Does the meaning change when it is applied to electronic rather than paper-based records?’. They noted that:>> It is clear that professionals are revising their definitions of preservation from a once- and-forever approach for paper-based materials to an all-the-time approach for digital materials. Preservation must now accommodate both media and access systems ... while we once tended to think about preserving materials for a particular period of time – for example, permanent/durable paper was expected to last for five hundred years – we now think about retaining digital media for a period of continuing value (Cloonan and Sanett, 2002, p.93).
+> Interviewees expressed dissatisfaction with the term digital preservation, sug- gesting that other terms such as long-term retention are more suitable (Cloonan and Sanett, 2002, p.74). Definitions of preservation provided by survey re- spondents, Cloonan and Sanett (2002, p.85) concluded, ‘demonstrate a shift taking place from defining preservation as a once-and-forever approach for paper-based materials, to an all-the-time approach for digital materials’. This shift implies an acceptance that preservation may even begin before a record has been created.> Debate has continued about whether digital preservation sufficiently describes what needs to occur for digital materials to be accessible over time, on the grounds that more than just aspects of preservation need to be encompassed by whatever term is used. The terms digital curation and digital stewardship have been proposed and are gaining acceptance because they describe more than just preservation, referring also to ‘the creation, collection, organization [and] dissemination’ of digital objects (Bastian, Cloonan and Harvey 2011, p.609).
+
+# Change of the nature of the data stored
+
+Not only books or journals but also data sets:
+> Librarians manage hybrid libraries, consisting of both physical collections and distributed digital information resources, and digital libraries. Other stakeholders with a keen inter- est in digital preservation manage digital information in specific subject areas, such as geospatial data or social science data. In the past this material, where it existed, was maintained as collections of paper and other physical objects. The practices developed and applied in libraries and archives are still largely based on managing physical collections and cannot be applied automatically to managing digital collections.
+
+Use of datasets: visualisation, aggregating, calculation
+
+# Change of structure in physical media.
+Benign neglect cannot be applied anymore:
+> The phrase benign neglect provides an example of a concept that is helpful in the pre-digital preservation paradigm but is harmful in the new. It refers to the concept that many informa- tion carriers made of organic materials (most notably paper-based artifacts) will not deteriorate rapidly if they are left undisturbed. For digital materials this concept is positively harmful.
+
+> The old paradigm does not, however, engender an understanding of the complexity of copying – which is more than simply preserving a bit-stream, but must take account of a wide range of other attributes of the digital object that also need to be preserved. (p. 12)
+
+pp. 17-18
+
+> Other concepts need to be accommodated by the new definitions. For digital materials ‘their preservation must be an integral element of the initial design of systems and projects’ (Ross, 2000, p.13), but this is not usually the case. Digital materials exist in a bewilderingly large number of formats; there is still little standardization. The most significant concept is that the preservation of digital materials is much more than the preservation of information content or physical carrier:>> it is about preserving the intellectual integrity of information objects, including capturing information about the various contexts within which information is created, organized, and used; organic relationships with other information objects; and characteristics that provide meaning and evidential value (Gilliland-Swetland, 2000, p.29).
+> Preserving the original bit-stream is only one part of the problem; equally im- portant is the requirement to preserve ‘the means of interpreting, reading and utilizing the bit stream’ (Deegan and Tanner, 2002).
+-> Deegan, M. and Tanner, S. (2002) The digital dark ages. Update, May-> Deegan, M. and Tanner, S. (eds) (2006) Digital preservation. London: Facet
+
+# Changes in the availability
+
+‘technology tends to erase distinctions between the separate processes of creation, reproduction and distribution that characterize the classic industrial model of print commodities’ (Nurnberg, 1995, p.21). -> [Nurnberg, G. (1995) The places of books in the age of electronic reproduction. In *Future libraries*, ed. R.H. Bloch and C.A. Hesse, pp.13-37. Berkeley: University of California Press] >>> 
+“This has significant implications for preservation, especially in terms of who takes responsibility for it and at what stage preservation actions are first applied. For instance, in the industrial-mode print world, acquiring the artifact – the book – so that it could be preserved occurred by means such as legal deposit legislation, requiring publishers to provide copies to libraries for preservation and other purposes. If the creator is now also the publisher and distributor, as is often the case in the digital world, who has the responsibility of acquiring the information?
+[developed later]”
+
+# Why preserve digital material 
+
+> Preservation is based on the notion that, because man learns from the past,  ‘evidence of the past therefore has considerable signifcance to the human race and is worth saving’ (Harvey, 1993, p.6).
+
+
+
+—
+
+
+——
+
+"We don't know where this Internet is going, and once we get there it will be very instructive to look back."
+
+Donald Heath, president of the Internet Society in Reston, Virginia (quoted in https://archive.org/about/)

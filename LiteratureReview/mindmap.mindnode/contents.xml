@@ -1,0 +1,3639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string></string>
+	<key>comments</key>
+	<string></string>
+	<key>isUsingConstrainedLayout</key>
+	<true/>
+	<key>keywords</key>
+	<string></string>
+	<key>mindMap</key>
+	<dict>
+		<key>associations</key>
+		<array>
+			<dict>
+				<key>endArrow</key>
+				<integer>2</integer>
+				<key>endNodeID</key>
+				<string>DD738B1F-1473-4550-A42D-F0F2A66263CA</string>
+				<key>startArrow</key>
+				<integer>0</integer>
+				<key>startNodeID</key>
+				<string>54ADB329-FCB6-4C29-AE40-232E71231AB9</string>
+				<key>strokeColor</key>
+				<string>{0.000, 0.378, 0.757, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>3</integer>
+				<key>strokeWidth</key>
+				<real>1</real>
+				<key>wayPointOffset</key>
+				<string>{-116.267, 209.731}</string>
+			</dict>
+			<dict>
+				<key>endArrow</key>
+				<integer>2</integer>
+				<key>endNodeID</key>
+				<string>2DEADA37-FA60-42AB-9C59-C9625A831D58</string>
+				<key>startArrow</key>
+				<integer>0</integer>
+				<key>startNodeID</key>
+				<string>74FD9E0F-AFAA-4F23-A5F1-B880A68843AD</string>
+				<key>strokeColor</key>
+				<string>{0.000, 0.378, 0.757, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>3</integer>
+				<key>strokeWidth</key>
+				<real>1</real>
+				<key>wayPointOffset</key>
+				<string>{80.4829, 217.981}</string>
+			</dict>
+			<dict>
+				<key>endArrow</key>
+				<integer>2</integer>
+				<key>endNodeID</key>
+				<string>855BB467-910D-4EB3-B5B5-AA03BE8A70A1</string>
+				<key>startArrow</key>
+				<integer>0</integer>
+				<key>startNodeID</key>
+				<string>5F30FF1D-BA78-4FD0-9DA0-F4E9D36E44BB</string>
+				<key>strokeColor</key>
+				<string>{0.000, 0.378, 0.757, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>3</integer>
+				<key>strokeWidth</key>
+				<real>1</real>
+				<key>wayPointOffset</key>
+				<string>{133, 480.75}</string>
+			</dict>
+			<dict>
+				<key>endArrow</key>
+				<integer>1</integer>
+				<key>endNodeID</key>
+				<string>C9689EFC-6414-428B-91E7-034B57574F5A</string>
+				<key>startArrow</key>
+				<integer>0</integer>
+				<key>startNodeID</key>
+				<string>55E47D5E-4C25-457E-84A4-132D3110FED7</string>
+				<key>strokeColor</key>
+				<string>{0.000, 0.378, 0.757, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>3</integer>
+				<key>strokeWidth</key>
+				<real>1</real>
+				<key>wayPointOffset</key>
+				<string>{774.365, 49.6922}</string>
+			</dict>
+		</array>
+		<key>color</key>
+		<string>{0.023, 0.126, 0.160, 1.000}</string>
+		<key>mainNodes</key>
+		<array>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{0.046, 0.163, 0.198, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{-697.56205230850674, -370.73463894915477}</string>
+				<key>nodeID</key>
+				<string>69E0E359-6C75-44D6-87B5-8988EEB67E8D</string>
+				<key>strokeColor</key>
+				<string>{0.192, 0.286, 0.318, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-939.56205230850674, -972.73463894915471}</string>
+						<key>nodeID</key>
+						<string>91AE9EB8-292F-4188-9694-22BC174E8FE3</string>
+						<key>strokeColor</key>
+						<string>{0.710, 0.537, 0.000, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1080.5620523085067, -1036.7346389491547}</string>
+								<key>nodeID</key>
+								<string>3A335E21-EEAD-4377-B51E-2F51CAC9A35D</string>
+								<key>strokeColor</key>
+								<string>{0.710, 0.537, 0.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1442.5620523085067, -1172.7346389491547}</string>
+										<key>nodeID</key>
+										<string>37CAF396-D59A-4F6A-8F61-C55082AB4FC8</string>
+										<key>strokeColor</key>
+										<string>{0.710, 0.537, 0.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;When materials are treated, the treatments should, when possible, be reversible&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 When materials are treated, the treatments should, when possible, be reversible}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1421.5620523085067, -1124.7346389491547}</string>
+										<key>nodeID</key>
+										<string>535335D0-4E7F-4963-86BA-A09F9CA16C80</string>
+										<key>strokeColor</key>
+										<string>{0.710, 0.537, 0.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Whenever possible or appropriate, the originals should be preserved; only materials that are untreatable should be reformatted&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Whenever possible or appropriate, the originals should be preserved; only materials that are untreatable should be reformatted}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1442.5620523085067, -1060.7346389491547}</string>
+										<key>nodeID</key>
+										<string>FD2FF05D-51F9-4206-9868-4CAC32CEEC88</string>
+										<key>strokeColor</key>
+										<string>{0.710, 0.537, 0.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Library materials should be preserved for as long as possible&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Library materials should be preserved for as long as possible}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1436.5620523085067, -1012.7346389491547}</string>
+										<key>nodeID</key>
+										<string>A6C191B7-0F55-442D-8ADC-E482A3AFD164</string>
+										<key>strokeColor</key>
+										<string>{0.710, 0.537, 0.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Efforts should be put into preventive conservation, and aimed at providing&lt;/p&gt;&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;appropriate storage and handling of artifacts&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Efforts should be put into preventive conservation, and aimed at providing\
+appropriate storage and handling of artifacts}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1438.5620523085067, -948.73463894915471}</string>
+										<key>nodeID</key>
+										<string>5F30FF1D-BA78-4FD0-9DA0-F4E9D36E44BB</string>
+										<key>strokeColor</key>
+										<string>{0.710, 0.537, 0.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Benign neglect may be the best treatment (derived from Cloonan (1993,&lt;/p&gt;&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;p.596), Harvey (1993, pp.14,140), and Bastian, Cloonan and Harvey (2011, pp.612-613)).&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Benign neglect may be the best treatment (derived from Cloonan (1993,\
+p.596), Harvey (1993, pp.14,140), and Bastian, Cloonan and Harvey (2011, pp.612-613)).}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Harvey, p.10&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Harvey, p.10}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1111.5620523085067, -820.73463894915471}</string>
+								<key>nodeID</key>
+								<string>60B991EC-5D28-4906-9E21-3C4AB5155E63</string>
+								<key>strokeColor</key>
+								<string>{0.710, 0.537, 0.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1473.5620523085067, -868.73463894915471}</string>
+										<key>nodeID</key>
+										<string>5DC228C9-1636-41C5-A4D1-3C10460CA3AF</string>
+										<key>strokeColor</key>
+										<string>{0.710, 0.537, 0.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;“In library and recordkeeping practice we are moving rapidly from collection-based models, whose principles and practices have been developed over many centuries, to models where collections are not of paramount importance and where what matters is the extent of access provided to information resources” (Harvey p10)&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \'93In library and recordkeeping practice we are moving rapidly from collection-based models, whose principles and practices have been developed over many centuries, to models where collections are not of paramount importance and where what matters is the extent of access provided to information resources\'94 (Harvey p10)}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Change of models&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Change of models}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Defining pre-digital paradigms&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Defining pre-digital paradigms}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-872.56205230850674, -396.73463894915471}</string>
+						<key>nodeID</key>
+						<string>43CDE357-01A2-41D5-ADAA-954BBC6E22D0</string>
+						<key>strokeColor</key>
+						<string>{0.863, 0.196, 0.184, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1234.5620523085067, -508.73463894915471}</string>
+								<key>nodeID</key>
+								<string>75F1FA1C-F6EE-4AD1-9C3B-84A23D2EAF6A</string>
+								<key>strokeColor</key>
+								<string>{0.863, 0.196, 0.184, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1595.5620523085067, -740.73463894915471}</string>
+										<key>nodeID</key>
+										<string>3EE53987-499B-4171-A319-DFB4D0FDD167</string>
+										<key>strokeColor</key>
+										<string>{0.863, 0.196, 0.184, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;“&amp;gt; Debate has continued about whether digital preservation sufficiently describes what needs to occur for digital materials to be accessible over time, on the grounds that more than just aspects of preservation need to be encompassed by whatever term is used. The terms digital curation and digital stewardship have been proposed and are gaining acceptance because they describe more than just preservation, referring also to ‘the creation, collection, organization [and] dissemination’ of digital objects” (Bastian, Cloonan and Harvey 2011, p.609). Quoted by Harvey&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \'93&gt; Debate has continued about whether digital preservation sufficiently describes what needs to occur for digital materials to be accessible over time, on the grounds that more than just aspects of preservation need to be encompassed by whatever term is used. The terms digital curation and digital stewardship have been proposed and are gaining acceptance because they describe more than just preservation, referring also to \'91the creation, collection, organization [and] dissemination\'92 of digital objects\'94 (Bastian, Cloonan and Harvey 2011, p.609). Quoted by Harvey}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1589.5620523085067, -532.73463894915471}</string>
+										<key>nodeID</key>
+										<string>46496A09-9412-4354-AF6F-F666CD5AA81C</string>
+										<key>strokeColor</key>
+										<string>{0.863, 0.196, 0.184, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;“Definitions of preservation provided by survey re- spondents, Cloonan and Sanett (2002, p.85) concluded, ‘demonstrate a shift taking place from defining preservation as a once-and-forever approach for paper-based materials, to an all-the-time approach for digital materials’. This shift implies an acceptance that preservation may even begin before a record has been created.” (Harvey)&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \'93Definitions of preservation provided by survey re- spondents, Cloonan and Sanett (2002, p.85) concluded, \'91demonstrate a shift taking place from defining preservation as a once-and-forever approach for paper-based materials, to an all-the-time approach for digital materials\'92. This shift implies an acceptance that preservation may even begin before a record has been created.\'94 (Harvey)}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1596.5620523085067, -388.73463894915471}</string>
+										<key>nodeID</key>
+										<string>5648AD34-618D-4F38-B88E-0F7A5D3A5969</string>
+										<key>strokeColor</key>
+										<string>{0.863, 0.196, 0.184, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;“It is clear that professionals are revising their definitions of preservation from a once- and-forever approach for paper-based materials to an all-the-time approach for digital materials. Preservation must now accommodate both media and access systems ... while we once tended to think about preserving materials for a particular period of time – for example, permanent/durable paper was expected to last for five hundred years – we now think about retaining digital media for a period of continuing value (Cloonan and Sanett, 2002, p.93).&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \'93It is clear that professionals are revising their definitions of preservation from a once- and-forever approach for paper-based materials to an all-the-time approach for digital materials. Preservation must now accommodate both media and access systems ... while we once tended to think about preserving materials for a particular period of time \'96 for example, permanent/durable paper was expected to last for five hundred years \'96 we now think about retaining digital media for a period of continuing value (Cloonan and Sanett, 2002, p.93).}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt; Interviewees expressed dissatisfaction with the term digital preservation, sug- gesting that other terms such as long-term retention are more suitable (Cloonan and Sanett, 2002, p.74).&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2  Interviewees expressed dissatisfaction with the term digital preservation, sug- gesting that other terms such as long-term retention are more suitable (Cloonan and Sanett, 2002, p.74).}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1035.5620523085067, -124.73463894915471}</string>
+								<key>nodeID</key>
+								<string>8B1F1967-392B-48CC-B304-59CEF180D44F</string>
+								<key>strokeColor</key>
+								<string>{0.863, 0.196, 0.184, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1530.5620523085067, -196.73463894915471}</string>
+										<key>nodeID</key>
+										<string>CCA5ADE0-CB7D-4F37-9017-B479EECA73B0</string>
+										<key>strokeColor</key>
+										<string>{0.863, 0.196, 0.184, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>433</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Land of the Lost p3: “n the same way that a book is composed of many pages, a digital object may be composed of many smaller parts. For example, a web site can be thought of as a single digital object, but each of the individual HTML files and image files can also be thought of as individual digital objects. Not only must the dependencies for each individual part be accounted for, but the relationships between each component part must also be maintained, in order to preserve the context of the original.”&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Land of the Lost p3: \'93n the same way that a book is composed of many pages, a digital object may be composed of many smaller parts. For example, a web site can be thought of as a single digital object, but each of the individual HTML files and image files can also be thought of as individual digital objects. Not only must the dependencies for each individual part be accounted for, but the relationships between each component part must also be maintained, in order to preserve the context of the original.\'94}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1514.5620523085067, -68.734638949154714}</string>
+										<key>nodeID</key>
+										<string>E5E8B180-A284-4404-B0AF-25B4C35D7ACC</string>
+										<key>strokeColor</key>
+										<string>{0.863, 0.196, 0.184, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>433</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Hierarchical objects = ‘Compound Objects’, or ‘Representations’ (PREMIS Editorial Committee 2008).&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Hierarchical objects = \'91Compound Objects\'92, or \'91Representations\'92 (PREMIS Editorial Committee 2008).}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>433</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;“Digital objects”&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \'93Digital objects\'94}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Definition of terms&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Definition of terms}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-363.56205230850674, -340.73463894915477}</string>
+						<key>nodeID</key>
+						<string>EA07ED52-F4C8-4021-9761-1C3E8BE426D8</string>
+						<key>strokeColor</key>
+						<string>{0.149, 0.545, 0.824, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-189.56205230850674, -468.73463894915477}</string>
+								<key>nodeID</key>
+								<string>1044B0B9-71FE-4600-B43A-5AF78268C7D5</string>
+								<key>strokeColor</key>
+								<string>{0.149, 0.545, 0.824, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{-68.562052308506736, -484.73463894915477}</string>
+										<key>nodeID</key>
+										<string>9D980CFD-A67F-4E46-AA0A-0CB558F50177</string>
+										<key>strokeColor</key>
+										<string>{0.149, 0.545, 0.824, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Data visualisation&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Data visualisation}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{-68.562052308506736, -452.73463894915477}</string>
+										<key>nodeID</key>
+										<string>447BD308-7D93-4B5B-872A-5C7AA5BF6992</string>
+										<key>strokeColor</key>
+										<string>{0.149, 0.545, 0.824, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Aggregation&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Aggregation}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Datasets&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Datasets}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-189.56205230850674, -420.73463894915477}</string>
+								<key>nodeID</key>
+								<string>40A91016-5348-4657-A2E4-94075FC18BEB</string>
+								<key>strokeColor</key>
+								<string>{0.149, 0.545, 0.824, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Research&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Research}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-189.56205230850674, -292.73463894915477}</string>
+								<key>nodeID</key>
+								<string>A2713805-AFC5-490E-A9ED-230EF75038D9</string>
+								<key>strokeColor</key>
+								<string>{0.149, 0.545, 0.824, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{-30.562052308506736, -388.73463894915477}</string>
+										<key>nodeID</key>
+										<string>89A1D880-CA95-4624-B9DF-6F98264B7EF5</string>
+										<key>strokeColor</key>
+										<string>{0.149, 0.545, 0.824, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;“Librarians manage hybrid libraries, consisting of both physical collections and distributed digital information resources, and digital libraries. Other stakeholders with a keen inter- est in digital preservation manage digital information in specific subject areas, such as geospatial data or social science data. In the past this material, where it existed, was maintained as collections of paper and other physical objects. The practices developed and applied in libraries and archives are still largely based on managing physical collections and cannot be applied automatically to managing digital collections.” (Harvey)&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \'93Librarians manage hybrid libraries, consisting of both physical collections and distributed digital information resources, and digital libraries. Other stakeholders with a keen inter- est in digital preservation manage digital information in specific subject areas, such as geospatial data or social science data. In the past this material, where it existed, was maintained as collections of paper and other physical objects. The practices developed and applied in libraries and archives are still largely based on managing physical collections and cannot be applied automatically to managing digital collections.\'94 (Harvey)}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Hybrid libraries&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Hybrid libraries}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Nature of the data&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Nature of the data}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-921.56205230850674, 235.26536105084529}</string>
+						<key>nodeID</key>
+						<string>560CE582-2C75-4D0B-80FB-B5B7F1CEDCCF</string>
+						<key>strokeColor</key>
+						<string>{0.165, 0.631, 0.596, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1076.5620523085067, 35.265361050845286}</string>
+								<key>nodeID</key>
+								<string>855BB467-910D-4EB3-B5B5-AA03BE8A70A1</string>
+								<key>strokeColor</key>
+								<string>{0.165, 0.631, 0.596, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1437.5620523085067, -20.734638949154714}</string>
+										<key>nodeID</key>
+										<string>62CB1444-AED7-435F-AE9E-E73577A008F0</string>
+										<key>strokeColor</key>
+										<string>{0.165, 0.631, 0.596, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;“The phrase benign neglect provides an example of a concept that is helpful in the pre-digital preservation paradigm but is harmful in the new. It refers to the concept that many informa- tion carriers made of organic materials (most notably paper-based artifacts) will not deteriorate rapidly if they are left undisturbed. For digital materials this concept is positively harmful.” (Harvey p. ~11)&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \'93The phrase benign neglect provides an example of a concept that is helpful in the pre-digital preservation paradigm but is harmful in the new. It refers to the concept that many informa- tion carriers made of organic materials (most notably paper-based artifacts) will not deteriorate rapidly if they are left undisturbed. For digital materials this concept is positively harmful.\'94 (Harvey p. ~11)}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Benign neglect&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Benign neglect}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1046.5620523085067, 195.26536105084529}</string>
+								<key>nodeID</key>
+								<string>7D7F8C14-0F56-4C35-8D00-5D5DE9F2F199</string>
+								<key>strokeColor</key>
+								<string>{0.165, 0.631, 0.596, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1194.5620523085067, 179.26536105084529}</string>
+										<key>nodeID</key>
+										<string>32B09AAD-747F-42CF-BFB2-98BA3A55AB23</string>
+										<key>strokeColor</key>
+										<string>{0.165, 0.631, 0.596, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-1556.5620523085067, 123.26536105084529}</string>
+												<key>nodeID</key>
+												<string>2EB5F873-A7EA-4B7F-A667-A8C254E6BBF9</string>
+												<key>strokeColor</key>
+												<string>{0.165, 0.631, 0.596, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;it is about preserving the intellectual integrity of information objects, including capturing information about the various contexts within which information is created, organized, and used; organic relationships with other information objects; and characteristics that provide meaning and evidential value (Gilliland-Swetland, 2000, p.29).&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 it is about preserving the intellectual integrity of information objects, including capturing information about the various contexts within which information is created, organized, and used; organic relationships with other information objects; and characteristics that provide meaning and evidential value (Gilliland-Swetland, 2000, p.29).}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Relationships&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Relationships}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1162.5620523085067, 267.26536105084529}</string>
+										<key>nodeID</key>
+										<string>04374CC6-B7FD-4843-AE76-BCB2A8C16764</string>
+										<key>strokeColor</key>
+										<string>{0.165, 0.631, 0.596, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Context&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Context}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Metadata&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Metadata}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1092.5620523085067, 395.26536105084529}</string>
+								<key>nodeID</key>
+								<string>89C55772-7EBA-45BC-9CA4-6FC0A2E4C5C7</string>
+								<key>strokeColor</key>
+								<string>{0.165, 0.631, 0.596, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1256.5620523085067, 299.26536105084529}</string>
+										<key>nodeID</key>
+										<string>74FD9E0F-AFAA-4F23-A5F1-B880A68843AD</string>
+										<key>strokeColor</key>
+										<string>{0.165, 0.631, 0.596, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Physical formats&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Physical formats}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1260.5620523085067, 331.26536105084529}</string>
+										<key>nodeID</key>
+										<string>54ADB329-FCB6-4C29-AE40-232E71231AB9</string>
+										<key>strokeColor</key>
+										<string>{0.165, 0.631, 0.596, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Software formats&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Software formats}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1454.5620523085067, 363.26536105084529}</string>
+										<key>nodeID</key>
+										<string>5591B834-2552-4478-B891-06957263351F</string>
+										<key>strokeColor</key>
+										<string>{0.165, 0.631, 0.596, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;or digital materials ‘their preservation must be an integral element of the initial design of systems and projects’ (Ross, 2000, p.13), but this is not usually the case. Digital materials exist in a bewilderingly large number of formats; there is still little standardization. The most significant concept is that the preservation of digital materials is much more than the preservation of information content or physical carrier&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 or digital materials \'91their preservation must be an integral element of the initial design of systems and projects\'92 (Ross, 2000, p.13), but this is not usually the case. Digital materials exist in a bewilderingly large number of formats; there is still little standardization. The most significant concept is that the preservation of digital materials is much more than the preservation of information content or physical carrier}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Changing formats&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Changing formats}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Structure of physical media&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Structure of physical media}</string>
+						</dict>
+					</dict>
+				</array>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(252, 246, 226, 1.000000); font: bold 24px "National"; text-align: left; -cocoa-font-postscriptname: "National-Bold"; '&gt;Defining digital preservation paradigms&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Regular;}
+{\colortbl;\red255\green255\blue255;\red253\green246\blue227;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs48 \cf2 Defining digital preservation paradigms}</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{0.046, 0.163, 0.198, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{-48.866464338066407, 831.61177716135558}</string>
+				<key>nodeID</key>
+				<string>F176EE57-D152-44BB-A642-B5ADD79B8F64</string>
+				<key>strokeColor</key>
+				<string>{0.192, 0.286, 0.318, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-160.86646433806641, 831.11177716135558}</string>
+						<key>nodeID</key>
+						<string>53B222CA-7BBF-41B9-9D6F-748D52603D88</string>
+						<key>strokeColor</key>
+						<string>{0.710, 0.537, 0.000, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-338.86646433806641, 551.11177716135558}</string>
+								<key>nodeID</key>
+								<string>29745FB4-26CE-499B-81A3-1BF973ACB543</string>
+								<key>strokeColor</key>
+								<string>{0.710, 0.537, 0.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Humankind history&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Humankind history}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-285.86646433806641, 743.11177716135558}</string>
+								<key>nodeID</key>
+								<string>D051FC47-820E-4761-BA1A-B4C39076D33A</string>
+								<key>strokeColor</key>
+								<string>{0.710, 0.537, 0.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-443.86646433806641, 727.11177716135558}</string>
+										<key>nodeID</key>
+										<string>95B5972C-B08D-439C-9C6A-52CA7C56816E</string>
+										<key>strokeColor</key>
+										<string>{0.710, 0.537, 0.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-649.86646433806641, 599.11177716135558}</string>
+												<key>nodeID</key>
+												<string>59CAFA94-1BB6-420C-91A2-E5C2913C1D31</string>
+												<key>strokeColor</key>
+												<string>{0.710, 0.537, 0.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<true/>
+														<key>location</key>
+														<string>{-762.86646433806641, 583.11177716135558}</string>
+														<key>nodeID</key>
+														<string>10787A04-E379-41F0-9C2D-6790D929EBB1</string>
+														<key>strokeColor</key>
+														<string>{0.710, 0.537, 0.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Culture&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Culture}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<true/>
+														<key>location</key>
+														<string>{-850.86646433806641, 615.11177716135558}</string>
+														<key>nodeID</key>
+														<string>8689D724-85CD-489B-9D44-5A4309EFCD12</string>
+														<key>strokeColor</key>
+														<string>{0.710, 0.537, 0.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;C PaloqueBerges thesis&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 C PaloqueBerges thesis}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Boards and pre-Internet&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Boards and pre-Internet}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-601.86646433806641, 695.11177716135558}</string>
+												<key>nodeID</key>
+												<string>32DC92DD-2397-4421-9EFF-225A925AC7F2</string>
+												<key>strokeColor</key>
+												<string>{0.710, 0.537, 0.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<true/>
+														<key>location</key>
+														<string>{-719.86646433806641, 647.11177716135558}</string>
+														<key>nodeID</key>
+														<string>2BB50F4A-EFF2-419B-A94D-19686BB6F4D8</string>
+														<key>strokeColor</key>
+														<string>{0.710, 0.537, 0.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Memes?&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Memes?}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<true/>
+														<key>location</key>
+														<string>{-819.86646433806641, 679.11177716135558}</string>
+														<key>nodeID</key>
+														<string>ACEFDC70-193E-4334-B0EF-D626279F96ED</string>
+														<key>strokeColor</key>
+														<string>{0.710, 0.537, 0.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;MSN, MySpace, Geocities?&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 MSN, MySpace, Geocities?}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<true/>
+														<key>location</key>
+														<string>{-761.86646433806641, 711.11177716135558}</string>
+														<key>nodeID</key>
+														<string>F4A47FE0-1572-47EF-84C2-870DEBF20CAA</string>
+														<key>strokeColor</key>
+														<string>{0.710, 0.537, 0.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Social networks&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Social networks}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<false/>
+														<key>isLeftAligned</key>
+														<true/>
+														<key>location</key>
+														<string>{-809.86646433806641, 743.11177716135558}</string>
+														<key>nodeID</key>
+														<string>BB9BB7F4-5659-42FB-AC53-71542869E077</string>
+														<key>strokeColor</key>
+														<string>{0.710, 0.537, 0.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;D Boyd: It&amp;apos;s Complicated&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 D Boyd: It's Complicated}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Popular culture&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Popular culture}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-798.86646433806641, 775.11177716135558}</string>
+												<key>nodeID</key>
+												<string>4BA61E3C-3032-400C-B612-B35DBCEDA801</string>
+												<key>strokeColor</key>
+												<string>{0.710, 0.537, 0.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;&amp;quot;We don&amp;apos;t know where this Internet is going, and once we get there it will be very instructive to look back.&amp;quot;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; -cocoa-font-postscriptname: "National-Book"; '&gt;Donald Heath, president of the Internet Society in Reston, Virginia (quoted in &lt;/span&gt;&lt;a style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; -cocoa-font-postscriptname: "National-Book"; ' href='https://archive.org/about/'&gt;https://archive.org/about/&lt;/a&gt;&lt;span style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; -cocoa-font-postscriptname: "National-Book"; '&gt;)&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 "We don't know where this Internet is going, and once we get there it will be very instructive to look back."\
+\
+Donald Heath, president of the Internet Society in Reston, Virginia (quoted in {\field{\*\fldinst{HYPERLINK "https://archive.org/about/"}}{\fldrslt https://archive.org/about/}})}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Internet history&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Internet history}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-469.86646433806641, 903.11177716135558}</string>
+										<key>nodeID</key>
+										<string>12F05EBB-4ECA-40D9-8BE8-949EBE3E7369</string>
+										<key>strokeColor</key>
+										<string>{0.710, 0.537, 0.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-639.86646433806641, 903.11177716135558}</string>
+												<key>nodeID</key>
+												<string>94D823CE-0795-4DCE-8442-6832E377F63B</string>
+												<key>strokeColor</key>
+												<string>{0.710, 0.537, 0.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;&amp;gt;Two Bits chapter&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 &gt;Two Bits chapter}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Open source history&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Open source history}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;IT History&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 IT History}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-418.86646433806641, 1023.1117771613556}</string>
+								<key>nodeID</key>
+								<string>C9689EFC-6414-428B-91E7-034B57574F5A</string>
+								<key>strokeColor</key>
+								<string>{0.710, 0.537, 0.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-780.86646433806641, 935.11177716135558}</string>
+										<key>nodeID</key>
+										<string>7999BADB-1E9C-4165-A1BA-2C6405E31CCE</string>
+										<key>strokeColor</key>
+										<string>{0.710, 0.537, 0.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Land of the lost p2: “For those objects that carry information, the external factors which affect the object are not only environmental, but in some instances also intellectual. For example, such as when the language in which the information conveyed by an artefact is no longer commonly spoken. In these cases, even though duplicating the object may be enough to prevent the degradation of the information it carries, it may not be enough to preserve the meaning of that information. It may be necessary to preserve the meaning or ‘gist’ of the information via interpretation or translation.”&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Land of the lost p2: \'93For those objects that carry information, the external factors which affect the object are not only environmental, but in some instances also intellectual. For example, such as when the language in which the information conveyed by an artefact is no longer commonly spoken. In these cases, even though duplicating the object may be enough to prevent the degradation of the information it carries, it may not be enough to preserve the meaning of that information. It may be necessary to preserve the meaning or \'91gist\'92 of the information via interpretation or translation.\'94}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Language and script preservation&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Language and script preservation}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;History&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 History}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{247.13353566193359, 831.11177716135558}</string>
+						<key>nodeID</key>
+						<string>D9B9AFB1-8B1D-45B8-85E0-FC2B8FC6420C</string>
+						<key>strokeColor</key>
+						<string>{0.863, 0.196, 0.184, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{394.13353566193359, 815.11177716135558}</string>
+								<key>nodeID</key>
+								<string>8F81FDF7-07C1-4182-AC0B-D5CC509B3015</string>
+								<key>strokeColor</key>
+								<string>{0.863, 0.196, 0.184, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Learn from the past&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Learn from the past}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{394.13353566193359, 847.11177716135558}</string>
+								<key>nodeID</key>
+								<string>327ADCFF-26C1-4500-9375-28BAB6F132C4</string>
+								<key>strokeColor</key>
+								<string>{0.863, 0.196, 0.184, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Duty to preserve history (Harvey 1993)&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Duty to preserve history (Harvey 1993)}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Philosophical&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Philosophical}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{247.13353566193359, 879.11177716135558}</string>
+						<key>nodeID</key>
+						<string>09FCED7A-EB0E-4C4F-B637-170F2D7A5A13</string>
+						<key>strokeColor</key>
+						<string>{0.149, 0.545, 0.824, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Research&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Research}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>hasFoldedSubnodes</key>
+						<true/>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-321.86646433806641, 1143.1117771613556}</string>
+						<key>nodeID</key>
+						<string>7FD90887-E23D-475A-ADF5-AE29E5FD5AB4</string>
+						<key>strokeColor</key>
+						<string>{0.165, 0.631, 0.596, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-683.86646433806641, 880.11177716135558}</string>
+								<key>nodeID</key>
+								<string>1DD39E10-9100-43D8-9270-2F393B10DD8E</string>
+								<key>strokeColor</key>
+								<string>{0.165, 0.631, 0.596, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(255, 248, 228, 1.000000); font: 12px "Lucida Grande"; -cocoa-font-postscriptname: "LucidaGrande"; '&gt;“&lt;/span&gt;&lt;span style='color: rgba(255, 248, 228, 1.000000); font: 13px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;Modern information technology has brought about quantum leaps to the world in many ways. Space and time no longer hinder the dis- tribution of information, the user has free choice of the information medium and the quantity of information is virtually unlimited. How- ever, one problem not only remains unsolved, the current solution is in fact worse than in previous ages: the long-term archival storage or long-term availability of electronic documents. In fact there has been a negative development in this area over centuries. Medieval documents on parchment have been shown to have been preserved for thousands of years. This was then replaced by rag paper – a medium whose dura- bility is limited to centuries, followed by the acidic industrial paper of the 19th and 20th centuries which is a cause of much concern today due to its brittleness. Finally, in the digital age our information media are said to have a life expectancy of decades at the most, generally only of years. The long-term archival storage of electronic documents has become a problem which is only increased by the fact that it is gener- ally met with indifference. The modern world is dominated by the idea that today’s knowledge overwrites yesterday’s knowledge. In the digital age, mankind is in the process of losing its historical dimension. This is an alarming development and shakes at the foundations of one of the central pillars of our culture.&lt;/span&gt;&lt;span style='color: rgba(255, 248, 228, 1.000000); font: 12px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;” (&lt;/span&gt;&lt;span style='color: rgba(255, 248, 228, 1.000000); font: 13px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;Dr. Hermann Leskien Former General Director of the Bavarian State Library, Munich, Germany&lt;/span&gt;&lt;span style='color: rgba(255, 248, 228, 1.000000); font: 12px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt; — foreword in Long-Term Preservation of Digital Documents page V)&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 LucidaGrande;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \cf2 \'93
+\f1\fs26 Modern information technology has brought about quantum leaps to the world in many ways. Space and time no longer hinder the dis- tribution of information, the user has free choice of the information medium and the quantity of information is virtually unlimited. How- ever, one problem not only remains unsolved, the current solution is in fact worse than in previous ages: the long-term archival storage or long-term availability of electronic documents. In fact there has been a negative development in this area over centuries. Medieval documents on parchment have been shown to have been preserved for thousands of years. This was then replaced by rag paper \'96 a medium whose dura- bility is limited to centuries, followed by the acidic industrial paper of the 19th and 20th centuries which is a cause of much concern today due to its brittleness. Finally, in the digital age our information media are said to have a life expectancy of decades at the most, generally only of years. The long-term archival storage of electronic documents has become a problem which is only increased by the fact that it is gener- ally met with indifference. The modern world is dominated by the idea that today\'92s knowledge overwrites yesterday\'92s knowledge. In the digital age, mankind is in the process of losing its historical dimension. This is an alarming development and shakes at the foundations of one of the central pillars of our culture.
+\fs24 \'94 (
+\fs26 Dr. Hermann Leskien Former General Director of the Bavarian State Library, Munich, Germany
+\fs24  \'97 foreword in Long-Term Preservation of Digital Documents page V)}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-811.86646433806641, 1374.1117771613556}</string>
+								<key>nodeID</key>
+								<string>F932ED42-E90A-4654-A7E0-0E7EF021D694</string>
+								<key>strokeColor</key>
+								<string>{0.165, 0.631, 0.596, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>433</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Heslop et al. (2002), it is unrealistic to expect the original machines and software used to access one particular presentation of the digital object to last in perpetuity. (cited in LotL p6)&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Heslop et al. (2002), it is unrealistic to expect the original machines and software used to access one particular presentation of the digital object to last in perpetuity. (cited in LotL p6)}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Fast decay of preservation mediums&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Fast decay of preservation mediums}</string>
+						</dict>
+					</dict>
+				</array>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(252, 246, 226, 1.000000); font: bold 24px "National"; text-align: left; -cocoa-font-postscriptname: "National-Bold"; '&gt;Reasons to preserve&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Regular;}
+{\colortbl;\red255\green255\blue255;\red253\green246\blue227;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs48 \cf2 Reasons to preserve}</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{0.046, 0.163, 0.198, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{-1325.0969572667975, 735.22746322970806}</string>
+				<key>nodeID</key>
+				<string>663A73D3-631A-4B5A-84C0-1C4AF0052B16</string>
+				<key>strokeColor</key>
+				<string>{0.192, 0.286, 0.318, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-1071.0969572667975, 735.22746322970806}</string>
+						<key>nodeID</key>
+						<string>2DEADA37-FA60-42AB-9C59-C9625A831D58</string>
+						<key>strokeColor</key>
+						<string>{0.710, 0.537, 0.000, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Medium&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Medium}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-1493.0969572667975, 750.72746322970806}</string>
+						<key>nodeID</key>
+						<string>DD738B1F-1473-4550-A42D-F0F2A66263CA</string>
+						<key>strokeColor</key>
+						<string>{0.863, 0.196, 0.184, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1748.0969572667975, 542.72746322970806}</string>
+								<key>nodeID</key>
+								<string>16A727A2-8EF1-4422-BC84-3241BB707FAD</string>
+								<key>strokeColor</key>
+								<string>{0.863, 0.196, 0.184, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-2110.0969572667973, 369.72746322970806}</string>
+										<key>nodeID</key>
+										<string>89691D22-DC81-4D55-89DD-A21A93063808</string>
+										<key>strokeColor</key>
+										<string>{0.863, 0.196, 0.184, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;“The old paradigm does not, however, engender an understanding of the complexity of copying – which is more than simply preserving a bit-stream, but must take account of a wide range of other attributes of the digital object that also need to be preserved. (Harvey DR p. 12)”&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \'93The old paradigm does not, however, engender an understanding of the complexity of copying \'96 which is more than simply preserving a bit-stream, but must take account of a wide range of other attributes of the digital object that also need to be preserved. (Harvey DR p. 12)\'94}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-2110.0969572667973, 481.72746322970806}</string>
+										<key>nodeID</key>
+										<string>00CBDA24-A716-4060-BA96-00287C3F6A39</string>
+										<key>strokeColor</key>
+										<string>{0.863, 0.196, 0.184, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;-&amp;gt; Deegan, M. and Tanner, S. (2002) The digital dark ages. Update, May&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 -&gt; Deegan, M. and Tanner, S. (2002) The digital dark ages. Update, May}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-2094.0969572667973, 529.72746322970806}</string>
+										<key>nodeID</key>
+										<string>159C4CAF-252D-461B-B132-CFC746562CC9</string>
+										<key>strokeColor</key>
+										<string>{0.863, 0.196, 0.184, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;-&amp;gt; Deegan, M. and Tanner, S. (eds) (2006) Digital preservation. London: Facet&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 -&gt; Deegan, M. and Tanner, S. (eds) (2006) Digital preservation. London: Facet\
+}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-2106.0969572667973, 593.72746322970806}</string>
+										<key>nodeID</key>
+										<string>DEFC8DFA-6A87-48D4-A8A2-122B100DAF76</string>
+										<key>strokeColor</key>
+										<string>{0.863, 0.196, 0.184, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(255, 248, 228, 1.000000); font: 13px "National"; -cocoa-font-postscriptname: "National-Regular"; '&gt;Land of the lost p3: “Not only is the physical form of and the information conveyed by a digital object open to the same dangers as non‐digital objects, but in order to access the information a digital object contains, &lt;/span&gt;&lt;span style='color: rgba(255, 248, 228, 1.000000); font: bold 13px "National"; -cocoa-font-postscriptname: "National-Bold"; '&gt;there are usually a greater number of external dependencies to account for.”&lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Regular;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf2 Land of the lost p3: \'93Not only is the physical form of and the information conveyed by a digital object open to the same dangers as non\uc0\u8208 digital objects, but in order to access the information a digital object contains, 
+\b there are usually a greater number of external dependencies to account for.\'94}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-2202.0969572667973, 699.72746322970806}</string>
+										<key>nodeID</key>
+										<string>245C5773-CB8E-48AE-8316-89535A130EED</string>
+										<key>strokeColor</key>
+										<string>{0.863, 0.196, 0.184, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>433</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;“to retain appropriate access to a digital object, we must maintain a mechanism to derive meaning from that object.” (LotL p6)&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 \'93to retain appropriate access to a digital object, we must maintain a mechanism to derive meaning from that object.\'94 (LotL p6)}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;&amp;quot;Saving more than the bitstream&amp;quot;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 "Saving more than the bitstream"}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1796.0969572667975, 747.72746322970806}</string>
+								<key>nodeID</key>
+								<string>23D4B14E-D38D-48BF-892D-88259564D237</string>
+								<key>strokeColor</key>
+								<string>{0.863, 0.196, 0.184, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-2006.0969572667975, 747.72746322970806}</string>
+										<key>nodeID</key>
+										<string>4FA46B34-F1A3-432D-BF7C-C3B9427B1622</string>
+										<key>strokeColor</key>
+										<string>{0.863, 0.196, 0.184, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Issues with virtualisation&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Issues with virtualisation}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Updating drivers, software to access data&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Updating drivers, software to access data}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-1684.0969572667975, 955.72746322970806}</string>
+								<key>nodeID</key>
+								<string>D0336E54-7D58-41F7-9E77-496CBBCA81C8</string>
+								<key>strokeColor</key>
+								<string>{0.863, 0.196, 0.184, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-2046.0969572667975, 779.72746322970806}</string>
+										<key>nodeID</key>
+										<string>81914CB9-A7E0-4B9D-B36B-D81796B14A00</string>
+										<key>strokeColor</key>
+										<string>{0.863, 0.196, 0.184, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Land of the lost p3: “On the other hand, if the library owns a digital copy of the same book, then not only will the reader have to be capable of translating from Coptic, but access will also depend on being able to open the file in a meaningful way. If the library loses access to the software used to access the file, then it might become impossible to extract any information from the object.”&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Land of the lost p3: \'93On the other hand, if the library owns a digital copy of the same book, then not only will the reader have to be capable of translating from Coptic, but access will also depend on being able to open the file in a meaningful way. If the library loses access to the software used to access the file, then it might become impossible to extract any information from the object.\'94}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-1990.0969572667975, 923.72746322970806}</string>
+										<key>nodeID</key>
+										<string>55E47D5E-4C25-457E-84A4-132D3110FED7</string>
+										<key>strokeColor</key>
+										<string>{0.863, 0.196, 0.184, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>433</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Preserving language and script readability&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Preserving language and script readability}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-2179.0969572667973, 1035.7274632297081}</string>
+										<key>nodeID</key>
+										<string>EFF3C5E2-3FF7-452E-B06D-6133C26D368D</string>
+										<key>strokeColor</key>
+										<string>{0.863, 0.196, 0.184, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<true/>
+												<key>location</key>
+												<string>{-2674.0969572667973, 955.72746322970806}</string>
+												<key>nodeID</key>
+												<string>F04D38E9-C7BF-471D-81B5-4E1CF67D9473</string>
+												<key>strokeColor</key>
+												<string>{0.863, 0.196, 0.184, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>433</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Land of the lost p6: “What constitutes ‘appropriate’ access could vary widely, depending on the intended use of a digital object. For instance, although it may be appropriate to simply display a digital photograph saved as a TIFF via a viewing application, this may not be the case for a TIFF which is a part of a texture map for a 3D object, even though it will still successfully present one potential presentation of that data. Alternatively, even for the same digital object, there may be many perceived ‘correct’ ways of accessing the same file, depending on the viewer. For a recording of a piece of music, some users may be satisfied hearing the melody though small desktop speakers, but an audio technician interested in hearing ranges that cannot be reproduced by those speakers would find this an inappropriate representation of the information.”&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Land of the lost p6: \'93What constitutes \'91appropriate\'92 access could vary widely, depending on the intended use of a digital object. For instance, although it may be appropriate to simply display a digital photograph saved as a TIFF via a viewing application, this may not be the case for a TIFF which is a part of a texture map for a 3D object, even though it will still successfully present one potential presentation of that data. Alternatively, even for the same digital object, there may be many perceived \'91correct\'92 ways of accessing the same file, depending on the viewer. For a recording of a piece of music, some users may be satisfied hearing the melody though small desktop speakers, but an audio technician interested in hearing ranges that cannot be reproduced by those speakers would find this an inappropriate representation of the information.\'94}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>433</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Representation based on expectations, software and hardware capabilities, and context&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Representation based on expectations, software and hardware capabilities, and context}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Means of interpreting&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Means of interpreting}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Software formats&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Software formats}</string>
+						</dict>
+					</dict>
+				</array>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(252, 246, 226, 1.000000); font: bold 24px "National"; text-align: left; -cocoa-font-postscriptname: "National-Bold"; '&gt;Technical issues&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Regular;}
+{\colortbl;\red255\green255\blue255;\red253\green246\blue227;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs48 \cf2 Technical issues}</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{0.046, 0.163, 0.198, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{-433.47511110349046, 338.61654337792504}</string>
+				<key>nodeID</key>
+				<string>0515F818-B3A6-4EC4-8E71-5209C9198185</string>
+				<key>strokeColor</key>
+				<string>{0.192, 0.286, 0.318, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array/>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(252, 246, 226, 1.000000); font: bold 24px "National"; text-align: left; -cocoa-font-postscriptname: "National-Bold"; '&gt;What to preserve&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Regular;}
+{\colortbl;\red255\green255\blue255;\red253\green246\blue227;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs48 \cf2 What to preserve}</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{0.046, 0.163, 0.198, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{-327.05997626282465, -28.965742217815091}</string>
+				<key>nodeID</key>
+				<string>409726AD-E611-4E3B-8906-DF57D70A66B6</string>
+				<key>strokeColor</key>
+				<string>{0.192, 0.286, 0.318, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-22.059976262824648, -13.465742217815091}</string>
+						<key>nodeID</key>
+						<string>BDD8F613-3268-4E23-AAF3-15C3A682D458</string>
+						<key>strokeColor</key>
+						<string>{0.710, 0.537, 0.000, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{185.94002373717535, -61.465742217815091}</string>
+								<key>nodeID</key>
+								<string>27F1AD30-B98C-4EDD-A7DF-4576B63DC121</string>
+								<key>strokeColor</key>
+								<string>{0.710, 0.537, 0.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{372.94002373717535, -93.465742217815091}</string>
+										<key>nodeID</key>
+										<string>43D73344-27F1-41E4-B256-082A2CA67F48</string>
+										<key>strokeColor</key>
+										<string>{0.710, 0.537, 0.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Acquiring the printed artifact&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Acquiring the printed artifact}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{372.94002373717535, -61.465742217815091}</string>
+										<key>nodeID</key>
+										<string>231B070A-3669-4265-BF92-84BBA8F1A445</string>
+										<key>strokeColor</key>
+										<string>{0.710, 0.537, 0.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Legal deposit&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Legal deposit}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{372.94002373717535, -29.465742217815091}</string>
+										<key>nodeID</key>
+										<string>B796BEF6-3F55-4121-8C9E-32F5751D5B18</string>
+										<key>strokeColor</key>
+										<string>{0.710, 0.537, 0.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Copies by archives/libraries&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Copies by archives/libraries}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Comparison w/ print&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Comparison w/ print}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{185.94002373717535, 34.534257782184909}</string>
+								<key>nodeID</key>
+								<string>739888EC-7723-4D70-AB9A-C4E62B8EF9A6</string>
+								<key>strokeColor</key>
+								<string>{0.710, 0.537, 0.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{429.94002373717535, 2.534257782184909}</string>
+										<key>nodeID</key>
+										<string>C56F5461-5B09-486F-94F2-719F57FB57A7</string>
+										<key>strokeColor</key>
+										<string>{0.710, 0.537, 0.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Nurnberg 1995: ‘technology tends to erase distinctions between the separate processes of creation, reproduction and distribution that characterize the classic industrial model of print commodities’&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Nurnberg 1995: \'91technology tends to erase distinctions between the separate processes of creation, reproduction and distribution that characterize the classic industrial model of print commodities\'92}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Creator now publisher &amp;amp; editor&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Creator now publisher &amp; editor}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(255, 248, 228, 1.000000); font: 14px "National"; text-align: left; -cocoa-font-postscriptname: "National-Book"; '&gt;Who takes responsibility&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Book;}
+{\colortbl;\red255\green255\blue255;\red255\green248\blue228;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs28 \cf2 Who takes responsibility}</string>
+						</dict>
+					</dict>
+				</array>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(252, 246, 226, 1.000000); font: bold 24px "National"; text-align: left; -cocoa-font-postscriptname: "National-Bold"; '&gt;Who should preserve&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Regular;}
+{\colortbl;\red255\green255\blue255;\red253\green246\blue227;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs48 \cf2 Who should preserve}</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{0.046, 0.163, 0.198, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{-246.27360969949223, 268.3155323394152}</string>
+				<key>nodeID</key>
+				<string>AD62A530-8C97-4441-A01F-FB5402615BB3</string>
+				<key>strokeColor</key>
+				<string>{0.192, 0.286, 0.318, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array/>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(252, 246, 226, 1.000000); font: bold 24px "National"; text-align: left; -cocoa-font-postscriptname: "National-Bold"; '&gt;How to preserve&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf190
+{\fonttbl\f0\fnil\fcharset0 National-Regular;}
+{\colortbl;\red255\green255\blue255;\red253\green246\blue227;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\b\fs48 \cf2 How to preserve}</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<key>printInfo</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAtOU1ByaW50SW5mbwGEhAhOU09iamVjdACFkoSE
+	hBNOU011dGFibGVEaWN0aW9uYXJ5AISEDE5TRGljdGlvbmFyeQCUhAFpCJKEhIQITlNT
+	dHJpbmcBlIQBKxZOU0hvcml6b250YWxseUNlbnRlcmVkhpKEhIQITlNOdW1iZXIAhIQH
+	TlNWYWx1ZQCUhAEqhIQBY50BhpKEmZkNTlNSaWdodE1hcmdpboaShJuchIQBZp5IhpKE
+	mZkMTlNMZWZ0TWFyZ2luhpKEm5ygnkiGkoSZmRVOU0hvcml6b25hbFBhZ2luYXRpb26G
+	koSbnISXlwKGkoSZmRROU1ZlcnRpY2FsUGFnaW5hdGlvboaShJucpZcAhpKEmZkUTlNW
+	ZXJ0aWNhbGx5Q2VudGVyZWSGkpqShJmZC05TVG9wTWFyZ2luhpKEm5ygnlqGkoSZmQ5O
+	U0JvdHRvbU1hcmdpboaShJucoJ5ahoaG
+	</data>
+	<key>title</key>
+	<string>Internet Archiving and Digital Preservation</string>
+	<key>version</key>
+	<integer>4</integer>
+</dict>
+</plist>
