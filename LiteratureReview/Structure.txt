@@ -1,0 +1,79 @@
+STRUCTURE
+
+Introduction
+Why digital preservation
+	Stats of numbers on digital vs physical
+	Why digital degrades faster
+		UNESCO’s Threats to digital continuity
+		Fast decay of preservation medium
+		Technological change of hardware and software
+		Issues for long term storage
+	Importance of data
+		Library material: for society
+		For businesses (records)
+		Personal archiving / domestic archiving
+		Preserving interactive material inc. video games
+		Useful for researchers in the future
+			Understanding our history
+			Understanding the beginnings of the Internet, as we have shifted in an information society
+			Preserving an accurate and integrity image of our society at a given point
+				Twitter & Usenet
+	Advantages over physical preservation
+		Mass preservation, easier access and organisation
+		Recording digitally material that’s not born-digital
+	Cost of restoration; case studies of lost data
+		
+Defining paradigms for digital preservation
+	Pre-digital paradigms
+	Inability to preserve the medium, only the bitstream
+	Importance of metadata, relationship & context
+	Definition of terms		
+		
+What to preserve / Selectivity
+	Harvey 5 pillars for selectivity
+	Banks reasons for domestic archiving
+	Technical possibility of archiving
+	Pros/cons of archiving the entire internet
+	Dangers of selection (Cook)
+	Automatic selection (Reputation model)
+	Crawling
+	Manual curating
+	Special Collections for events (eg before elections, see webarchive.org.uk for other ideas)
+	Web archiving: what stands as heritage on the web
+
+Who should preserve
+	Legal issues
+		(see later) special case for emulation
+	Depends on the type of content
+	Libraries
+	National libraries
+	Archivists
+	New: how the creator/publisher is now fully responsible for it
+	New stakeholders
+	Profits vs nonprofits
+	Personal archiving
+		Yourself?
+		Online services
+
+How to preserve
+	Preparation
+	Software methods and choosing one
+	+ Authenticity/integrity and issues with each method
+	+ Emulation / legal rights with videogames
+	Use of standards
+
+Domestic archiving
+    Archiving photos
+    	What we store online
+    		Personal media & teenagers; privacy options
+    		Data already public
+    What happens after our deaths
+    [Digital heritage]
+    Shifts in usages (more photos)
+    Advantages (sharing, organisation etc.); record part of our lives we never did before
+    Keeping memories attached to digital objects
+    or storing physical objects digitally
+    -> (larger scale?)
+
+
+Conclusion
