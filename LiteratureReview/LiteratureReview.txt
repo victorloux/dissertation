@@ -1,0 +1,141 @@
+
+# Introduction
+
+As we shift into the Information Age and a knowledge-based economy, a number of concerns are being raised over the long-term preservation of digital data and artifacts. This literature review aims to get an overview of the current problems, techniques and practices in preserving data on digital media, including the definition and understanding of the new paradigms created by digital preservation, the importance of being able to store things on the long term, the processes used to curate and select content to be preserved, and the various methods used to do so. It also encompasses legal and ethical issues arising from it,  and how the paradigms and methods change when applied to different types of archiving (e.g. for researchers, for businesses, and for personal businesses).
+
+# Why digital preservation
+	Stats of numbers on digital vs physical
+## Why digital degrades faster
+### 	UNESCO’s Threats to digital continuity
+UNESCO (2003, pp. 30-31) has identified a list of threats to what they call *digital continuity*. These are:
+> “The carriers used to store these digital materials are usually unstable and deteriorate within a few years or decades at most”. Where, in the traditional preservation paradigms for paper-based artifacts, the main rule is that “benign neglect may be the best treatment” (derived from Cloonan (1993,p.596), Harvey (1993, pp.14,140), and Bastian, Cloonan and Harvey (2011, pp.612-613)),  this cannot be applied to digital storage media because their lifetime is much shorter. This varies highly with the type of medium used and with the storage conditions; for example, samples by the Digital Preservation Coalition (2008, p. 154) show that D3 cartridge tapes deteriorates after 50 years in optimal conditions (25% RH at 10º) but only one year in high humidity and temperatures (50%RH at 28º). Similar results happen for the more commercially available optical media (down to three months and up to 200 years), which are more sensitive to moisture (Harvey, 2012, p.47).
+> “Use of digital materials depends on means of access that work in particular ways: often complex combinations of tools including hardware and software, which typically become obsolete within a few years and are replaced with new tools that work diﬀerently” (UNESCO, 2003). Even if storage media could survive decades or even centuries, technological change means we will not necessarily have the means to access the data later. In other words, “to retain appropriate access to a digital object, we must maintain a mechanism to derive meaning from that object” (del Pozo et al., 2012, p6): for optical media, this includes not only the drives to read the disc, but also a cable to connect the drive to the computer’s motherboard, a motherboard that has a connector for this type of cable, and an operating system that has drivers for this connectivity (Pearson 2009, slide 11). Once we have access to the bitstream from the computer we need to be able to represent it, which means we also need to keep the software in a version that can open the preserved file.
+> Poor preservation documentation and metadata means it could be hard for potential users to find the data (UNESCO 2003)
+> + poor preservation (“Critical aspects of functionality, such as formatting of documents or the rules by which databases operate, may not be recognised and may be discarded or damaged in preservation processing.”, UNESCO 2003) + “So much contextual information may be lost that the materials themselves are un- intelligible or not trusted even when they can be accessed” -> poor integrity
+
+> “Materials may be lost in the event of disasters such as fire, flood, equipment failure, or virus or direct attack that disables stored data and operating systems”
+> “Access barriers such as password protection, encryption, security devices, or hard-coded access paths may prevent ongoing access beyond the very limited circumstances for which they were designed”. [This argument is particularly true for web archiving, where crawlers of national libraries retrieve all sort of files to preserve them but do not necessarily have the permission or know the rights owner][back that up maybe yo]
+
+
+### Issues for long term storage
+## Importance of data
+### Library material: for society
+### For businesses (records)
+### Personal archiving / domestic archiving
+### Preserving interactive material inc. video games
+### Useful for researchers in the future
+#### Understanding our history
+#### Understanding the beginnings of the Internet, as we have shifted in an information society
+##### Preserving an accurate + [integrity] image of our society at a given point
+###### Twitter & Usenet
+## Advantages over physical preservation
+### Mass preservation, easier access and organisation
+### Recording digitally material that’s not born-digital
+## Cost of restoration; case studies of lost data
+		
+# Defining paradigms for digital preservation
+### Pre-digital paradigms
+### Inability to preserve the medium, only the bitstream
+### Importance of metadata, relationship & context
+### Definition of terms		
+		
+# What to preserve / Selectivity
+## Harvey 5 pillars for selectivity (Harvey 2012, p. 26)
+		+ If **unique information** objects that are vulnerable and sensitive and therefore subject to risks can be preserved and protected
+		+ If preservation ensures long-term accessibility for researchers and the public;
+		+ If preservation fosters the accountability of governments and organisations
+		+ If there is an economic or societal advantage in re-using information
+		+ If there is a legal requirement to keep it (NSF-DELOS Working Group on Digital Archiving and Preservation, 2003, p.3).
+
+### Banks reasons for domestic archiving
+In *The Future of Looking Back*, Richard Banks (2011) analyses the reasons that lead us to keep or discard physical objects at home. He argues that while making a selection is a positive thing because it forces us to filter our belongings and focus on what is really meaningful, we also run the risk of ridding ourselves of things that we wish we would have kept in retrospect. He points out that the organisation of digital files make this trickier: because we we can keep pretty much everything on virtual space, it is easier to accidentally delete meaningful things alongside the less important. (Banks, 2011 p. 22).
+
+In the context of personal archiving, Banks notes that in the past, the legacy we leave behind us was a highly selective one. Because our possessions are limited by physical space, our ancestors until now “have implicitly indicated that an item is significant through the simple act of keeping it. Although thousands of objects likely crossed their path over their lifetime, the constraints of money and space meant that only a few were retained, often the most significant.” (Banks, 2011, p. 78). He does however argue that this is no longer true in a digital world, because new possibilities mean we simply accumulate digital objects without necessarily ordering them by importance.
+
+### Technical possibility of archiving
+
+### Pros/cons of archiving the entire internet
+
+There are various controversies around whether we should automate the archiving of the Internet, or if we should operate a manual selection. UNESCO (2003, p. 73) notes that those who value a more comprehensive collection (i.e. archiving “all” the Internet) argue that “any information may turn out to have long-term value, and that the costs of detailed selection are greater than the costs of collecting and storing everything”. This argument is particularly true because of the digital media: “unlike non-digital material such as paper-based artifacts, where there is a period of time in which to make selection decisions before deterioration of materials becomes an issue, the time frame for deciding whether or not to preserve digital materials is very short” (Harvey, 2012, p. 57). UNESCO (2003, p.71) backs that claim: “it may not be possible to wait for evidence of enduring value to emerge before making selection decisions”.
+
+Other people [Cook?] think that it would be preferable to keep a curated collection because of a higher technical quality, and this also allow us to settle [negotiate?] preservation rights with the content producers. Harvey adds that we also do not have the technical capabilities to find all the pages on the Internet, and even if we had we would not have the technical possibility to store the whole of the Internet (Harvey 2012, p. 58); again, this is also something recognised by UNESCO: “‘there are usually more things – more information, more records, more publications, more data – than we have the means to keep” (2003, p.70).
+
+The UNESCO (2003) and Cook (2000) both however recognise that a middle ground should be found and that both approaches are valid depending on the goal of the preservation. For instance, the Internet Archive[IA] is going through an automated process (archive as many pages as possible) but, because of technical limitation, only preserves the text and dismisses all other images, stylesheets and external media, which could be critical in some instances. It seems evident that for valued documents these should be retained. The British Library’s Web Archive[ukwa] [http://www.webarchive.org.uk/ukwa/] 
+
+###	Dangers of selection (Cook)
+However, Cook (2000) points out the dangers of manual selection for what is worth archiving: “With memory comes the inevitable privileging of certain records and records creators, and the marginalizing or silencing of others” (Cook, 2000, cited in Harvey p. 58). He asserts that the archivists must be impartial and objective, and ensure all points of view are kept to ensure our shared memory does not “becomes counterfeit, or at least transformed into forgery, manipulation, or imagination”. This is something that is clear with manual archiving, but could also be a problem, maybe unintentionally, with the automated discovery of content when archiving Web pages.
+		
+### Automatic selection (Reputation model)
+In order to keep the most valuable content, algorithms could be used. Kawano (2008) proposes to use reputation models, that attempts to determine the relative value of a Web page by considering its “importance, fairness, trustiness, uniqueness and valuation”. This is done using a variety of ways; the algorithm suggested by Kawano relies on the consistency of a web page, that is the amount of time it existed, the number of links it contains and the number of external links to this page  (Kawano, 2008, p. 291).
+
+	Crawling
+	Manual curating
+	
+### Special Collections for events (eg before elections, see webarchive.org.uk for other ideas)
+Another interesting selection process that has emerged is the one of *specific archiving* when certain events are happening. For instance, the UK Web Archive[ukwa] has, on top of their topical-based collections (Energy, Health and Social Care…), a few event-based collections (Queen Jubilee, Olympic and Paralympic Games, London 2005 terrorist attacks…) which reflect the state of the Web at that given moment in history. Masanès (2006, p.83) notes that this type of archiving must be manually curated and thoroughly preparated. He gives a methodology for this, using presidential elections as an example: a time frame for the collection must be defined (“3 months before the election + 1 month after”), what type of sites will be archived and when (“the political parties’ blogs and websites, every week; analysis, commentary and humourous/satire websites, every month; online newspaper articles, once”).
+
+[Opposing to automated archiving]: Masanès (2006) also describes the technique used for crawling a set of websites automatically. For example, when attempting to save all sites located in France for the French National Library, the robots were instructed to start navigating from 12 existing directories of websites, and restrict what they save to sites with a .fr domain name, or, for more generic top-level domain names (.com, .net, .org…), check if the phone number used for DNS[footnote explanation] registration is a French number (starting with +33). (Masanès 2006, p. 83)
+
+### Selection: by genre [web]
+There are different genres of websites: institutional website, blogs, personal pages, forums. [[Genre have been studied in the context of the Web to see how they replicate or diverge from the genre in the print- ing world (see Crowston and Williams 1997) - in Masanès p88]]. An interesting point about this is that often, robots (crawlers, or later data analysis) can automatically identify their type [Rehm 2002 -> check reference, Masanès:88] which permis the automatic generation of metadata, or simply to restrict a collection of web pages to certain Web genres.
+
+# Web archiving: what stands as heritage on the web
+
+# Who should preserve
+## Legal issues
+### (see later) special case for emulation
+## Depends on the type of content
+## Libraries
+## National libraries
+## Archivists
+## New stakeholders
+### New: how the creator/publisher is now fully responsible for it
+## Profits vs nonprofits
+## Personal archiving
+### Yourself?
+### Online services
+
+# How to preserve
+## Preparation
+## Software methods
+## Choosing one
+
+Thibodeau (2002, pp. 15-16) suggests four criteria to choose a preservation method: *feasibility*, *sustainability*, *practicality* and *appropriateness*. 
+
+Feasability means that the hardware and the software for implementing a given method must be existing and developed. 
+Sustainability is ensuring that this method can be “applied indefinitely into the future, or that there are credible grounds for asserting that another path will offer a logical sequel to the method, should it cease being sustainable”. This means that the method must be resistant to technological obsolescence, both for storing the data (medium will change) and accessing it (means to access the media ane decode the bitstream will change).
+
+Practicality is establishing that this method will be reasonably difficult and affordable. [This can generally change depending on the resources of the preserving organisation, the available technology at that time and the valuation of the digital objects.]
+
+Finally, appropriateness is using a method that is relevant to the type of material being preserved, and the objectives of the preservation. For example, del Pozo et al. (2012, p. 7) suggests that if the integrity and authenticity of the documents are not paramount, then a migration that keeps the contents but discards the presentation might be the least expensive and simplest option. Inversely, when trying to preserve highly interactive material such as video games or when the specifications for a format are unknown, then emulation is a more pertinent option, because migration would be extremely difficult and inaccurate (Thibodeau, 2000, p. 16).
+
+### Authenticity/integrity and issues with each method
+
+Different preservation methods yield different results in what is called **authenticity**, that is how faithful the rendition [its presentation] of the preserved object will be. Authenticity is subjective and therefore there is debate around this issue (Del Pozo et al., 2012, p. 7; Cook, 2000); however most agree that while as little difference in the presentation is desirable, it is rarely (if ever) possible to keep a truthful rendition. As an example, del Pozo et al. (2012, p. 8) use a spreadsheet within the migration method:
+> “For instance, one institution may decide to normalise a spreadsheet into a PDF, which would retain the cell values but destroy any formula used to calculate them. This would favour a particular presentation of that digital object over the information form of the original. On the other hand, another institution might decide to normalise spreadsheets into ODF, which may lose some formatting but retain the formula used to derive each cell. In this case, being able to retain the information form of the file would be seen as more important.”
+
+Thibodeau (2002, p. 28) however points out that “people will want to use the best available technology—or at least technologies they know how to use—for discovery, retrieval, processing, and delivery of preserved information. There is a danger that to the degree that preservation solutions keep things unaltered they will create barriers to satisfying this basic user requirement.” An overly faithful preservation would therefore not be desirable. Again, this is subject to a high number of parameters.
+
+Another important issue is *integrity*, i.e. “ensuring the object is complete and has not been altered or corrupted” (Harvey, 2012, p. 54; Ross [CITED], 2002, p. 7); that is, the object “is what it purports to be”, and no parts are missing from it. This is particularly important, Harvey (2012, p. 54) notes, for business archiving, where the legal value of a digital object could be lost if we cannot demonstrate that this object hasn’t been tampered with, or that a migration processes have not incurred data losses.
+However, as Lynch (2000) has argued, the integrity of objects is only a matter of trust. The guidelines of UNESCO (2003, p. 22) recommend that the best protection for authenticity is proper documentation of the archival process; Harvey (2012, p. 54) expands on this idea: “for instance, if it can be established that a digital object has always been kept in the custody of an archive in which every change to it has been recorded (such as changes resulting from migration of the bit-stream – the dates at which migration occurred, to which media, and so on), then we can be more secure about its integrity.” 
+
+### Emulation / legal rights with videogames
+## Use of standards
+
+Some standards such as OAIS (Open Archival Information System), originally developed for space science, could be used. Sadly [no implementation] [source??]
+
+# Domestic archiving
+## Archiving photos
+### What we store online
+#### Personal media & teenagers; privacy options
+#### Data already public
+## What happens after our 
+### [Digital heritage]
+## Shifts in usages (more photos)
+## Advantages (sharing, organisation etc.); record part of our lives we never did before
+## Keeping memories attached to digital objects
+## or storing physical objects digitally
+### -> (larger scale? China book) 
+
+
+Conclusion
