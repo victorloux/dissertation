@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="7">
+            <Title>Ideas</Title>
+        </Document>
+        <Document ID="3">
+            <Title>Title</Title>
+            <Text>&lt;$TEMPLATE_FULLNAME> ({StudentID} - COLLEGE_NAME)
+COURSE_NAME – SHORT_PAPER_NAME
+ESSAY FOR SUPERVISOR_NAME (&lt;$mediumdate>)
+
+&lt;$template_projectName></Text>
+        </Document>
+        <Document ID="8">
+            <Title>About</Title>
+            <Text>UNDERGRADUATE ESSAY FORMAT
+
+About
+This template is designed for writing and formatting an undergraduate essay suitable for humanities subjects. It is based on a format used at several UK universities (such as Cambridge). Bear in mind, however, that many universities have different formatting requirements, so you should check the exact guidelines of the institution to which you are submitting your paper.
+
+How To Use This Template
+	•	Edit the “Title” document so that it contains the title of your essay, your instructor’s name and so on. Alternatively, you can just edit the title of your essay and enter the rest of the information during the compile process (see below).
+	•	Compose your essay in text documents inside the “Main Content” folder. Whether you use a single document or multiple text files to write your essay is entirely up to you - just make sure they are all inside the “Main Content” folder.
+	•	Indent block quotes or other special passages using the ruler settings you require in the finished document and enclose them in a “Preserve Formatting” block. To do this, select the text of the block quote and go to Format > Formatting > Preserve Formatting. (The quickest way of formatting a block quote is to click in the paragraph and select “Essay Block Quote (Preserved)” from the formatting presets, either using the “Presets…” control in the format bar, or by going to the Format  menu and choosing Formatting > Apply Preset - this will indent the text and apply the “Preserve Formatting” block for you.) All other text will have the default indentation and formatting assigned during the compile process.
+	•	Use File > Compile… to compile your essay for printing or exporting.
+	•	In the Compile sheet, make sure you edit the entries in the “Replacements” pane, replacing “YourStudentID”, “SupervisorSurname” and so on with the appropriate information - these will be used in the page header and on the title page.
+
+Sample Document
+The “Example Essay” PDF file in the Research folder shows how the essay will look when compiled.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File > Save As Template.</Text>
+        </Document>
+        <Document ID="4">
+            <Title>Main Content</Title>
+        </Document>
+        <Document ID="0">
+            <Title>Essay</Title>
+        </Document>
+        <Document ID="9">
+            <Title>Example Essay</Title>
+            <Text>B Twemlow (BXT32) / Bing-Tredmille / 30 Oct 2010 ... 1
+BARRY TWEMLOW (BXT32 - DOGNOBBLER COLLEGE) ENGLISH TRIPOS PART II – TRAGEDY PAPER ESSAY FOR DR. HEIRONYMUS BING-TREDMILLE (30 Oct 2010)
+“Cur vel habeo delenit interpretaris, usu et alienum epicuri consetetur.” Discuss
+Lorem ipsum qui porro insolens reprimique an, appetere verterem conceptam eam eu. Ut nam nullam commune explicari. Vis ex mazim choro accusamus, sed civibus complectitur ex. Mazim aliquando vel in.
+Pri vero aliquam docendi ut, cu mei suas adhuc facilisis, saepe eloquentiam ad nec. Epicuri detracto principes sit in, vis latine luptatum recusabo et. An sed officiis vulputate, minim oratio duo no. Prima minimum oportere eum in. Id pro augue virtute. Eam unum laboramus adolescens te, alia tritani vix id, sit in labores iracundia moderatius.
+Mel in meis mutat scripserit, summo tantas apeirian ius id. Mei eu voluptua neglegentur philosophia, corrumpit evertitur sea no. Fabellas invidunt invenire sed cu. No mel volumus intellegebat. Ex novum delicata usu, eros probo ad mel. Amet cibo vim ex. Per tibique probatus insolens id.
+Sonet consequuntur eam ex, ea placerat expetendis referrentur mea. Unum commodo minimum mea at, at sea possim posidonium concludaturque. Sit quodsi deseruisse ne, dicta consul insolens pro ad. No essent persius mediocritatem est, sed et dico sanctus, qui te latine signiferumque. Ad facilis percipitur duo, usu equidem euripidis an, id erat dicunt temporibus pri.
+Alia puto eos ut, errem tempor melius vel eu. Vim te omnis scripta quaeque, in his
+B Twemlow (BXT32) / Bing-Tredmille / 30 Oct 2010 ... 2
+oratio veniam fierent. Eum dictas molestie definiebas ne, te maiorum persequeris vim. Pri at integre dolorem.
+Cum menandri postulant te, causae accusam te has. No solet gubergren pro, tollit molestie signiferumque cu usu, qui nostrum partiendo adversarium ut. Vis oportere constituto id, mel odio eirmod verterem id, fugit dicunt argumentum pri ex. Sensibus petentium iracundia ut vim. Ius ei dicta molestie sententiae, modus voluptaria ut nam.
+Nonummy delicatissimi eu pro, ubique inimicus voluptaria at sea. Cu nec delectus invenire. Eos possim vocibus ut. Ut kasd solet qualisque sit, cu lucilius signiferumque sea, no populo consequat usu.
+Cu vel habeo delenit interpretaris, usu et alienum epicuri consetetur. Vel an soleat alienum, no vim impedit sapientem. Id nec ceteros consectetuer interpretaris, eum ad audiam eloquentiam, ad quo falli mandamus. Pro ad quodsi denique, ad intellegat assueverit honestatis per, cum eu labitur inimicus. Pro altera definitionem ea, vim no unum mutat dicunt. Et quo malis nullam essent.
+Antiopam maluisset ne mea. Ei solet saepe qui. Cu vocent fuisset vix. Eos ad electram assentior, erat assum saepe sed ne. Ut facete eruditi elaboraret duo, ex est tempor vocibus consetetur. Mea debet singulis ut, erat facer simul mei te.
+Mei id quis petentium, meis nostrum eu ius, vocent takimata principes ei nec. Sea laoreet delectus in, aperiri omittantur eum cu, detracto nominavi at cum. Mel an dolores officiis, patrioque adipiscing definitiones ius ad, at sed cibo velit. Pri solet vocent prompta no, eos ut quaerendum consequuntur, nam no commodo voluptatibus. Mei at forensibus comprehensam.’i Lorem ipsum qui porro insolens reprimique an, appetere verterem conceptam eam eu. Ut nam nullam commune explicari. Vis ex mazim choro accusamus, sed civibus complectitur ex. Mazim aliquando vel in.
+B Twemlow (BXT32) / Bing-Tredmille / 30 Oct 2010 ... 3
+Cum menandri postulant te, causae accusam te has. No solet gubergren pro, tollit molestie signiferumque cu usu, qui nostrum partiendo adversarium ut. Vis oportere constituto id, mel odio eirmod verterem id, fugit dicunt argumentum pri ex. Sensibus petentium iracundia ut vim. Ius ei dicta molestie sententiae, modus voluptaria ut nam.
+Nonummy delicatissimi eu pro, ubique inimicus voluptaria at sea. Cu nec delectus invenire. Eos possim vocibus ut. Ut kasd solet qualisque sit, cu lucilius signiferumque sea, no populo consequat usu.
+Mei id quis petentium, meis nostrum eu ius, vocent takimata principes ei nec. Sea laoreet delectus in, aperiri omittantur eum cu, detracto nominavi at cum. Mel an dolores officiis, patrioque adipiscing definitiones ius ad, at sed cibo velit. Pri solet vocent prompta no, eos ut quaerendum consequuntur, nam no commodo voluptatibus. Mei at forensibus comprehensam.ii Lorem ipsum qui porro insolens reprimique an, appetere verterem conceptam eam eu. Ut nam nullam commune explicari. Vis ex mazim choro accusamus, sed civibus complectitur ex. Mazim aliquando vel in.
+Pri vero aliquam docendi ut, cu mei suas adhuc facilisis, saepe eloquentiam ad nec. Epicuri detracto principes sit in, vis latine luptatum recusabo et. An sed officiis vulputate, minim oratio duo no. Prima minimum oportere eum in. Id pro augue virtute. Eam unum laboramus adolescens te, alia tritani vix id, sit in labores iracundia moderatius.
+Mel in meis mutat scripserit, summo tantas apeirian ius id. Mei eu voluptua neglegentur philosophia, corrumpit evertitur sea no. Fabellas invidunt invenire sed cu. No mel volumus intellegebat. Ex novum delicata usu, eros probo ad mel. Amet cibo vim ex. Per tibique probatus insolens id.
+B Twemlow (BXT32) / Bing-Tredmille / 30 Oct 2010 ... 4
+Alia puto eos ut, errem tempor melius vel eu. Vim te omnis scripta quaeque, in his oratio veniam fierent. Eum dictas molestie definiebas ne, te maiorum persequeris vim. Pri at integre dolorem.
+Cu vel habeo delenit interpretaris, usu et alienum epicuri consetetur. Vel an soleat alienum, no vim impedit sapientem. Id nec ceteros consectetuer interpretaris, eum ad audiam eloquentiam, ad quo falli mandamus. Pro ad quodsi denique, ad intellegat assueverit honestatis per, cum eu labitur inimicus. Pro altera definitionem ea, vim no unum mutat dicunt. Et quo malis nullam essent.iii Cu vel habeo delenit interpretaris, usu et alienum epicuri consetetur. Vel an soleat alienum, no vim impedit sapientem. Id nec ceteros consectetuer interpretaris, eum ad audiam eloquentiam, ad quo falli mandamus. Pro ad quodsi denique, ad intellegat assueverit honestatis per, cum eu labitur inimicus. Pro altera definitionem ea, vim no unum mutat dicunt. Et quo malis nullam essent.iv
+i John Donne, Selected Prose, ed. Helen Gardner and Timothy Healy (Oxford: Clarendon Press, 1967), p. 46. ii Donne, Selected Prose, p. 26.
+iii ‘He was a martyr manqué,’ Carey writes, ‘and had to live with a set of basic psychic configurations which had been oriented towards death by his educators.’ John Donne: Life, Mind and Art (London: Faber, 1990), p . 213.
+iv Donne, ‘To Mr Tilman after he had taken orders’, ll. 15-16, 17-18, in The Divine Poems, ed. Helen Gardner (Oxford: Clarendon Press, 1952), p. 32. Future references to this edition will be given in the text as line numbers.
+</Text>
+        </Document>
+        <Document ID="5">
+            <Title>Body</Title>
+        </Document>
+        <Document ID="6">
+            <Title>Notes</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>

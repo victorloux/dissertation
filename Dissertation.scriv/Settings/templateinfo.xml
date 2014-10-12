@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TemplateSettings Version="1.0">
+    <Title>Undergraduate Humanities Essay</Title>
+    <Description>Provides a project structure and compile settings suitable for creating an undergraduate humanities essay. The format is based on one used at several UK universities.</Description>
+    <Category>NonFiction</Category>
+    <ImageName>TemplateAcademicWithIcon</ImageName>
+</TemplateSettings>

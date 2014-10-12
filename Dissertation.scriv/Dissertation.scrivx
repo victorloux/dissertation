@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2014-10-10 20:42:45 +0100">
+    <Binder>
+        <BinderItem ID="0" Type="DraftFolder" Created="2014-10-10 15:08:45 +0100" Modified="2014-10-10 15:23:28 +0100">
+            <Title>Dissertation</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" Type="Text" Created="2014-10-10 15:08:45 +0100" Modified="2014-10-10 19:43:39 +0100">
+                    <Title>Title</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CompileAsIs>Yes</CompileAsIs>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>13,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="11" Type="Text" Created="2014-10-10 15:21:18 +0100" Modified="2014-10-10 15:32:18 +0100">
+                    <Title>Introduction</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                        <Target Type="Words" Notify="Yes">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="4" Type="Folder" Created="2014-10-10 15:08:45 +0100" Modified="2014-10-10 18:28:49 +0100">
+                    <Title>Context</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Notes (White Notepad).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs>5</SelectedSubdocumentIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="5" Type="Text" Created="2014-10-10 15:08:45 +0100" Modified="2014-10-10 20:42:38 +0100">
+                            <Title>Give context</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1494,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="51" Type="Text" Created="2014-10-10 20:41:59 +0100" Modified="2014-10-10 20:42:38 +0100">
+                                    <Title>Remembrance values</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="47" Type="Text" Created="2014-10-10 20:36:32 +0100" Modified="2014-10-10 20:37:21 +0100">
+                                    <Title>Objectives</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="48" Type="Text" Created="2014-10-10 20:36:43 +0100" Modified="2014-10-10 20:37:21 +0100">
+                                            <Title>Back up SNS</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>202,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="49" Type="Text" Created="2014-10-10 20:36:52 +0100" Modified="2014-10-10 20:38:48 +0100">
+                                            <Title>Make sustainable system</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>29,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="50" Type="Text" Created="2014-10-10 20:37:06 +0100" Modified="2014-10-10 20:40:36 +0100">
+                                            <Title>Adding context</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="24" Type="Text" Created="2014-10-10 18:33:02 +0100" Modified="2014-10-10 18:33:08 +0100">
+                                    <Title>Issues of the project</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="18" Type="Text" Created="2014-10-10 18:26:26 +0100" Modified="2014-10-10 18:27:20 +0100">
+                            <Title>Literature review</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="16" Type="Text" Created="2014-10-10 18:25:29 +0100" Modified="2014-10-10 18:27:20 +0100">
+                            <Title>What I want to prove</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="17" Type="Text" Created="2014-10-10 18:25:55 +0100" Modified="2014-10-10 18:34:28 +0100">
+                    <Title>Document prototypes</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>103,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="19" Type="Text" Created="2014-10-10 18:28:57 +0100" Modified="2014-10-10 18:30:22 +0100">
+                            <Title>Time representation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="20" Type="Text" Created="2014-10-10 18:30:22 +0100" Modified="2014-10-10 18:30:25 +0100">
+                                    <Title>Historically</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="21" Type="Text" Created="2014-10-10 18:30:42 +0100" Modified="2014-10-10 18:30:52 +0100">
+                                    <Title>Applying it to a personal life</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="22" Type="Text" Created="2014-10-10 18:30:52 +0100" Modified="2014-10-10 18:31:47 +0100">
+                                    <Title>Screen based interaction patterns</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>45,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="23" Type="Text" Created="2014-10-10 18:31:09 +0100" Modified="2014-10-10 18:35:19 +0100">
+                    <Title>Reflection on experiments</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="25" Type="Text" Created="2014-10-10 18:35:07 +0100" Modified="2014-10-10 18:35:10 +0100">
+                            <Title>Evaluate them</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="14" Type="Text" Created="2014-10-10 15:22:30 +0100" Modified="2014-10-10 15:22:34 +0100">
+                    <Title>Conclusion</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="10" Type="Folder" Created="2014-10-10 15:21:05 +0100" Modified="2014-10-10 20:40:36 +0100">
+            <Title>Appendices</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Blackboard.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="1" Type="ResearchFolder" Created="2014-10-10 15:08:45 +0100" Modified="2014-10-10 15:08:45 +0100">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="26" Type="PDF" Created="2014-10-06 17:26:09 +0100" Modified="2014-10-07 18:25:56 +0100">
+                    <Title>Tech Heirlooms - considerations</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="45" Type="PDF" Created="2014-04-21 01:11:25 +0100" Modified="2014-04-21 01:11:25 +0100">
+                    <Title>LiteratureReview-light</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="6" Type="Folder" Created="2014-10-10 15:08:45 +0100" Modified="2014-10-10 15:08:45 +0100">
+            <Title>Notes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Notes (Blue Notepad).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="7" Type="Folder" Created="2014-10-10 15:08:45 +0100" Modified="2014-10-10 15:08:45 +0100">
+            <Title>Ideas</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Light Bulb.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="2" Type="TrashFolder" Created="2014-10-10 15:08:45 +0100" Modified="2014-10-10 15:08:45 +0100">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="9" Type="PDF" Created="2014-10-10 15:08:45 +0100" Modified="2014-10-10 15:08:45 +0100">
+                    <Title>Example Essay</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="8" Type="Text" Created="2014-10-10 15:08:45 +0100" Modified="2014-10-10 15:08:45 +0100">
+                    <Title>About</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Information.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>492,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="12" Type="Text" Created="2014-10-10 15:21:24 +0100" Modified="2014-10-10 15:21:24 +0100">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="13" Type="Text" Created="2014-10-10 15:21:29 +0100" Modified="2014-10-10 15:21:29 +0100">
+                            <Title>Untitled</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="15" Type="Text" Created="2014-10-10 15:32:33 +0100" Modified="2014-10-10 15:32:33 +0100">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="27" Type="Folder" Created="2014-10-10 19:55:27 +0100" Modified="2014-10-10 19:55:27 +0100">
+                    <Title>dissertation</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="29" Type="Folder" Created="2014-10-10 19:55:27 +0100" Modified="2014-10-10 19:55:27 +0100">
+                            <Title>LiteratureReview</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="30" Type="Image" Created="2014-04-21 00:25:38 +0100" Modified="2014-04-21 00:25:38 +0100">
+                                    <Title>3D-backups-serrano</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="31" Type="PDF" Created="2014-04-19 00:57:47 +0100" Modified="2014-09-16 16:23:37 +0100">
+                                    <Title>draft-annotated</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>pdf</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="32" Type="Text" Created="2014-04-06 00:33:31 +0100" Modified="2014-04-10 02:37:30 +0100">
+                                    <Title>Draft</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="33" Type="Text" Created="2014-04-14 18:00:48 +0100" Modified="2014-04-19 11:48:49 +0100">
+                                    <Title>Draft2</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="34" Type="PDF" Created="2014-04-20 10:01:50 +0100" Modified="2014-04-20 10:01:50 +0100">
+                                    <Title>draft3-annotated</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>pdf</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="35" Type="Text" Created="2014-04-20 10:02:01 +0100" Modified="2014-08-01 22:32:45 +0100">
+                                    <Title>Draft3</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="36" Type="PDF" Created="2014-04-21 01:11:25 +0100" Modified="2014-04-21 01:11:25 +0100">
+                                    <Title>LiteratureReview-light</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>pdf</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="37" Type="Text" Created="2014-04-14 18:00:48 +0100" Modified="2014-04-20 16:23:42 +0100">
+                                    <Title>LiteratureReview</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="38" Type="Other" Created="2014-04-06 00:33:20 +0100" Modified="2014-04-21 01:29:58 +0100">
+                                    <Title>LiteratureReviewLayout</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>indd</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="39" Type="PDF" Created="2014-04-21 01:11:00 +0100" Modified="2014-04-21 01:11:00 +0100">
+                                    <Title>LiteratureReviewLayout</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>pdf</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="40" Type="Other" Created="2014-04-06 22:58:20 +0100" Modified="2014-04-13 21:45:06 +0100">
+                                    <Title>mindmap</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>mindnode</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="41" Type="Image" Created="2014-04-21 00:27:50 +0100" Modified="2014-04-21 00:27:50 +0100">
+                                    <Title>sensor-poetics-screenshot</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>png</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                                <BinderItem ID="42" Type="Text" Created="2014-04-14 00:08:09 +0100" Modified="2014-04-14 03:22:35 +0100">
+                                    <Title>Structure</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="43" Type="Image" Created="2014-04-21 00:24:58 +0100" Modified="2014-04-21 00:24:58 +0100">
+                                    <Title>weather-camera-wilkins</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpeg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="44" Type="Text" Created="2014-04-07 19:03:44 +0100" Modified="2014-04-07 19:03:44 +0100">
+                            <Title>README</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="46" Type="Folder" Created="2014-10-10 20:35:47 +0100" Modified="2014-10-10 20:35:47 +0100">
+                    <Title>New Folder</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="C3DF17CD-B9A6-495F-B80F-3E8B47762C4B" Color="0.784753 0.815752 0.848702">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="0D53BC99-F728-41DC-B07E-50F35053E8C1" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="1" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2014-10-27 12:30:22 +0000" IgnoreDeadline="No">7500</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="4-5" CanWriteOnDeadlineDate="No">500</SessionTarget>
+        <PreviousSession Words="427" Characters="2777" Date="2014-10-10 15:08:44 +0100"></PreviousSession>
+    </ProjectTargets>
+    <ProjectReferences>
+        <Reference Destination="file://localhost/Users/DeadPx/Dropbox/DIxD/3rdYear/Research%20&amp;%20Creative%20Practice/ebooks/Tech%20Heirlooms%20-%20considerations.pdf">Tech Heirlooms - considerations</Reference>
+        <Reference Destination="">{Jung:2013ua}</Reference>
+    </ProjectReferences>
+    <PrintSettings PaperSize="595.280029,841.890015" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>
