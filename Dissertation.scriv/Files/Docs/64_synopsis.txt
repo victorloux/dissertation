@@ -1,0 +1,2 @@
+Demographics: Who participated in it, ages, gender, profession/background.
+Maybe use a table? Do not allow to individually identify the participants
