@@ -1,0 +1,3 @@
+“Materials may be lost in the event of disasters such as fire, flood, equipment failure, or virus or direct attack that disables stored data and operating systems”
+
+src? + same if you store it locally, need for backups in different locations

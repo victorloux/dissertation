@@ -1,0 +1,3 @@
+“Access barriers such as password protection, encryption, security devices, or hard-coded access paths may prevent ongoing access beyond the very limited circumstances for which they were designed”
+
+need to keep crawlers up to date if archiving functions are not provided

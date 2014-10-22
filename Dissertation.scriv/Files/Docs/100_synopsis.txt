@@ -1,0 +1,1 @@
+Migration is the transformation of a document’s content to a format that is not necessarily standardised, but at least current; or, the newer version of same format. This could be, for example, transferring documents from the WordPerfect 6 format (used in the 80s and late 90s) to a Word 2011 format, or a Word 98 file to Word 2011
