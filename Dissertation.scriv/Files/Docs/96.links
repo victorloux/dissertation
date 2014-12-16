@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Links Version="1.0" Anchor="RTF">
     <CommentsAndFootnotes>
-        <Comment IsFootnote="Yes" Collapsed="No" ID="07EC9ECE-10DA-41DA-A6DB-07B1A1C2B6F7">
-            <Range>777,10</Range>
+        <Comment IsFootnote="Yes" FootnoteNumber="11" Collapsed="No" ID="07EC9ECE-10DA-41DA-A6DB-07B1A1C2B6F7">
+            <Range>854,10</Range>
             <Color>0.85 0.85 0.85</Color>
             <RTF><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
 {\fonttbl\f0\fnil\fcharset0 Verdana;}
@@ -11,8 +11,8 @@
 
 \f0\fs20 \cf0 http://www.socialsafe.net/}]]></RTF>
         </Comment>
-        <Comment IsFootnote="Yes" Collapsed="No" ID="6C4983ED-7BEA-451B-814F-783BCFA707D2">
-            <Range>791,8</Range>
+        <Comment IsFootnote="Yes" FootnoteNumber="12" Collapsed="No" ID="6C4983ED-7BEA-451B-814F-783BCFA707D2">
+            <Range>868,8</Range>
             <Color>0.85 0.85 0.85</Color>
             <RTF><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
 {\fonttbl\f0\fnil\fcharset0 Verdana;}

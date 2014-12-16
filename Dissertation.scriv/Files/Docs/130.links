@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Links Version="1.0" Anchor="RTF">
     <CommentsAndFootnotes>
-        <Comment IsFootnote="Yes" Collapsed="No" ID="9ED45C56-D2F9-4A7A-8777-7AC5AABCFEF4">
+        <Comment IsFootnote="Yes" FootnoteNumber="9" Collapsed="No" ID="9ED45C56-D2F9-4A7A-8777-7AC5AABCFEF4">
             <Range>190,44</Range>
             <Color>0.85 0.85 0.85</Color>
             <RTF><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
@@ -13,7 +13,7 @@
 \
 http://fortune.com/2013/05/21/5-worst-internet-acquisitions-of-all-time/ [Accessed 21st Oct. 2014]}]]></RTF>
         </Comment>
-        <Comment IsFootnote="Yes" Collapsed="No" ID="F989E534-9597-4EFC-85BB-8D4864C2AAA1">
+        <Comment IsFootnote="Yes" FootnoteNumber="10" Collapsed="No" ID="F989E534-9597-4EFC-85BB-8D4864C2AAA1">
             <Range>1759,35</Range>
             <Color>0.85 0.85 0.85</Color>
             <RTF><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210

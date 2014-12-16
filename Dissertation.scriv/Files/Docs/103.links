@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Links Version="1.0" Anchor="RTF">
     <CommentsAndFootnotes>
-        <Comment IsFootnote="Yes" Collapsed="No" ID="E1CC3901-238B-477A-A664-BBF0902C7E13">
+        <Comment IsFootnote="Yes" FootnoteNumber="2" Collapsed="No" ID="E1CC3901-238B-477A-A664-BBF0902C7E13">
             <Range>805,27</Range>
             <Color>0.85 0.85 0.85</Color>
             <RTF><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
@@ -11,7 +11,7 @@
 
 \f0\fs20 \cf0 http://blog.twitpic.com/2014/09/twitpic-is-shutting-down/ [Accessed 20th October 2014]}]]></RTF>
         </Comment>
-        <Comment IsFootnote="Yes" Collapsed="No" ID="476BCAD6-E211-4E59-8C29-9A694F313417">
+        <Comment IsFootnote="Yes" FootnoteNumber="3" Collapsed="No" ID="476BCAD6-E211-4E59-8C29-9A694F313417">
             <Range>1306,20</Range>
             <Color>0.85 0.85 0.85</Color>
             <RTF><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210

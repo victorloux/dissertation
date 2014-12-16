@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Links Version="1.0" Anchor="RTF">
     <CommentsAndFootnotes>
-        <Comment IsFootnote="Yes" Collapsed="No" ID="D37E1E18-C486-4B3E-869B-A7F055A8FB1F">
+        <Comment IsFootnote="Yes" FootnoteNumber="13" Collapsed="No" ID="D37E1E18-C486-4B3E-869B-A7F055A8FB1F">
             <Range>850,5</Range>
             <Color>0.85 0.85 0.85</Color>
             <RTF><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
@@ -11,7 +11,7 @@
 
 \f0\fs18 \cf0 The article is only credited to the developer\'92s pseudonym.}]]></RTF>
         </Comment>
-        <Comment IsFootnote="Yes" Collapsed="No" ID="C2085F95-CF48-4974-8AAB-7067913B0AB3">
+        <Comment IsFootnote="Yes" FootnoteNumber="14" Collapsed="No" ID="C2085F95-CF48-4974-8AAB-7067913B0AB3">
             <Range>4011,5</Range>
             <Color>0.85 0.85 0.85</Color>
             <RTF><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210

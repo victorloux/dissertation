@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Links Version="1.0" Anchor="RTF">
     <CommentsAndFootnotes>
-        <Comment IsFootnote="Yes" Collapsed="No" ID="EFA9C7C8-DF63-438D-9164-68499C4A092A">
+        <Comment IsFootnote="Yes" FootnoteNumber="4" Collapsed="No" ID="EFA9C7C8-DF63-438D-9164-68499C4A092A">
             <Range>3,4</Range>
             <Color>0.85 0.85 0.85</Color>
             <RTF><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
@@ -11,7 +11,7 @@
 
 \f0\fs20 \cf0 http://ascii.textfiles.com/archives/1649 [Accessed 20th October 2014]}]]></RTF>
         </Comment>
-        <Comment IsFootnote="Yes" Collapsed="No" ID="EFB11AE6-621E-45CA-A641-AD4B86A522B1">
+        <Comment IsFootnote="Yes" FootnoteNumber="5" Collapsed="No" ID="EFB11AE6-621E-45CA-A641-AD4B86A522B1">
             <Range>165,116</Range>
             <Color>0.85 0.85 0.85</Color>
             <RTF><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
@@ -21,7 +21,7 @@
 
 \f0\fs20 \cf0 http://archiveteam.org [Accessed 20th October 2014]}]]></RTF>
         </Comment>
-        <Comment IsFootnote="Yes" Collapsed="No" ID="57CA9025-D41C-4158-A45E-ECF238F6E364">
+        <Comment IsFootnote="Yes" FootnoteNumber="6" Collapsed="No" ID="57CA9025-D41C-4158-A45E-ECF238F6E364">
             <Range>300,22</Range>
             <Color>0.85 0.85 0.85</Color>
             <RTF><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
@@ -31,7 +31,7 @@
 
 \f0\fs20 \cf0 Using \'93crawling\'94, a technique used by search engines to easily find all the pages of a website by copying a page and recursively going through all of its links.}]]></RTF>
         </Comment>
-        <Comment IsFootnote="Yes" Collapsed="No" ID="904F5815-0736-47EB-BC54-4D8052799918">
+        <Comment IsFootnote="Yes" FootnoteNumber="7" Collapsed="No" ID="904F5815-0736-47EB-BC54-4D8052799918">
             <Range>1026,7</Range>
             <Color>0.85 0.85 0.85</Color>
             <RTF><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
@@ -43,7 +43,7 @@
 \i loss
 \i0  of information considered useful (Barrett, 1995, p.185)}]]></RTF>
         </Comment>
-        <Comment IsFootnote="Yes" Collapsed="No" ID="5DB72E74-A343-4C31-B31A-2C6C65D02012">
+        <Comment IsFootnote="Yes" FootnoteNumber="8" Collapsed="No" ID="5DB72E74-A343-4C31-B31A-2C6C65D02012">
             <Range>1884,5</Range>
             <Color>0.85 0.85 0.85</Color>
             <RTF><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210

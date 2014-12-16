@@ -225,7 +225,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<key>SCRIncludeTextKey</key>
 			<true/>
 			<key>SCRIncludeTitlesKey</key>
-			<false/>
+			<true/>
 			<key>SCRMetaDataAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
@@ -340,16 +340,16 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	</data>
 	<key>SCRCompileFootnotesFontKey</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAZOU0ZvbnQehIQITlNPYmplY3QAhYQBaSyEBVs0
-	NGNdBgAAACQAAAD//lQAaQBtAGUAcwBOAGUAdwBSAG8AbQBhAG4AUABTAE0AVACEAWYK
-	hAFjAJgBmACYAIY=
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAZOU0ZvbnQehIQITlNPYmplY3QAhYQBaSSEBVsz
+	NmNdBgAAABwAAAD//kgAZQBsAHYAZQB0AGkAYwBhAE4AZQB1AGUAhAFmCYQBYwCYAZgA
+	mACG
 	</data>
 	<key>SCRCompileFootnotesHaveSeparatorKey</key>
 	<true/>
 	<key>SCRCompileFootnotesRestartEachPageKey</key>
 	<false/>
 	<key>SCRCompileFootnotesStyleKey</key>
-	<integer>3</integer>
+	<integer>0</integer>
 	<key>SCRCompileFormatKey</key>
 	<integer>20</integer>
 	<key>SCRCompileFountainHeadersUsesBinderIndentsKey</key>
@@ -421,7 +421,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileIncludesSubtitlesKey</key>
 	<true/>
 	<key>SCRCompileIndentFootnotesToMatchTextKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileInlineAnnotationClosingMarkerKey</key>
 	<string>]</string>
 	<key>SCRCompileInlineAnnotationOpeningMarkerKey</key>
@@ -528,7 +528,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileOverridePreservesLineSpacingKey</key>
 	<false/>
 	<key>SCRCompileOverrideTextAndNotesFormatKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompilePDFExportColorInternalLinksKey</key>
 	<false/>
 	<key>SCRCompilePDFExportGeneratesOutlineKey</key>
@@ -545,7 +545,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompilePageBottomMarginUnitsKey</key>
 	<integer>1</integer>
 	<key>SCRCompilePageLeftMarginKey</key>
-	<real>1</real>
+	<real>1.5</real>
 	<key>SCRCompilePageLeftMarginUnitsKey</key>
 	<integer>1</integer>
 	<key>SCRCompilePageRightMarginKey</key>
@@ -602,7 +602,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileRemoveHighlightingKey</key>
 	<false/>
 	<key>SCRCompileRemoveInlineAnnotationsKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileRemoveTextColorKey</key>
 	<false/>
 	<key>SCRCompileRemoveTrailingWhitespaceKey</key>
@@ -667,11 +667,11 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<key>SCRIncludeNotesKey</key>
 			<integer>0</integer>
 			<key>SCRIncludeSynopsesKey</key>
-			<integer>0</integer>
+			<false/>
 			<key>SCRIncludeTextKey</key>
 			<integer>1</integer>
 			<key>SCRIncludeTitlesKey</key>
-			<integer>0</integer>
+			<true/>
 			<key>SCRMetaDataAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
@@ -791,7 +791,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<key>SCRIncludeTextKey</key>
 			<integer>1</integer>
 			<key>SCRIncludeTitlesKey</key>
-			<integer>0</integer>
+			<true/>
 			<key>SCRMetaDataAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
@@ -908,18 +908,18 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileUsePeriodSpaceFootnoteMarkerStyleKey</key>
 	<false/>
 	<key>SCRCompileUseProjectPageSetupKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileVariableReplacementsKey</key>
 	<array>
 		<dict>
 			<key>replacement</key>
-			<string>YourStudentID</string>
+			<string>110017909</string>
 			<key>variable</key>
 			<string>{StudentID}</string>
 		</dict>
 		<dict>
 			<key>replacement</key>
-			<string>SupervisorSurname</string>
+			<string>Research &amp; Creative Practice</string>
 			<key>variable</key>
 			<string>{Supervisor-Surname}</string>
 		</dict>
@@ -948,6 +948,8 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<string>SUPERVISOR_NAME</string>
 		</dict>
 	</array>
+	<key>SCRPlaceTitleAsRunInHeadKey</key>
+	<false/>
 	<key>SCRTemplateCompileSettingsTitle</key>
 	<string>Undergraduate Humanities Essay</string>
 </dict>
