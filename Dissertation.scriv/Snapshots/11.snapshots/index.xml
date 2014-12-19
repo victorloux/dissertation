@@ -2,7 +2,7 @@
 <Snapshots Version="1.0">
     <Snapshot>
         <Title>Untitled (Save)</Title>
-        <Date>2014-10-17 14:34:39 +0100</Date>
+        <Date>2014-10-17 15:34:39 +0200</Date>
         <Links Version="1.0" Anchor="RTF">
             <CommentsAndFootnotes>
                 <Comment IsFootnote="Yes" FootnoteNumber="1" Collapsed="No" ID="1CA3045B-876A-476C-AD24-36EAE05CD3EB">
@@ -23,7 +23,7 @@ https://web.archive.org/web/20141007035034/http://www.ebizmba.com/articles/socia
     </Snapshot>
     <Snapshot>
         <Title>Untitled (Save)</Title>
-        <Date>2014-10-17 16:37:58 +0100</Date>
+        <Date>2014-10-17 17:37:58 +0200</Date>
         <Links Version="1.0" Anchor="RTF">
             <CommentsAndFootnotes>
                 <Comment IsFootnote="Yes" FootnoteNumber="1" Collapsed="No" ID="1CA3045B-876A-476C-AD24-36EAE05CD3EB">
@@ -44,7 +44,7 @@ https://web.archive.org/web/20141007035034/http://www.ebizmba.com/articles/socia
     </Snapshot>
     <Snapshot>
         <Title>Untitled (Save)</Title>
-        <Date>2014-10-18 17:14:53 +0100</Date>
+        <Date>2014-10-18 18:14:53 +0200</Date>
         <Links Version="1.0" Anchor="RTF">
             <CommentsAndFootnotes>
                 <Comment IsFootnote="Yes" FootnoteNumber="1" Collapsed="No" ID="1CA3045B-876A-476C-AD24-36EAE05CD3EB">
@@ -65,7 +65,28 @@ https://web.archive.org/web/20141007035034/http://www.ebizmba.com/articles/socia
     </Snapshot>
     <Snapshot>
         <Title>Untitled (Save)</Title>
-        <Date>2014-10-22 16:58:44 +0100</Date>
+        <Date>2014-10-22 17:58:44 +0200</Date>
+        <Links Version="1.0" Anchor="RTF">
+            <CommentsAndFootnotes>
+                <Comment IsFootnote="Yes" FootnoteNumber="1" Collapsed="No" ID="1CA3045B-876A-476C-AD24-36EAE05CD3EB">
+                    <Range>2105,22</Range>
+                    <Color>0.85 0.85 0.85</Color>
+                    <RTF><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
+{\fonttbl\f0\fnil\fcharset0 Verdana;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs20 \cf0 Source http://www.ebizmba.com/articles/social-networking-websites\
+[Accessed 17/10/2014]\
+https://web.archive.org/web/20141007035034/http://www.ebizmba.com/articles/social-networking-websites\
+}]]></RTF>
+                </Comment>
+            </CommentsAndFootnotes>
+        </Links>
+    </Snapshot>
+    <Snapshot>
+        <Title>Untitled (Save)</Title>
+        <Date>2014-12-18 15:53:23 +0100</Date>
         <Links Version="1.0" Anchor="RTF">
             <CommentsAndFootnotes>
                 <Comment IsFootnote="Yes" FootnoteNumber="1" Collapsed="No" ID="1CA3045B-876A-476C-AD24-36EAE05CD3EB">
