@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2014-12-19 15:02:16 +0100">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2014-12-21 01:05:53 +0100">
     <Binder>
         <BinderItem ID="0" Type="DraftFolder" Created="2014-10-10 16:08:45 +0200" Modified="2014-10-10 16:23:28 +0200">
             <Title>Dissertation</Title>
@@ -647,7 +647,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="20" Type="Text" Created="2014-10-10 19:30:22 +0200" Modified="2014-12-07 10:49:56 +0100">
+                                <BinderItem ID="20" Type="Text" Created="2014-10-10 19:30:22 +0200" Modified="2014-12-21 00:01:53 +0100">
                                     <Title>Historically</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -685,7 +685,7 @@
                                         <IconFileName>Lectern.tiff</IconFileName>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>378,0</TextSelection>
+                                        <TextSelection>7568,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -718,10 +718,10 @@
                             <Title>Demographics</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>71,0</NotesTextSelection>
+                                <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>976,0</TextSelection>
+                                <TextSelection>195,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="65" Type="Text" Created="2014-10-17 14:18:13 +0200" Modified="2014-10-17 14:18:22 +0200">
@@ -809,7 +809,7 @@
                         <Target Type="Words" Notify="No">650</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="140" Type="Text" Created="2014-12-19 11:13:18 +0100" Modified="2014-12-19 14:58:19 +0100">
+                <BinderItem ID="140" Type="Text" Created="2014-12-19 11:13:18 +0100" Modified="2014-12-20 23:51:45 +0100">
                     <Title>Figures list</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -817,7 +817,7 @@
                         <IconFileName>Characters (Photo).tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>11299,0</TextSelection>
+                        <TextSelection>4713,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="70" Type="Text" Created="2014-10-17 16:59:31 +0200" Modified="2014-10-20 16:47:40 +0200">
@@ -833,14 +833,14 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="73" Type="Text" Created="2014-10-17 17:03:00 +0200" Modified="2014-12-11 03:43:59 +0100">
+                        <BinderItem ID="73" Type="Text" Created="2014-10-17 17:03:00 +0200" Modified="2014-12-21 00:01:15 +0100">
                             <Title>Referenced</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2542,0</TextSelection>
+                                <TextSelection>4023,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="72" Type="Text" Created="2014-10-17 17:02:50 +0200" Modified="2014-10-20 16:47:48 +0200">
@@ -1542,7 +1542,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2014-10-27 13:30:22 +0100" IgnoreDeadline="No">7500</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="4-5" CanWriteOnDeadlineDate="No">500</SessionTarget>
-        <PreviousSession Words="1736" Characters="11300" Date="2014-12-19 00:50:48 +0100"></PreviousSession>
+        <PreviousSession Words="28" Characters="205" Date="2014-12-21 00:00:19 +0100"></PreviousSession>
     </ProjectTargets>
     <ProjectReferences>
         <Reference Destination="file://localhost/Users/DeadPx/Dropbox/DIxD/3rdYear/Research%20&amp;%20Creative%20Practice/ebooks/Tech%20Heirlooms%20-%20considerations.pdf">Tech Heirlooms - considerations</Reference>
