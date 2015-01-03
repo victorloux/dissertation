@@ -55,8 +55,16 @@ Library of Congress (2010). How Tweet It Is!: Library Acquires Entire Twitter Ar
 Haynes, C. (2013a). Drawing Time. [Blog] Thinking in Practice. Available at: http://thinking-in-practice.com/drawing-time-petrie-museum-cathy-haynes [Accessed 6 Dec. 2014].
 Haynes, C. (2013b). How do you map a life?. [Blog] The Timekeeper Project. Available at: http://astormisblowing.org/2013/10/11/how-do-you-map-a-life/ [Accessed 6 Dec. 2014].
 Haynes, C. (2012). How to Map a Life. [Lecture at We Are The Time conference]. Studium Generale Rietveld Academie, Amsterdam.  Available at: https://www.youtube.com/watch?v=wWyKUy0MIJ4 [Accessed: 3rd Dec. 2014].
-Sterne, L. (p/2012).  The Life and Opinions of Tristram Shandy, Gentleman. [ebook]. Salt Lake City: Project Gutenberg. Available from: http://www.gutenberg.org/ebooks/39270 [Accessed: 7th Dec. 2014]. pp. 347-348 (Book IV, chapter XL). -&gt; Illustrations for disordered life. In-text: (Sterne [1761] 2012, p. 347)
-Boroditsky, L. (2011). How Languages Construct Time. In: S. Dehaene and E. M. Brannon, eds., Space, Time and Number in the Brain, 1st ed. San Diego: Academic Press, pp.333-341. Available at: doi:10.1016/B978-0-12-385948-8.00020-7(http://dx.doi.org/10.1016/B978-0-12-385948-8.00020-7) [Accessed 7 Dec. 2014].</Text>
+Haynes, C. (2014). What would life be like without the word Time? [Blog] Stereochron Island. Available at: http://stereochron.org/post/93491431833/what-would-life-be-like-without-the-word-time [Accessed: 21st Dec. 2014]
+Sterne, L. (1761/2012).  The Life and Opinions of Tristram Shandy, Gentleman. [ebook]. Salt Lake City: Project Gutenberg. Available from: http://www.gutenberg.org/ebooks/39270 [Accessed: 7th Dec. 2014]. pp. 347-348 (Book IV, chapter XL). -&gt; Illustrations for disordered life. In-text: (Sterne [1761] 2012, p. 347)
+Boroditsky, L. (2011). How Languages Construct Time. In: S. Dehaene and E. M. Brannon, eds., Space, Time and Number in the Brain, 1st ed. San Diego: Academic Press, pp.333-341. Available at: doi:10.1016/B978-0-12-385948-8.00020-7(http://dx.doi.org/10.1016/B978-0-12-385948-8.00020-7) [Accessed 7 Dec. 2014].
+Strass, F. and Bell, W. (1812). Descriptive Guide to “The Stream of Time,” or, General Outline of Universal History, Chronology, and Biography, at One View. Hull: Joseph Simmons. Available at: https://books.google.com/books?id=qhVXAAAAcAAJ&amp;lpg=PP1&amp;ots=prHRRzNJbd&amp;pg=PA8 [Accessed 21 Dec. 2014]. pp. 8-10.
+Lewis, R. (2014). How Different Cultures Understand Time. Business Insider. [online] Available at: http://www.businessinsider.com/how-different-cultures-understand-time-2014-5 [Accessed 22 Dec. 2014].
+Fowler, H. and Burchfield, R. (1996). The new Fowler's modern English usage. Oxford: Clarendon Press, pp. 197–198.
+Hornung, E. (1999). The ancient Egyptian books of the afterlife. Ithaca, N.Y.: Cornell University Press. p. 78.
+Stern, S. (2003). Time and Process in Ancient Judaism. Oxford and Portland, Oregon: The Littman Library of Jewish Civilization, p. 127.
+Lipton, D. (2005). Reviewed Work: Time and Process in Ancient Judaism by Sacha Stern. Bulletin of the School of Oriental and African Studies, University of London, [online] 68(1), pp. 103-104. Available at: http://www.jstor.org/stable/20181858 [Accessed 30 Dec. 2014].
+Evans-Pritchard, E.-E. (1940). The Nuer : a description of the modes of livelihood and political institutions of a Nilotic people. Oxford: Clarendon Press. Available at: https://archive.org/details/nuerdescriptiono00evan [Accessed: 29th Dec. 2014]. Chapter III, pp. 94-138.</Text>
         </Document>
         <Document ID="69">
             <Title>Introduction-1</Title>
@@ -117,7 +125,7 @@ Give ~opinion~ and analysis
         <Document ID="123">
             <Title>Grammar/spelling checks</Title>
             <Text>	•	Artefact, not artifact
-	•	Data always singular (data is)
+	•	Data always singular (data is); make a style note from Guardian/Observer style guide - “data takes a singular verb (like agenda), though strictly a plural; no one ever uses "agendum" or "datum””
 	•	In-text citation: no comma after author(?)
 	•	Dates (accessed by): [Accessed 20 Oct. 2014]
 Fine type:
@@ -175,12 +183,12 @@ However, the digital age changes this situation. First, the space to store our o
         <Document ID="78">
             <Title>How to preserve</Title>
         </Document>
-        <Document ID="83">
-            <Title>Introduction copy</Title>
-        </Document>
         <Document ID="125">
             <Title>Growth of data</Title>
             <Text>The amount of data being produced digitally is growing  exponentially (SINTEF, 2013), and with this growth comes a greater volume of data worth archiving over the long term (Harvey, 2012, p. 33). However, the preservation of digital materials cause much more issues than traditional preservation paradigms; where we can consider that for paper and physical artefacts, “benign neglect may be the best treatment” (derived from Cloonan (1993, p.596), Harvey (1993, pp.14,140), and Bastian, Cloonan and Harvey (2011, pp.612–613)). </Text>
+        </Document>
+        <Document ID="83">
+            <Title>Introduction copy</Title>
         </Document>
         <Document ID="79">
             <Title>Methods for software preservation</Title>
@@ -214,17 +222,17 @@ Include figure/example - see http://www.textfiles.com/underconstruction/</Commen
 “Email has become a de facto medium of record; many people consciously deposit important information into email, knowing they can look it up later, and thereby use their email account as an informal backup device. Therefore, email archives contain or reflect memories that are extremely valuable for the purposes of reminiscence.” (Hangal et al., 2011)
 Early users reported that they have been using it to: make a summary of their work progress over the year; extract and organise certain type of data (for instance, the personal out of the professional, or the important out of the more mundane); finding life milestones inside family emails; picking up work that’s been left unfinished and forgotten; renewing with old relationships; and serendipitous discovery. The authors note in the conclusion that the different uses of their program went beyond their original expectations of simply reminiscing: “the stories above include an example of each one of the ‘5R’s’ described by Sellen and Whittaker (2010): recollection, reminiscing, retrieving, reflecting, and remembering intentions. Further, it suggests that browsing and remembering the past can affect the future.”</Text>
         </Document>
+        <Document ID="90">
+            <Title>Preservation conditions</Title>
+            <Text>This varies highly with the type of medium used and with the storage conditions; for example, samples by the Digital Preservation Coalition (2008, p. 154) show that D3 cartridge tapes deteriorates after 50 years in optimal conditions (25% RH at 10º) but only one year in high humidity and temperatures (50%RH at 28º). Similar results happen for the more commercially available optical media (down to three months and up to a theoretical 200 years), which are more sensitive to moisture (Harvey, 2012, p.47).
+</Text>
+        </Document>
         <Document ID="86">
             <Title>Software</Title>
             <Synopsis>“Access barriers such as password protection, encryption, security devices, or hard-coded access paths may prevent ongoing access beyond the very limited circumstances for which they were designed”
 
 need to keep crawlers up to date if archiving functions are not provided
 </Synopsis>
-        </Document>
-        <Document ID="90">
-            <Title>Preservation conditions</Title>
-            <Text>This varies highly with the type of medium used and with the storage conditions; for example, samples by the Digital Preservation Coalition (2008, p. 154) show that D3 cartridge tapes deteriorates after 50 years in optimal conditions (25% RH at 10º) but only one year in high humidity and temperatures (50%RH at 28º). Similar results happen for the more commercially available optical media (down to three months and up to a theoretical 200 years), which are more sensitive to moisture (Harvey, 2012, p.47).
-</Text>
         </Document>
         <Document ID="131">
             <Title>How the research is made</Title>
@@ -238,9 +246,6 @@ need to keep crawlers up to date if archiving functions are not provided
             <Title>Copying/backup</Title>
             <Text>The second advantage, the ability to accurately and easily make copies and backups, is fairly obviously an advantage for personal preservation. However, Banks (2011) notes, the process of backing up is troublesome and storage media do not make our data immune. Additionally, the use of online services to store our data creates an abstraction between the storage material and us; about Flickr: “I have no idea what kind of hardware my files are now stored or even where they are geographically. I just expect to have access to them as long as I pay my bills” (Banks, 2011, p. 27).</Text>
         </Document>
-        <Document ID="87">
-            <Title>Patents</Title>
-        </Document>
         <Document ID="91">
             <Title>Natural disasters</Title>
             <Synopsis>“Materials may be lost in the event of disasters such as fire, flood, equipment failure, or virus or direct attack that disables stored data and operating systems”
@@ -248,6 +253,9 @@ need to keep crawlers up to date if archiving functions are not provided
 src? + same if you store it locally, need for backups in different locations
 </Synopsis>
             <Text>[Natural disasters can occur to any kind of artefact and digital have advantage there because of easy backup + datacenters better protected?]</Text>
+        </Document>
+        <Document ID="87">
+            <Title>Patents</Title>
         </Document>
         <Document ID="88">
             <Title>First draft</Title>
@@ -526,8 +534,13 @@ Kirk and Sellen (2010) found however that ultimately, stories and narrative are 
 
 Conclusion</Text>
         </Document>
-        <Document ID="92">
-            <Title>Software barriers</Title>
+        <Document ID="10">
+            <Title>Appendices</Title>
+            <Synopsis>“Be honest and rigorous”
+Only contain ALL raw data/transcripts, not analysis
+
+Questions asked
+Provide on disc if long audio/video</Synopsis>
         </Document>
         <Document ID="132">
             <Title>Obstacles to digital heritage</Title>
@@ -544,13 +557,8 @@ Related concerns also emerged around how a device like BackupBox could cause fam
             <Title>Indexing &amp; cataloguing</Title>
             <Text>The first one, ease of organisation, can be significantly helpful in tackling the abundance of digital data. Banks (2011) suggests that the technologies lying behind the ranking in the result of Web search engines could, eventually, help us in understanding and finding what is our most important data.</Text>
         </Document>
-        <Document ID="10">
-            <Title>Appendices</Title>
-            <Synopsis>“Be honest and rigorous”
-Only contain ALL raw data/transcripts, not analysis
-
-Questions asked
-Provide on disc if long audio/video</Synopsis>
+        <Document ID="92">
+            <Title>Software barriers</Title>
         </Document>
         <Document ID="89">
             <Title>Long draft</Title>
@@ -731,7 +739,7 @@ Conclusion
             <Text>The research presented in this dissertation stems from observations of the recent shift of many of our communications towards social networking websites. Whilst creating memories (be it photographs, videos, textual stories…) digitally rather than physically is not exactly a new thing, the places where we share them online are progressively going further away from our own control. This creates worrying uncertainty in terms of preservation of our digital legacy.
 Traditionally, we have kept what was sentimentally important to us in our homes, on materials that were not aging very fast (paper, for instance, will last for decades without any particular intervention needed to retain its integrity). Most importantly, the constraints of cost and physical space meant that we produced and kept relatively few artifacts, retaining only what was the most important to us in our lives. The immateriality of current technologies, however, allow us to create these artifacts very cheaply and store hundreds of these elements in a reduced space, which progressively eliminates this need for curation and selection, and instead let us record our lives more frequently and accumulate these records.
 But this immateriality does not come without its downsides. Digital information is, as we will see, very fragile; not only because of the storage media used to store it, but also due to the technological obsolescence of interfaces and software to access these media. The emergence of social networks and services of “cloud” storage, however, produces a whole new issue: the long-term existence and safety of the data that we put on these is entirely dependent on the commercial success and policies of the provider. The short history of the Internet has already proven us that social networks and online spaces do not last eternally, and when they shut down or stop being maintained, our data disappears forever (examples include Bebo, MSN, MySpace, Orkut, GeoCities…). There are numerous reasons, that will be described later in this dissertation, to think that some (if not all) of the dominant social networks at the time of writing (Facebook, Twitter, Instagram, LinkedIn, Pinterest…) will be replaced in a few years and that our data will share the same fate, with possibly bigger consequences considering the extreme growth in the amount of users and content shared. There is an alarming lack of awareness about this impending destruction  of our memories, and most importantly a lack of simple solutions for the general public to be able to preserve digital memories over the long term. The questions that I will try to answer here are: is it worth capturing digital memories shared on social networks? How to store these in the long-term? Which privacy levels are desired for that content? And finally, how can we design an interface that would allow users to go through a complex lifetime of digital memories in a meaningful and organised way? 
-The present research was done in parallel with my final year's honours project that is aiming to tackle this issue. As such I have used elements of the development of this project to inform the questions asked, and used prototypes to gather insights and find answers. Through a literature review in the field of digital preservation, semi-structured interviews and user testing I am trying here to answer these questions, and decrypt a bit further the large question of personal archiving and representation of events over time.</Text>
+The present research was done in parallel with my final year's honours project that is aiming to tackle this issue. As such I have used elements of the development of this project to inform the questions asked, and used prototypes to gather insights and find answers. Through a literature review in the field of digital preservation, structured interviews and user testing I am trying here to answer these questions, and decrypt a bit further the large question of personal archiving and representation of events over time.</Text>
             <Comments>Source http://www.ebizmba.com/articles/social-networking-websites
 [Accessed 17/10/2014]
 https://web.archive.org/web/20141007035034/http://www.ebizmba.com/articles/social-networking-websites
@@ -803,6 +811,12 @@ While this is a correct idea, I think that few people kept their letters in the 
         <Document ID="13">
             <Title>Untitled</Title>
         </Document>
+        <Document ID="134">
+            <Title>Results</Title>
+        </Document>
+        <Document ID="14">
+            <Title>Conclusion</Title>
+        </Document>
         <Document ID="96">
             <Title>For social networks</Title>
             <Text>In preparation of future data losses, perhaps, the US Library of Congress maintains a permanent archive of Twitter since 2010 (LoC, 2010). However, this is again kept with a cultural intention: “The public Twitter stream is of historical cultural significance and is an amazing repository of mundane moments in the daily lives of many people and records of what they thought important” (Baym, 2010). Keeping a parallel with the GeoCities archive, I believe that the jargon, hashtags and emojis of the present day could become the ‘Under Construction’ GIFs of the next decade, becoming relics and symbols of a time on the Internet. However, there seems to be little possibility for individuals to create archives of their own account, for retrieving their memories at a later time and not from a scientific/historical perspective. A few services, such as SocialSafe or Frostbox offer to back up social media accounts; they are principally marketed towards businesses and authorities, whose communications on social media need to be archived in case of dispute, but they can also be used by individuals. However these services are subscription-based (or offer subscription-based premiums, but back up using proprietary archive formats) and as such we are simply repeating the situation of social networking sites, where backed up data could disappear if the companies go out of business — possibly in a worse way, since these companies do not have the financial means of social networks to survive for very long.</Text>
@@ -811,12 +825,6 @@ http://www.frostbox.com/</Comments>
             <Notes>In The Future of Looking Back, Richard Banks (2011) analyses the reasons that lead us to keep or discard physical objects at home. He argues that while making a selection is a positive thing because it forces us to filter our belongings and focus on what is really meaningful, we also run the risk of ridding ourselves of things that we wish we would have kept in retrospect. He points out that the organisation of digital files make this trickier: because we we can keep pretty much everything on virtual space, it is easier to accidentally delete meaningful things alongside the less important. (Banks, 2011 p. 22).
 In the context of personal archiving, Banks notes that in the past, the legacy we leave behind us was a highly selective one. Because our possessions are limited by physical space, our ancestors until now “have implicitly indicated that an item is significant through the simple act of keeping it. Although thousands of objects likely crossed their path over their lifetime, the constraints of money and space meant that only a few were retained, often the most significant.” (Banks, 2011, p. 78). He does however argue that this is no longer true in a digital world, because new possibilities mean we simply accumulate digital objects without necessarily ordering them by importance.
 </Notes>
-        </Document>
-        <Document ID="14">
-            <Title>Conclusion</Title>
-        </Document>
-        <Document ID="134">
-            <Title>Results</Title>
         </Document>
         <Document ID="97">
             <Title>What to preserve</Title>
@@ -828,6 +836,76 @@ In order to keep the most valuable content, algorithms could be used. Kawano (20
         </Document>
         <Document ID="15">
             <Title>Untitled</Title>
+        </Document>
+        <Document ID="135">
+            <Title>Lecture</Title>
+            <Text>
+How do we even think about time, as people? That’s an odd question, but it’s also quite an interesting one for my project, because I need to visually represent time to represent the events happening in a life. And when you try to picture time, you transform time into space, which means it’s no longer time. So the most natural way, for us raised in a Western culture, is this…
+
+# Timeline
+
+A line. It’s a very simple, linear way of looking at time, it’s is logical order of when things happened, In terms of space, it’s a movement, that goes from the past, behind us, and the future, ahead of us. **[next slide]** The timeline on a single line is a very convenient thing because we can map units to it, all the same size, from years to minutes. And so, we’re very used to it. That’s how we’ve been taught history at school, that’s how we organise our CVs, that’s precisely, how social networks show content on a profile; your Twitter or Instagram timeline, or your own profile on Facebook is displayed, except it’s vertical instead of horizontal, the present at the top and the past below. It’s also used as another metaphor on computers…
+
+# Progress bar
+
+The progress bar. Same principle. Left: you’re at the start. Here: you’ve made some progress, you’re this close to the end. Right: there you are, you’re at the end. Simple. The very interesting thing about this is the name. **Progress** bar. We’re progressing from start to finish in terms of time. That notion of progress is very important for the timeline, keep that in mind, I’ll come back to it later. It’s actually what’s created it. The timeline as we know it, this one **[1 slide before]**, is only 250 years old. That model is very natural for us, but it’s actually a very cultural and somehow novel thing to have this single line, straight X axis with events on it that goes from left to right.
+
+# A cultural thing
+
+The origin of this direction, this movement, actually comes from reading. When we read, the upcoming information is on the right; in a sentence, or in a book, you make progress in the book. It’s an important thing to note because it’s very Western to think like that. Speakers of languages that are read from left to right, actually think of time in a left-to-right manner. There’s been studies *[Tversky, Kugelmass, and Winter 1991]* that asked Arabic and Hebrew speakers to order stickers, for example breakfast, lunch and dinner, or pictures from a person from younger to older, and they put it right-to-left, whereas English speakers did the reverse. And even in software, if you open software in Arabic, you’ll see that the progress bars are reversed.
+
+On a side note, interestingly, there’s been other studies that have been done with some aboriginals from Australia, the Pormpuraaw community, and their languages do not have words for left or right. They tend to use absolute space directions like North, South, West, East for everything. So for example they would say “move your cup to the north-west a little bit”, or “the boy standing on the south of Mary is my brother”. They have amazing abilities to know which way they’re facing. And so researchers have been interested to know how they think about time, because they don’t have the same cultural idea of left or right to go further. When they’ve been asked to order things, instead of putting them right to left in front of them, they lay the stickers down and been ordering them from east to west, just like the sun, from morning to evening. 
+
+# Cultural differences 2 (down arrow)
+
+But it’s not just the writing direction. Mandarin speakers tend to think of time vertically, more often than we do, even though modern Chinese is read in rows not columns, but their conception of movement is also different — they see a moving timeline and a static observer, whereas we tend to visualise ourselves moving in the static timeline. Speakers of the Aymara language, in South America, think of time from left to right, like Arabic speakers, even though the language reads right-to-left; this is because they see the past as being in front of them, something that they can look at, whereas the future is in their back, it is the unknown, what you cannot see. [Lera Boroditsky, How Language constructs time]. 
++ link to how everyday language in English carry these notions of representing time as well (before, after, long and short times, intervals [spaces in between], move an appointment two hours *back*, the clock is 5 minutes *fast* (movement) or *ahead*, we have lunch in the middle of the day, implying that day is a line when it’s more accurately a circle) [source: Cartographies of Time 2010]
+
+So. Even in the modern, current world, people tend to think of time in very different ways, different directions, different ideas of motion, for different reasons. 
+
+# Ouroboros
+
+Sometimes it’s not just a straight line. We can often find that famous Egyptian symbol, the Ouroboros, a snake or a dragon eating its tail, to represent the fact that time can be thought of as a recurring cycle, instead of something linear, with a start and with an end. Today we mostly use this representation for the dial of a clock, because days are easy to visualise as something that repeat themselves. And it’s perfectly natural; the Earth rotates continuously around the Earth, that representation actually comes from sundials. [It’s interesting because we don’t do the same thing when we pick up a calendar — personally when I think of the months, I have a straight line going from January to December but it’s not a circle even though it’s recurring.]
+
+What’s interesting about this idea, it’s that Mayan and Pagan traditions visualised history and life as something like that. For life, they didn’t see birth as a new start and death as an end, just something that kept going. [If that helps with the concept, in the Balinese language, the word for grandparent and grandchildren is the same (kumpi). They see lives as continuations of someone else’s.]
+
+Overall, from the research I’ve made, no matter which culture, our graphical representations of time are always a line, or a circle. The direction may change, the perception in terms of movement changes, but it’s still based around a line. What can change is the way we put events on it. There can be several dimensions to it. There can be several parallel lines. There can be streams of events merging and separating.
+
+# The history of the timeline
+
+18 - Genealogical tree, descendants of Noah’s son Japhet [Hartmann Schedel]
+19 - record of English history from Alfred the Great (871–99) to Henry III (1216–72),
+[Peter of Poitiers] (13th century)
+20 - 1475 Epitome of chronicles and histories
+21 - [twelfth-century] Joachim of Fiore - biblical past, Christian present, and a transformed future into a single, complex vision
+22 - [16th century] Johann Funck’s - historical calendar, great events of Old and New Testament history
+23 - paper chart with a pivoting central arm. Rings representing kingdoms and radial wedges representing centuries. The names of kingdoms are printed on the moveable arm. 
+24 - [Johann Georg Hagelgans] 1718 - maintained the familiar historical matrix in the background, his enormous charts burst through everywhere with images, maps, and data.
+25 - 1769 [Joseph Priestley] - A New Chart of History.  **Regularized the distribution of dates**.
+26 -  Girolamo Andrea Martignoni - Historical map of Italy, 1721 - like a map, rivers and land masses turn out not to be landscape features but temporal metaphors —territories of history and rivers of time. [The streams at the top of the chart represent the nations conquered by the Roman Empire; those at the bottom, the nations that emerged from it; and the great lake at the center, the empire itself.]
+27 -  Edward Quin’s An Historical Atlas, [1828]. Quin’s maps showed how the political world was divided up at different moments of history, and, through
+the device of clouds rolling back, he indicated how much of the world was known to the West at each stage in history.
+28 - Friedrich Strass [1804] Strom der Zeiten
+29 - [Richard Cunningham Shimeall] - 1833 - radial columns represent centuries from the Creation to the Apocalypse.
+30 - Wallis’ New Game of Universal History and Chronology [1840]. Such events as the first use of paper in England, the invention of engraving, and the discovery of longitude.
+31 - Emma Willard’s Temple of Time from 1846 - standing columns represent centuries: those on the right are emblazoned with the names of important historical figures of the old world, those on the left, of the new. The floor shows a historical stream chart. The ceiling functions as a chart of biography.
+
+So after all that you’re probably wondering…
+
+# WHERE AM I GOING WITH ALL THIS 
+also when’s the cake
+
+My point is that there’s there’s several things happening at the same time, and more importantly that
+# A life doesn’t look like this
+But more like this **[next slide]**
+The inventor of the timeline himself, Priestley, recognised that “historical narrative is not linear. It **moves backward and forward making comparisons and contrasts, and branches irregularly following plots and subplots**. […] The form of the timeline emphasises overarching patterns and the big story.” The timeline is a “great mechanical help to know history, but is not an image of history itself”. *[Cartographies of Time p.20]*
+
+# Progression
+
+Before the straight timeline, people didn’t see the future as being necessarily progressive. In the 1620s, Francis Bacon changed that and thought that the **technological and scientific revolutions would mean we would keep perfecting ourselves and the nature. Things always keep getting better as technology and democracy advances.** That’s the reasoning behind the timeline, and by extension, the progress bar that I’ve shown you before: the further we get on the line, the more progress we’ve made. 
+
+**But that’s not necessarily true of our lives.** They’re not just advancing like that, they’re much more complex, like history. And if we try to visualise our life linearly, if we put too many measurements, it’s not a true picture of our life. We could do it, but I don’t think that’s ambitious, because memories link to each other and that’s how they make sense, that’s what makes them valuable. And I think overall, when we try to map out the complexity of everything that’s happened in our life, it’s more interesting to look back not at the big picture and think in terms of time units, years, months, but in terms of moments, what’s important and what’s not.
+</Text>
         </Document>
         <Document ID="98">
             <Title>Hard copies</Title>
@@ -841,10 +919,19 @@ In order to keep the most valuable content, algorithms could be used. Kawano (20
 </Synopsis>
         </Document>
         <Document ID="20">
-            <Title>Historically</Title>
-            <Text>“I’m a big fan of chronological timelines – maps that visualise history sequentially and mnemonically so we can comprehend it better. They’re such a useful, vital tool. But they are just a tool. And they have a history and a politics of their own. Part of that history comes from a fairly new idea that history is progressive. (Up until the eighteenth century and beyond the majority view was that we’re in decline and awaiting the End Times). […] That marvellous book Cartographies of Time by Anthony Grafton and Daniel Rosenberg gives a glorious visual history and analysis of how, in the mid-eighteenth century, the timeline (as we know it now) was introduced as a new form of graphic organisation of history. It unified and measured all of history in a novel way. And because the names of great men seemed to cluster closer to the present than the past it appeared to be an objective picture of historical progress. I imagine this picture also helped gradually replace the dominant idea that history is driven by divine will with the idea that the causal relationship between historical events is intrinsic, and can be shaped by human will. But that graphic device quickly became taken for a picture of truth – an objective, inarguable representation of how the past was and how the future should and will be.” (Haynes, 2013a)
+            <Title>Spatial model of timeline</Title>
+            <Text>As we have seen, the technical complexity of preserving digital information is a problem in itself. But even once we have chosen a suitable preservation scheme, there is another equally important question that must then be raised: how do we organise and retrieve our data? We cannot simply gather all digital items and let them pile up unorganised. In the context of a digital personal life, several artefacts are created daily (social network updates, emails, messages) and after a decade this can build up to tens of thousands of pieces of data, that we will need to go through once we are looking for something. 
+Most social networks present our post history using a reverse timeline; newer posts at the top, older posts at the bottom. Viewing individual events in chronological order seem like a rational choice. It is however interesting to ask ourselves how do we think about time, in order to understand why this seems rational. Time itself is not a concept that can be visualised. Whenever we think about time, we actually transform it into space in order to picture it in our minds. The most natural way, for us, is to visualise an arrow going like the one in fig. Timeline/movement.
+[Fig. Timeline/movement]
+It goes into the realm of space because it is a movement; the past is behind us and the future is ahead of us. This idea of movement is repeated in our everyday language (Weger and Pratt, 2008, p. 426 and Boroditsky, 2010, p. 334); we use the words before, after, we have times that are short and long, we have intervals (literally, spaces in between) between two times; watches can be 5 minutes fast or ahead, and calendars and clocks make us think of time on segments with a start and an end (the beginning of the month, the middle of the day). However, languages vary and research has shown that different cultures and languages have a different mental representation of time, visually, and that this idea of a line going from left to right is in fact a cultural, nurtured interpretation of time that we have as Westerners, but is not innate.
 
-But as Priestley recognised, his innovations posed problems too: historical narrative is not linear. It moves backward and forward making comparisons and contrasts, and branches irregularly following plots and subplots. Part of the advantage of the matrix form was that it facilitated the scholar’s understanding of the many intersecting trajectories of history. The form of the timeline, by contrast, emphasised overarching patterns and the big story. This proved a great advantage in some respects, but not all. And Priestley readily admitted this. For him, the timeline was a “most excellent mechanical help to the knowledge of his- tory,” not an image of history itself. (Cartographies of time p.20)</Text>
+“I’m a big fan of chronological timelines – maps that visualise history sequentially and mnemonically so we can comprehend it better. They’re such a useful, vital tool. But they are just a tool. And they have a history and a politics of their own. Part of that history comes from a fairly new idea that history is progressive. (Up until the eighteenth century and beyond the majority view was that we’re in decline and awaiting the End Times). […] That marvellous book Cartographies of Time by Anthony Grafton and Daniel Rosenberg gives a glorious visual history and analysis of how, in the mid-eighteenth century, the timeline (as we know it now) was introduced as a new form of graphic organisation of history. It unified and measured all of history in a novel way. And because the names of great men seemed to cluster closer to the present than the past it appeared to be an objective picture of historical progress. I imagine this picture also helped gradually replace the dominant idea that history is driven by divine will with the idea that the causal relationship between historical events is intrinsic, and can be shaped by human will. But that graphic device quickly became taken for a picture of truth – an objective, inarguable representation of how the past was and how the future should and will be.” (Haynes, 2013a)
+
+
+
+But as Priestley recognised, his innovations posed problems too: historical narrative is not linear. It moves backward and forward making comparisons and contrasts, and branches irregularly following plots and subplots. Part of the advantage of the matrix form was that it facilitated the scholar’s understanding of the many intersecting trajectories of history. The form of the timeline, by contrast, emphasised overarching patterns and the big story. This proved a great advantage in some respects, but not all. And Priestley readily admitted this. For him, the timeline was a “most excellent mechanical help to the knowledge of his- tory,” not an image of history itself. (Cartographies of time p.20)
+
+</Text>
         </Document>
         <Document ID="99">
             <Title>Standardisation</Title>
@@ -893,6 +980,76 @@ Link with Context &gt; Objectives &gt; Desire to visualise differently
 So what if we tried an experiment and mapped our life as we really experience it to be: a map without measurements? One that gives space to events according to their significance rather than their length in clock-time?
 What if we made that map just for our self and included what we would leave out of a job application – a map that includes the mazes and trapdoors along with the parades of glory and the leaps of progress? Might we value the failures and the ‘time wasted’ more then? And when we accept and value our past experience in all its fullness, how does that change our view of the future?” (Haynes, 2013b)</Text>
         </Document>
+        <Document ID="140">
+            <Title>Figures list</Title>
+            <Text>
+TristamShandy/diagA
+Diagrams mapping the course of Tristram Shandy’s life story, by Laurence Sterne. From the 1761 satire on linear narrative The Life and Opinions of Tristram Shandy, Gentleman.
+Sterne, L. (1761/2012).  The Life and Opinions of Tristram Shandy, Gentleman. [ebook]. Salt Lake City: Project Gutenberg. Available from: http://www.gutenberg.org/ebooks/39270 [Accessed: 7th Dec. 2014]. pp. 347-348 (Book IV, chapter XL)
+
+TristamShandy/diagB
+idem
+idem
+Cartographies/1-NurembergChronicle
+Nuremberg Chronicle by Hartmann Scheidel, undated. Depicts the descendants of  Noah’s son Japhet, using the tree as a metaphor.
+Hartmann Scheidel, Nuremberg Chronicle. Courtesy of the Department of Rare Books and Special Collections, Princeton University Library. Found in Cartographies of Time, p. 32.
+Cartographies/2-PrincetonMS57
+Record of English history from Alfred the Great (871–99) to Henry III (1216–72), in the manuscript 57 of Princeton. 
+Anonymous. Princeton MS. 57; Courtesy of the Department of Rare Books and Special Collections, Princeton University Library.  Found in Cartographies of Time, p. 35.
+Cartographies/3-Chronicarum
+Codex genealogy using vertical streams. Chronicarum et historiarum epitome, 1475, anonymous.
+Anonymous. Chronicarum et historiarum epitome, 1475. Courtesy of Burke Library, Union Theological Seminary. Found in Cartographies of Time, p. 39
+Cartographies/4-JoachimOfFiore
+Diagram showing interestecting states or ages of world history, by followers of Joachim of Fiore, in Oxfords’ manuscript 255a.
+Joachim of Fiore. 12th century. Oxford MS. 255a, Corpus Christi College, f. 11r. Cartographies of Time, p. 57.
+Cartographies/5-JohannFunck
+Historical calendar, showing events of the Old and New testaments in modern dates and terms. Johann Funck, undated.
+Johann Funck. Undated. From Cartographies of Time, p. 73
+Cartographies/6-DiscusChronologicus
+Discus chronologicus by German engraver Christoph Weigel, early 1720s. It is a paper chart with a pivoting central arm, with rings representing kingdoms and radial wedges representing centuries.
+Christoph Weigel. Discus Chronologicus. Courtesy of Department of Rare Books and Special Collections, Princeton University Library. From Cartographies of Time, p. 105
+Cartographies/7-CartaIstorica
+Historical map of Italy by Girolamo Andrea Martignoni, in 1721. It uses a visual analogy between geographic space and historical time. “Though he calls them maps, Martignoni’s works are not historical maps in the conventional sense of geographical snapshots from different moments in history: they are chronological charts presented in a cartographic form. While, at a glance, they seem to depict a circular territory with a great lake at the center and rivers running to and fro, on examination, these rivers and land masses turn out not to be landscape features but temporal metaphors—territories of history and rivers of time. The streams at the top of the chart represent the nations conquered by the Roman Empire; those at the bottom, the nations that emerged from it; and the great lake at the center, the empire itself.” [Cartographies of Time]
+Girolamo Andrea Martignoni, Spiegazione della carta istorica dell’Italia (Historical map of Italy), Rome, 1721. Courtesy of Department of Rare Books and Special Collections, Princeton University Library. From Cartographies of Time, p.109.
+Cartographies/8-AtlasHistoricus
+This very large chronological chart from the Atlas historicus, published by the German engraver Johann Georg Hagelgans in 1718, is exceptionally rich; it contains images, maps and data, while keeping a tabular format.
+Johann Georg Hagelgans, Atlas Historicus. 1718. Courtesy of Department of Rare Books and Special Collections, Princeton University Library. From Cartographies of Time, p. 107
+Cartographies/9-NewChartOfHistory
+A New Chart of History, published in 1769 by Joseph Priestley, normalised the distribution of dates.
+Joseph Priestley, A New Chart of History. 1769. Courtesy of the Library Company of Philadelphia. From Cartographies of Time, pp. 120-121
+Cartographies/10-HistoricalAtlas
+Edward Quin’s An Historical Atlas, published in 1828, is an interesting concept. Page after page, moment in history after another, it shows the progression of the political divisions and Westerners’ knowledge of the world, using clouds rolling back to mask unknown regions.
+Edward Quin, An Historical Atlas. Courtesy of Department of Rare Books and Special Collections, Princeton University Library. From Cartographies of Time, pp. 128-129
+Cartographies/11-StromDerZeiten
+Strom der Zeiten (Stream of Time) is a highly influential chart published in 1804 by Friedrich Strass in Austria. Strass thought that linear charts such as Priestley’s were misleading because their regular measurements implied that history was uniform, and instead chose to use the metaphor of streams.
+William Bell, English translation of Friedrich Strass’s 1804 Strom der Zeiten, London, 1849. Courtesy of Cotsen Children’s Collection, Department of Rare Books and Special Collections, Princeton University Library. From Cartographies of Time, p. 144
+Cartographies/12-EcclesiasticalChart
+1833 chart by Richard Cunningham Shimeall. It is read from the inside to the outside; the radial columns represent centuries from the Creation to the Apocalypse.
+Richard Cunningham Shimeall, Distinctive Complete Ecclesiastical Chart from the Earliest Records, Sacred and Profane, Down to the Present Day. 1833. Courtesy of Burke Library, Union Theological Seminary. From Cartographies of Time, p. 164
+Cartographies/13-GameOfUniversalHistory
+Wallis’ New Game of Universal History and Chronology  is a 1840 game sheet showing various technological advances such as the first use of paper in England, the invention of engraving and the discovery of longitude.
+Wallis’ New Game of Universal History and Chronology, 1840. Courtesy of Cotsen Children’s Library, Department of Rare Books and Special Collections, Princeton University Library. From Cartographies of Time, p. 194.
+Cartographies/14-WillardTemple
+Temple of Time by Emma Willard, published in 1846, is a 3D projection of chronography. Each century is represented by a standing column, with historical figures of the Old and the New world on each side, and a stream chart on the floor.
+Emma Willard, Temple of Time, 1846. Courtesy of General Research Division, The New York Public Library, Astor, Lenox and Tilden Foundations. From Cartographies of Time, p. 201
+Timelines/movement
+Timeline going from left to right
+Self made (reuse the one made for the slides)
+Timelines/progressBarWestern
+Western progress bar
+id
+Timelines/progressBarRTL
+Right-to-left progress bar
+web
+Timelines/Ouroboros
+ Ouroboros drawing from a Byzantine Greek alchemical manuscript, 1478.
+ Ouroboros drawing, from the 1478 manuscript  Parisinus graecus 2327, which was a copy of a lost manuscript of an early medieval tract attributed to Synosius of Cyrene (died in 412).
+
+</Text>
+        </Document>
+        <Document ID="136">
+            <Title>Questions asked</Title>
+        </Document>
         <Document ID="18">
             <Title>Literature review</Title>
             <Synopsis>Reference (but edit) the literature review in line with what I have written before
@@ -908,11 +1065,24 @@ Go through methods of archiving, particularly</Synopsis>
             <Synopsis>Origin of research - small review of what I have found about time representation
 </Synopsis>
         </Document>
+        <Document ID="137">
+            <Title>Drawings</Title>
+        </Document>
         <Document ID="23">
             <Title>Reflection on experiments</Title>
         </Document>
+        <Document ID="141">
+            <Title>Untitled</Title>
+        </Document>
         <Document ID="24">
             <Title>Issues of the project</Title>
+        </Document>
+        <Document ID="142">
+            <Title>Acknowledgements</Title>
+            <Text>I am indebted to the work of a few people which have pointed me to extremely valuable sources, and that helped me in setting more precise objectives and gaining valuable outlooks for both my honours project and my dissertation. Most notably, the research blog of Miriam Julius http://multimedia-memories.tumblr.com/; the research blog of the Materialising Memories team, led by Elise van den Hoven http://www.materialisingmemories.com/updates/; the research blogs of Cathy Haynes, artist (The Timekeeper Project and Stereochron Island) and the talks of Jason Scott, technology archivist (most notably “From COLO to YOLO: Confessions of an angry archivist” at Bacon 2014, in London).</Text>
+        </Document>
+        <Document ID="138">
+            <Title>Recording</Title>
         </Document>
         <Document ID="25">
             <Title>Evaluate them</Title>
@@ -1058,6 +1228,10 @@ REFERENCES
 23. Sengers, P., Boehner, K., David, S., Kaye, J. 2005. Reflec- tive design. Proc. of CC '05, 49-58.
 24.Stevens, M, Abowd, G., Truong, K., Vollmer, F. 2003. Getting into the Living Memory Box: Family archives and holistic design. Personal Ubiquitous Comput, 7, 210-216.
 </Text>
+        </Document>
+        <Document ID="143">
+            <Title>Style note</Title>
+            <Text>The word data, in this dissertation, will generally refer to the computing term for information, as a singular mass entity. I have therefore deliberately used it in the singular, as recommended by the new Fowler’s modern English usage (1996).</Text>
         </Document>
         <Document ID="31">
             <Title>draft-annotated</Title>
@@ -1230,6 +1404,11 @@ Kirk and Sellen (2010) found however that ultimately, stories and narrative are 
 Conclusion
 </Text>
         </Document>
+        <Document ID="139">
+            <Title>Lecture slides/transcript</Title>
+            <Text>Transcript and slides available at http://socialdigital.dundee.ac.uk/~vloux/blog/archives/411
+</Text>
+        </Document>
         <Document ID="27">
             <Title>dissertation</Title>
         </Document>
@@ -1310,6 +1489,9 @@ Donald Heath, president of the Internet Society in Reston, Virginia (quoted in h
             <Synopsis>Migration is the transformation of a document’s content to a format that is not necessarily standardised, but at least current; or, the newer version of same format. This could be, for example, transferring documents from the WordPerfect 6 format (used in the 80s and late 90s) to a Word 2011 format, or a Word 98 file to Word 2011</Synopsis>
             <Text>Migration is the transformation of a document’s content to a format that is not necessarily standardised, but at least current; or, the newer version of same format. This could be, for example, transferring documents from the WordPerfect 6 format (used in the 80s and late 90s) to a Word 2011 format, or a Word 98 file to Word 2011. This should be done regularly, as after a certain period of time new programs will stop having backward compatibility to import these old formats (Thibodeau, 2002). This method has several downsides, mainly being that it is labour intensive and expensive (Thibodeau, 2002; Rothenberg, 1999); product lines, and therefore the migration path, could be terminated at any point (Thibodeau, 2002); the presentation and other characteristics could be changed (although this can be overcome by migrating to more flexible formats like PDF or LaTeX). Rothenberg (1999) adds that this method is also prone to error, risky (as it could compromise the integrity of the data), not scalable and it requires new solutions for each new format. Granger (2000) argues however that comparatively, other methods (particularly emulation) are potentially much more expensive and labour intensive, and that for most preservation programmes, migration remains the only viable method.
 </Text>
+        </Document>
+        <Document ID="144">
+            <Title>Table of Contents</Title>
         </Document>
         <Document ID="33">
             <Title>Draft2</Title>
@@ -1672,6 +1854,9 @@ Emulation is the dynamic transformation of instruction sets to allow software an
 There are numerous criticisms against emulation. A number of legal and intellectual property problems are raised, if the emulation strategy is not supported by the original author [see Nintendo &amp; Apple]. The complexity involved in creating emulators might be not worth it and requires a coherent organisation to reduce overhead (Granger 2000). Additionally, Thibodeau (2002, p. 21) argues that keeping the original functionality is not necessarily a positive thing when it comes to the delivery of the preserved content; “most users in the future will never have encountered—not to mention learned how to use—most of the products they will need to access the preserved information objects”, and “it would cut users off from the possibility of using more advanced technologies for discovery, delivery, and analysis”.
 “Emulators themselves become obsolete; therefore, it becomes necessary either to replace the old emulator with a new one or to create a new emulator that allows the old emulator to work on new platforms. In fact, if you get into an emulation strategy, you have bought into a migration strategy. Either strategy adds complexity over time.” (Thibodeau 2002 p.20)</Text>
         </Document>
+        <Document ID="145">
+            <Title>Front matter</Title>
+        </Document>
         <Document ID="35">
             <Title>Draft3</Title>
             <Text># The need for digital preservation
@@ -1788,8 +1973,32 @@ Feasibility means that the hardware and the software for implementing a given me
 Practicality is establishing that this method will be reasonably difficult and affordable. This can generally change depending on the resources of the preserving organisation, the available technology at that time and the valuation of the digital objects.
 Finally, appropriateness is using a method that is relevant to the type of material being preserved, and the objectives of the preservation. For example, del Pozo et al. (2012, p. 7) suggests that if the integrity and authenticity of the documents are not paramount, then a migration that keeps the contents but discards the presentation might be the least expensive and simplest option. Inversely, when trying to preserve highly interactive material such as video games or when the specifications for a format are unknown, then emulation is a more pertinent option, because migration would be extremely difficult and inaccurate (Granger, 2000).</Text>
         </Document>
-        <Document ID="40">
-            <Title>mindmap</Title>
+        <Document ID="150">
+            <Title>Process-related</Title>
+            <Text>Finally, we can wonder whether trying to represent time is relevant at all. Haynes (2014) encourages us to stop trying to use units, and points out the historical and anthropological works of Sasha Stern and Evans-Pritchard, which respectively analyse the ancient Jews’ and the Nuers’ (now South Sudan) ways of constructing time in their day-to-day thinking. Instead of using time units and points of reference such as calendar dates, relative dates (“two days ago”)  and hours of the day, they used events, processes and activities as points of reference for describing time.
+Stern believed that in ancient Judaism, for those speaking Hebrew and Aramaic, “the notion of time as an entity in itself, a human resource, a continuous flow, or a structure of dimension of the created world, [is] simply non-existent” (Stern, 2003, p.127, cited in Lipton, 2005). While many considered that this belief was naïve (Lipton, 2005), [it would be hard to argue that their vision of time was clearly different].
+
+——
+Haynes, 2014: &amp;&amp; Stern, 2003
+
+Why? Let us consider what Time means. We think of it as a neutral entity without a history of its own, a pristine backdrop against which the messy action of life takes place. But this idea is human-made and historically specific, rather than a natural and universal fact. It is most likely isolated to Indo-European cultures, amplified by the ancient Greeks and given its modern thrust by Newtonians. In short, to paraphrase Sacha Stern, the majority of cultures over history have not had a word for Time as a thing in itself.
+
+&gt;&gt; “In antiquity, the world-view of Hebrew and Aramaic-speaking Jews remained completely process-related. Reality was seen as a succession of objects and events, whereas the notion of time as an entity in itself, a human resource, a continuous flow, or a structure of dimension of the created world, were simply non-existent.” (Stern, 2003, p.127, cited in Lipton, 2005)
+&gt; Stern believes that ancient Judaism did not have any concept of time whatsoever; only events and processes. (Lipton, 2005)
++ The Neuer / cattle clock thingy: (Haynes 2014, Evans-Pritchard 1940)
+
+
+What’s more, as Stern reminds us, we might live more comfortably without it. Consider the anthropologist E Evans-Pritchard’s comparison of his own sense of Time with that of the Nuer herders he lived with in the 1930s in what is now South Sudan:
+
+"I do not think that [the Nuer] ever experience the same feeling of fighting against time or having to coordinate activities with an abstract passage of time, because their points of reference are mainly the activities themselves."
+
+The Nuer herders lived by the cattle clock, he said, translating it into an abstract metaphor to aid his Western readers’ understanding. On Stereochron we have encountered something close to this in the ways the campaign secretary’s family judge when to harvest crops or take cattle to market.
+
+The cattle clock does not display Time as a succession of identical units. Rather its irregular, multiple, parallel phases are defined by the events they describe. Vestiges of this are left in our language: the blink of an eye, the shake of a lamb’s tale, moons ago, the crack of dawn. On Stereochron we have expanded those measures to changes in the sheep’s eye, the blooming of the evening primrose, the colour-shift of the sky, the crescendo of the dawn chorus, and the length and orientation of shadows.
+As we learnt on our Midsummer field trip, standard clock-time is not an objective model for physics any more than it is for anthropology. In as far as we must use it for certain essential tasks on Stereochron that require accurate synchrony, let’s remember that the standard clock’s tick-tock is just another form of event against which to measure other events, as Stern points out.
+
+“In my experience Nuer do not to any great extent use the names of the months to indicate the time of an event, but generally refer instead to some outstanding activity in process at the time of its occurrence, e.g. at the time of early camps, at the time of weeding, at the time of harvesting, &amp;c., and it is easily understandable that they do so, since time is to them a relation between activities. During the rains the stages in the growth of millet and the steps taken in its culture are often used as points of reference. Pastoral activities, being largely un- differentiated throughout the months and seasons, do not provide suitable points. There are no units of time between the month and day and night. People indicate the occurrence of an event more than a day or two ago by reference to some other event which took place at the same time or by counting the number of intervening 'sleeps' or, less commonly, 'suns’.”
+(Evans-Pritchard 1940)</Text>
         </Document>
         <Document ID="36">
             <Title>LiteratureReview-light</Title>
@@ -1947,8 +2156,11 @@ Using open ended interview techniques, further literature review and possibly re
 ￼￼￼￼￼￼￼￼￼￼￼￼17
 </Text>
         </Document>
-        <Document ID="41">
-            <Title>sensor-poetics-screenshot</Title>
+        <Document ID="146">
+            <Title>Back matter</Title>
+        </Document>
+        <Document ID="40">
+            <Title>mindmap</Title>
         </Document>
         <Document ID="37">
             <Title>LiteratureReview</Title>
@@ -2026,6 +2238,9 @@ The copying advantage, while useful for sharing, has issues for backing up. Bank
 
 Kirk and Sellen (2010) found however that ultimately, stories and narrative are more important than the preservation of the artifact itself. They propose that “technology might play a role in capturing and associating stories or narratives with different physical objects”, imagining we could also digitally augment physical objects or places. Banks (2011) gives as example the Weather Camera (Wilkens, 2011), which records wind force and temperature along with commentary; a system of physicals backup of sentimental items by Serrano (2009) using 3D scanning and 3D printing; and tools by Microsoft Research to recreate an environment in 3D just using photos. A similar technique is used in bigger preservation projects to make high quality 3D models of culturally important places and objects in China (Zhou et al., 2012).</Text>
         </Document>
+        <Document ID="41">
+            <Title>sensor-poetics-screenshot</Title>
+        </Document>
         <Document ID="103">
             <Title>Difficulty of keeping track of what we create</Title>
             <Synopsis>Banks, 2011, p. 124</Synopsis>
@@ -2034,6 +2249,18 @@ While I played around on Instagram I posted a number of images to their site, in
 This problem is to be combined with the transience of such services (Twitpic, mentioned here, shut down in September 2014, after being around since 2008). As Banks reminds us, services that were highly popular a decade ago (MySpace, Geocities) have suffered from an “exodus” of their users towards new services, for new competitors that are seen as more attractive, or due to a decline in quality of the platforms (he cites MySpace becoming inundated with advertising as a possible reason). Such a loss of users would hit the company financially, and as such they may be forced to close down or reinvent their model, erasing their users’ data as a result.</Text>
             <Comments>http://blog.twitpic.com/2014/09/twitpic-is-shutting-down/ [Accessed 20th October 2014]
 Bebo, which once was the most popular service in the UK, has shut down in 2013 and is reopening with different services, having completely erased the original website. http://bebo.com [Accessed 20th October 2014]</Comments>
+        </Document>
+        <Document ID="147">
+            <Title>Cultural differences</Title>
+            <Text>For example, Tversky et al. (1991) demonstrated that the origin of the direction can stem in the reading direction. When we read, the upcoming (future) information is on the right; we make progress by going right in a sentence or book. Speakers of languages that are read from right to left actually think of time going from right to left, the opposite direction of how Western European cultures see it. Participants were asked to put various sets of stickers in the chronological order (for example breakfast, lunch and dinner, or pictures from a person from younger to older); Arabic and Hebrew speakers ordered them from right to left, whereas English speakers did the reverse. In every day life, it is possible to see this difference, for example, in computer software; progress bars are “reversed” in these languages, showing that progress is thought of going from the right to the left (see fig. Timeline/progressBarRTL). 
+[Fig. Timeline/progressBarWestern]
+[Fig. Timeline/progressBarRTL]
+But as Boroditsky (2010) explains, it is not simply the reading direction that influences our perception of time. The study has been done with the Pormpuraaw community of Australian aboriginals. Interestingly, their languages do not have words for left or right; instead they use absolute directions (North, South, West, East) for everything. They have a great knowledge of the world around them to know which way they are facing, and so they would say things like  “move your cup to the north-west a little bit”, or “the boy standing on the south of Mary is my brother”. And so when they have been asked to order stickers, instead of putting them from right to left in front of them, they lay the stickers down and have been ordering them from East to West — just like the sun, from morning to evening; proving that time can be visualised in other spatial models.  
+Mandarin speakers tend to think of time vertically, more often than we do, even though modern Chinese is read horizontally. Their conception of movement is also different — they see a moving timeline and a static observer, whereas we tend to visualise ourselves moving in the static timeline (Santiago et al., 2007, p. 512). Speakers of the Aymara language, in South America, think of time from left to right, like Arabic speakers, even though the language reads right-to-left; this is because they see the past as being in front of them, something that they can look at, whereas the future is in their back, it is the unknown, what you cannot see. (Boroditsky, 2010) </Text>
+            <Comments>Correct references - they are actually cross-referenced from other work in Santiago et al.’s paper (Times also flies from R to L) </Comments>
+        </Document>
+        <Document ID="38">
+            <Title>LiteratureReviewLayout</Title>
         </Document>
         <Document ID="42">
             <Title>Structure</Title>
@@ -2116,12 +2343,6 @@ Domestic archiving
 
 
 Conclusion</Text>
-        </Document>
-        <Document ID="38">
-            <Title>LiteratureReviewLayout</Title>
-        </Document>
-        <Document ID="43">
-            <Title>weather-camera-wilkins</Title>
         </Document>
         <Document ID="39">
             <Title>LiteratureReviewLayout</Title>
@@ -2279,18 +2500,27 @@ Using open ended interview techniques, further literature review and possibly re
 ￼￼￼￼￼￼￼￼￼￼￼￼17
 </Text>
         </Document>
+        <Document ID="43">
+            <Title>weather-camera-wilkins</Title>
+        </Document>
         <Document ID="104">
             <Title>Finding patterns to make sense</Title>
             <Synopsis>Hangal et al. (2011) have developed MUSE (Memories USing Email), a system finding patterns in email archives to help us make sense of this large data set. As the authors note in the introduction, “email has become a de facto medium of record; many people consciously deposit important information into email, knowing they can look it up later”, and so our inboxes contain highly valuable in- formation.
 Early users reported that they have been using it to: make a summary of their work progress; extract and organise certain type of data (for instance, the personal out of the professional, or the important out of the more mundane); finding life milestones inside family emails; picking up work that has been left unfinished and forgotten; or renewing with old relationships. These uses went beyond the authors’ original expectations of simply reminiscing:
 “The stories above include an example of each one of the ‘5R’s’ described by Sellen and Whittaker [2010]: recollection, reminiscing, retrieving, reflecting, and remembering in- tentions. Further, it suggests that browsing and remembering the past can affect the fu- ture.” (Hangal et al., 2011)</Synopsis>
         </Document>
+        <Document ID="148">
+            <Title>Circular representation</Title>
+            <Text>[Fig. Timelines/Ouroboros]
+This linear timeline, however, is not the only way of representing time; it can also be seen as a recurring cycle. On our day-to-day life, we mostly use this representation for analog clock dials; this is borrowed from sundials, and makes sense when we think of the rotation of the Earth. It really is a continuous cycle, which doesn’t really start nor end happening, but that we can still quantify — a day has passed when a full rotation has been done, and we can map time units to it, from midnight to 11:59pm. This representation, however, is rarely used nowadays when talking about months or years, even though the same astronomical principles apply. Would it however be relevant for representing history, or individual lives?
+The symbol of the Ouroboros, a snake or a dragon eating its tail, is extremely ancient; its first known representation can be found in the Enigmatic Book of the Netherworld, a funerary text written in the 14th century BC in ancient Egypt (Hornung, 1999). It has however been used by many cultures across the globes, in different epochs and contexts (mythological, religious, alchemical) and for various purposes. In many cases, for example Mayan and Pagan traditions, life itself was represented as an ouroboros; birth wasn’t seen as a starting point, and death not as an end point, but it was rather a continuation of someone else’s life, with each cycle being an incarnation. Again, languages and expressions reflect these ways of visualising time spans or lives; in Balinese, the word for grandparent and grandchildren is the same (kumpi), as they would be the same person ultimately.</Text>
+        </Document>
         <Document ID="3">
             <Title>Title</Title>
             <Text>Victor Loux / 110017909
 Digital Interaction Design
 Research &amp; Creative Pratice
-Dissertation draft
+Dissertation
  Long-term backups and retrieval of digital memories posted on social networks
 </Text>
         </Document>
@@ -2465,7 +2695,7 @@ Using open ended interview techniques, further literature review and possibly re
             <Title>Introduction</Title>
             <Synopsis>Explain what I have shifted to, existing ideas that influence this shift, critique them; explain how I think it might influence my own prototypes
 </Synopsis>
-            <Text>This part of the dissertation discusses the gap in research that I want to explore, the experience of retrieval of memories. I will try to understand what encompasses this experience [the representation of time and hierarchisation of memories, the presentation, the feeling of durability of the backup] and how to make it enjoyable. 
+            <Text>This part of the dissertation discusses the gap in research that I want to explore, the experience of retrieval of memories. I will try to understand what encompasses this experience: the representation of time and hierarchisation of memories, the presentation, the feeling of durability of the backup, and how to make it enjoyable. 
 This dissertation is tied to my honours project, so I will go over aspects of the project: applying the “large-scale” paradigms of conservation  established in the previous chapter for small-scale, personal archiving; the representation/visualisation of memories; how to go against the obsolescence of the object by using open design; and the relationship with families and death.</Text>
         </Document>
         <Document ID="105">
@@ -2473,11 +2703,14 @@ This dissertation is tied to my honours project, so I will go over aspects of th
             <Synopsis>Kirk and Sellen (2010) found however that ultimately, stories and narrative are more impor- tant than the preservation of the artefact itself. They propose that “technology might play a role in capturing and associating stories or narratives with different physical objects”, imagin- ing we could also digitally augment physical objects or places. Banks (2011) gives as example the Weather Camera (Wilkens, 2011), which records wind force and temperature along with commentary; a system of physicals backup of sentimental items by Serrano (2009) using 3D scanning and 3D printing; and tools by Microsoft Research to recreate an environment in 3D just using photos.</Synopsis>
             <Text>Digital artifacts have certain fundamental advantages over physical objects: the main two being the ease of organising a collection of data through indexing, cataloguing and adding metadata (Kirk and Sellen, 2010, p. 35), and the ability to duplicate and share that object accurately and virtually cost- free (Banks, 2011). This actually provides numerous advantages in terms of preservation.</Text>
         </Document>
+        <Document ID="149">
+            <Title>Streams</Title>
+            <Text>Using streams to represent time differently (see fig. Cartographies/11-StromDerZeiten):
+
+ “However natural it may be to assist the perceptive faculty in its assumption of abstract time by the idea of a line and however inseparable the sensible and mental objects may have become by the figurative method of speech it is astonishing that upon this near advance and with similar assistance from the delicate preciseness of language the image of a Stream should not have presented itself to any one whose consideration had been attracted to this object. The expressions of gliding, and rolling on; or of the rapid current, applied to time, are equally familiar to us with those of long and short. Neither does it require any great discernment to trace as a farther exemplification of this assertion, in the rise and fall of empire, an allusion to the source of a river, and to the increasing rapidity of its current, in proportion with the declivity of their channels towards the engulfing ocean. This metaphor, by presenting something more congenial to a common object of sense, and at the same time more agreeable in its variations to the nature of the abstract notion, gives greater liveliness to the ideas, and impresses events more forcibly upon the mind, than the stiff regularity of the straight line. Its diversified power likewise of separating the various currents into subordinate branches, or of uniting them into one vast ocean of power of dispersing them a second time, but still in such a manner that they are always ready under the guidance of some great conqueror to converge again into one point, tends to render the idea by its beauty more attractive, by its simplicity more perspicuous, and by its resemblance more consistent.” (Strass and Bell, 1812)</Text>
+        </Document>
         <Document ID="6">
             <Title>Notes</Title>
-        </Document>
-        <Document ID="46">
-            <Title>New Folder</Title>
         </Document>
         <Document ID="50">
             <Title>Adding context</Title>
@@ -2488,6 +2721,9 @@ This dissertation is tied to my honours project, so I will go over aspects of th
         </Document>
         <Document ID="7">
             <Title>Ideas</Title>
+        </Document>
+        <Document ID="46">
+            <Title>New Folder</Title>
         </Document>
         <Document ID="8">
             <Title>About</Title>
@@ -2921,10 +3157,7 @@ The UNESCO (2003) and Cook (2000) both however recognise that a middle ground sh
 We didn’t always picture life like this. The ancient Stoic philosophers, for example, saw every individual life as a perfect circle, whether that life lasts 30 or 80 years. The notion that a life’s worth should be assessed as full or lacking by its abstract quantities would have seemed faulty to them.
 And it surely is faulty. A measurement is only a shadow of the thing. If we mistake the map for the land, the score for the performance, the timeline for the life, then we reduce existence to its shadows. As the philosopher Henri Bergson warned, lived time in all its fullness can’t be measured. Doing so risks reducing a life to a machine or commodity.
 So what if we tried an experiment and mapped our life as we really experience it to be: a map without measurements? One that gives space to events according to their significance rather than their length in clock-time?
-What if we made that map just for our self and included what we would leave out of a job application – a map that includes the mazes and trapdoors along with the parades of glory and the leaps of progress? Might we value the failures and the ‘time wasted’ more then? And when we accept and value our past experience in all its fullness, how does that change our view of the future?
-
-+ Time Flies Like an Arrow: Space-time compatibility effects suggest the use of a mental timeline (Weger and Pratt, 2008) http://link.springer.com/article/10.3758/PBR.15.2.426
-+ Cultural differences of timelines: Santiago et al. (2007) demonstrated that speakers of right-to-left languages such as Arabic, and word parameters, influence how we perceive a timeline (in Western cultures, we associate left with past and right with future)]</Text>
+What if we made that map just for our self and included what we would leave out of a job application – a map that includes the mazes and trapdoors along with the parades of glory and the leaps of progress? Might we value the failures and the ‘time wasted’ more then? And when we accept and value our past experience in all its fullness, how does that change our view of the future?</Text>
         </Document>
         <Document ID="61">
             <Title>Literature review</Title>
@@ -2938,7 +3171,7 @@ Aleks K disagrees
 The only difference is that they’re there for the record. If you think about playgrounds dynamics, you would have seen exactly the same thing. Everybody would be sitting around talking about their GCSE results, not throwing out that they’re absolutely in love with ballet. What the web does, which is extraordinary — and especially for a psychologist like myself, is that there’s all these unspoken things that happen, there’s all these dynamics that happen, socially. Whether it’s to do with indicators of trust in another person, or indicators of belonging to a particular group, that, historically, throughout our social and psychological lives, we have expressed. That is literally what the study of social psychology is, it’s trying to identify and map, and unfortunately in many ways predict, what people will do and how people will behave and how people will think and act based on the dynamics of what’s going on, the dynamics that often appear quite subjective, because you’re experiencing them in your head. However, what the web does, in a really exciting way, is that it makes that visible. So suddenly you’re seeing these influence pathways, those influence patterns in the playground, which, if you were a teacher, you’d be able to describe. Now everybody can see it, and now we can see how we can form in everyday lives, based on the signals of our social groups. So I completely disagree that it’s forcing us into conformity; there’s lots and lots of different influences. The only area where I fear for is enforcing conformity. It’s the inability for people to make mistakes, because these mistakes, given how it is that we’re interacting with this information online now, those mistakes are therefore the record, which means that people will go back and they’ll look at the mistakes and they’ll define you by the mistakes that you’ve made in the past that you may have learned from, but you haven’t been able to leave them behind you because they’re there.</Text>
         </Document>
         <Document ID="62">
-            <Title>Result of interviews</Title>
+            <Title>Workshop</Title>
         </Document>
         <Document ID="114">
             <Title>5 reasons</Title>
@@ -2952,18 +3185,23 @@ The only difference is that they’re there for the record. If you think about p
             <Notes>Parrallel between generic &amp; personal stuff, that is museums/archives vs personal storage
 </Notes>
         </Document>
-        <Document ID="59">
-            <Title>Untitled</Title>
-        </Document>
         <Document ID="63">
             <Title>Introduction</Title>
             <Synopsis>Provide intro to why gather the data
 </Synopsis>
+            <Text>In order to get a better understanding on how we could map a life, I have organised a workshop where I have asked some people to perform a few tasks such as graphically representing their life and retrieving old content on social networks, and answer a few questions about the project. This chapter will detail the methodological approach used to prepare the workshop and questions, then analyse the results and make conclusions on how these results can be used to design a retrieval interface. The raw questions and results are available in the appendices A to E.</Text>
+            <Comments>Change with actual appendices name
+</Comments>
+        </Document>
+        <Document ID="59">
+            <Title>Untitled</Title>
         </Document>
         <Document ID="64">
-            <Title>Participants</Title>
+            <Title>Demographics</Title>
             <Synopsis>Demographics: Who participated in it, ages, gender, profession/background.
 Maybe use a table? Do not allow to individually identify the participants</Synopsis>
+            <Text>The workshop was attended by 9 participants. All of them were final year design students at Duncan of Jordanstone College of Art and Design, in Dundee.
+Amongst the participants were 3 women and 6 men. Six were native speakers of English; three were from overseas and had English as a second language. All were raised in a Western culture and their native language reads left-to-right,which ensured consistent results (as we’ve seen before, culture and language alters our visual representation of time); but one of the native English speakers has been raised with a bicultural identity and also natively speaks Cantonese, which reads left-to-right horizontally but can also be written vertically (top to bottom, and columns read right to left; like Mandarin, this can influence perception of time, see Boroditsky, 2011, pp. 335-336). They are all frequent users of Facebook; while most owned Twitter accounts, few of them actually used it, so the questions focused on Facebook.</Text>
         </Document>
         <Document ID="115">
             <Title>Dangers of selection</Title>

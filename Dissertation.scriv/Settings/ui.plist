@@ -156,7 +156,7 @@
 	</dict>
 	<key>binderSelection</key>
 	<array>
-		<integer>68</integer>
+		<integer>55</integer>
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
@@ -260,8 +260,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1111.5, 965}}</string>
-		<string>{{1112.5, 0}, {289, 965}}</string>
+		<string>{{0, 0}, {1138.5, 965}}</string>
+		<string>{{1139.5, 0}, {288.5, 965}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -280,9 +280,9 @@
 	<key>mainDocumentEditor.currentEditorViewMode</key>
 	<integer>0</integer>
 	<key>mainDocumentEditor.editorGroupsViewMode</key>
-	<integer>2</integer>
+	<integer>0</integer>
 	<key>mainDocumentEditor.lockedInPlace</key>
-	<false/>
+	<true/>
 	<key>mainDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
@@ -569,10 +569,26 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>21</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>150</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 1329.6666}, {640, 373.33337}}</string>
+	<string>{{0, 2167}, {640, 187.33325}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{3269, 1}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -589,7 +605,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>559 -202 1399 921 0 0 1920 1058 </string>
+	<string>281 51 1399 921 0 0 1680 1028 </string>
 	<key>previousDocumentTargetType</key>
 	<integer>0</integer>
 	<key>referencesNotesMode</key>
@@ -618,7 +634,7 @@
 	<true/>
 	<key>supportingDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>20</integer>
+		<integer>150</integer>
 	</array>
 	<key>supportingDocumentEditor.currentEditorViewMode</key>
 	<integer>0</integer>
@@ -632,22 +648,6 @@
 		<integer>99</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>118</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>116</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
 			<dict>
 				<key>BinderDocIDs</key>
 				<array>
@@ -1458,6 +1458,22 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>148</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>150</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.outlinerColumnsState</key>
@@ -1467,21 +1483,66 @@
 			<string>title</string>
 			<string>label</string>
 			<string>status</string>
+			<string>createdDate</string>
+			<string>modifiedDate</string>
+			<string>words</string>
+			<string>characters</string>
+			<string>includeInExport</string>
+			<string>pageBreakBefore</string>
+			<string>compileAsIs</string>
+			<string>targetCount</string>
+			<string>targetCountType</string>
+			<string>progress</string>
+			<string>totalWords</string>
+			<string>totalCharacters</string>
+			<string>allKeywords</string>
+			<string>totalTargetCount</string>
+			<string>totalProgress</string>
 		</array>
 		<key>widths</key>
 		<dict>
+			<key>allKeywords</key>
+			<real>64</real>
+			<key>characters</key>
+			<real>46</real>
+			<key>compileAsIs</key>
+			<real>110.841796875</real>
+			<key>createdDate</key>
+			<real>53</real>
+			<key>includeInExport</key>
+			<real>20</real>
 			<key>label</key>
 			<real>56</real>
+			<key>modifiedDate</key>
+			<real>50</real>
+			<key>pageBreakBefore</key>
+			<real>66</real>
+			<key>progress</key>
+			<real>50.041019439697266</real>
 			<key>status</key>
 			<real>49</real>
+			<key>targetCount</key>
+			<real>50</real>
+			<key>targetCountType</key>
+			<real>50</real>
 			<key>title</key>
 			<real>252</real>
+			<key>totalCharacters</key>
+			<real>96</real>
+			<key>totalProgress</key>
+			<real>64</real>
+			<key>totalTargetCount</key>
+			<real>64</real>
+			<key>totalWords</key>
+			<real>72</real>
+			<key>words</key>
+			<real>40</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 10.857143}, {548.57141, 173.14287}}</string>
+	<string>{{0, 0}, {548.57141, 332.57144}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
-	<string>{2035, 0}</string>
+	<string>{987, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -1496,6 +1557,6 @@
 		<true/>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
-	<false/>
+	<true/>
 </dict>
 </plist>
