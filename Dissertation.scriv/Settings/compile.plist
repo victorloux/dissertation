@@ -15,7 +15,7 @@
 	<key>SCRCompileAlternativeBlankLineSeparatorKey</key>
 	<string>* * *</string>
 	<key>SCRCompileAnnotationsRTFConversionTypeKey</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>SCRCompileAvoidWidowsAndOrphansKey</key>
 	<true/>
 	<key>SCRCompileCenterAlternateFooterStringKey</key>
@@ -29,17 +29,17 @@
 	<key>SCRCompileCenterFooterStringKey</key>
 	<string></string>
 	<key>SCRCompileCenterHeaderStringKey</key>
-	<string></string>
+	<string>&lt;$compilegroup&gt;</string>
 	<key>SCRCompileColorPrintedHyperlinksKey</key>
 	<true/>
 	<key>SCRCompileConvertEllipsesToTriplePeriodsKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileConvertEmDashesToHyphensKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileConvertFootnotesToMMDSyntaxKey</key>
 	<true/>
 	<key>SCRCompileConvertItalicsToUnderlineKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileConvertLinkedRTFDImagesToEmbeddedImagesKey</key>
 	<false/>
 	<key>SCRCompileConvertMMDAnnotationsToHTMLStyledTextKey</key>
@@ -107,8 +107,6 @@
 	<string></string>
 	<key>SCRCompileEBookDescriptionKey</key>
 	<string></string>
-	<key>SCRCompileEBookDisallowCopyKey</key>
-	<false/>
 	<key>SCRCompileEBookEPUBUniqueIdentifierKey</key>
 	<string></string>
 	<key>SCRCompileEBookEndnotesAreContinuousKey</key>
@@ -122,7 +120,7 @@
 	<key>SCRCompileEBookIncludeXPGTKey</key>
 	<false/>
 	<key>SCRCompileEBookIncludeiTunesCoverArtFileKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileEBookKindleUniqueIdentifierKey</key>
 	<string></string>
 	<key>SCRCompileEBookLanguageKey</key>
@@ -136,33 +134,75 @@
 	<key>SCRCompileEBookSaveKindleSourceFilesKey</key>
 	<false/>
 	<key>SCRCompileEBookScriptCSSKey</key>
-	<string>p.sceneHeading {text-align:left; text-indent:0; margin: 12pt 0 0 0; text-transform:uppercase; font-family: Courier;}
-p.action {text-align:left; text-indent:0; margin: 12pt 0 0 0; font-family: Courier;}
-p.character {text-align:center; text-indent:0; margin: 12pt 0 0 0; text-transform:uppercase; font-family: Courier;}
-p.parenthetical {text-align:center; text-indent:0; margin: 0 0 0 0; font-family: Courier;}
-p.dialogue {text-align:left; text-indent:0; margin: 0 20% 0 20%; font-family: Courier;}
-p.transition {text-align:right; text-indent:0; margin: 12pt 0 0 0; text-transform:uppercase; font-family: Courier;}
-p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform:uppercase; font-family: Courier;}</string>
+	<string>p.sceneHeading {text-align:left; text-indent:0; margin: 12pt 0 0 0; text-transform:uppercase; font-family: monospace;}
+p.action {text-align:left; text-indent:0; margin: 12pt 0 0 0; font-family: monospace;}
+p.character {text-align:center; text-indent:0; margin: 12pt 0 0 0; text-transform:uppercase; font-family: monospace;}
+p.parenthetical {text-align:center; text-indent:0; margin: 0 0 0 0; font-family: monospace;}
+p.dialogue {text-align:left; text-indent:0; margin: 0 20% 0 20%; font-family: monospace;}
+p.transition {text-align:right; text-indent:0; margin: 12pt 0 0 0; text-transform:uppercase; font-family: monospace;}
+p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform:uppercase; font-family: monospace;}</string>
 	<key>SCRCompileEBookStartsAfterFrontMatterKey</key>
 	<true/>
 	<key>SCRCompileEBookSubjectKey</key>
 	<array/>
 	<key>SCRCompileEBookTitleKey</key>
 	<string></string>
-	<key>SCRCompileEBookUniqueIdentifierKey</key>
-	<string></string>
 	<key>SCRCompileEBookUseCustomIdentifierKey</key>
 	<false/>
 	<key>SCRCompileEBookUseFlatTOCKey</key>
 	<false/>
+	<key>SCRCompileEPUBAuthorsKey</key>
+	<array>
+		<string>Ioa Petra'ka</string>
+	</array>
+	<key>SCRCompileEPUBContributorsKey</key>
+	<array/>
+	<key>SCRCompileEPUBCoverBinderDocumentIDKey</key>
+	<integer>-1</integer>
+	<key>SCRCompileEPUBCoverSVGCodeKey</key>
+	<string></string>
+	<key>SCRCompileEPUBCoverSVGViewBoxHeightKey</key>
+	<integer>800</integer>
+	<key>SCRCompileEPUBCoverSVGViewBoxWidthKey</key>
+	<integer>600</integer>
+	<key>SCRCompileEPUBCoverTitleKey</key>
+	<string>Cover</string>
+	<key>SCRCompileEPUBDateKey</key>
+	<string></string>
+	<key>SCRCompileEPUBDescriptionKey</key>
+	<string></string>
+	<key>SCRCompileEPUBEndnotesAreContinuousKey</key>
+	<true/>
+	<key>SCRCompileEPUBEndnotesTitleKey</key>
+	<string>Notes</string>
+	<key>SCRCompileEPUBFirstDocumentIsTitlePageKey</key>
+	<false/>
+	<key>SCRCompileEPUBIncludeiTunesCoverArtFileKey</key>
+	<true/>
+	<key>SCRCompileEPUBLanguageKey</key>
+	<string>en</string>
+	<key>SCRCompileEPUBPublisherKey</key>
+	<string></string>
+	<key>SCRCompileEPUBRightsKey</key>
+	<string></string>
+	<key>SCRCompileEPUBSubjectKey</key>
+	<array/>
+	<key>SCRCompileEPUBTitleKey</key>
+	<string>testing</string>
+	<key>SCRCompileEPUBUniqueIdentifierKey</key>
+	<string></string>
+	<key>SCRCompileEPUBUseCustomIdentifierKey</key>
+	<false/>
+	<key>SCRCompileEPUBUseFlatTOCKey</key>
+	<false/>
 	<key>SCRCompileEndOfTextMarkerKey</key>
-	<string>Ends</string>
+	<string>&lt; &lt; &lt; &lt; &lt; &gt; &gt; &gt; &gt; &gt;</string>
 	<key>SCRCompileEndnotesStyleKey</key>
 	<integer>3</integer>
 	<key>SCRCompileExportInlineFootnotesAsEndnotesKey</key>
 	<false/>
 	<key>SCRCompileExportLinkedFootnotesAsEndnotesKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileFDXBreakDialogueAndActionAtSentencesKey</key>
 	<true/>
 	<key>SCRCompileFDXFirstPageIsTitleKey</key>
@@ -204,7 +244,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileFilterTypeKey</key>
 	<integer>0</integer>
 	<key>SCRCompileFirstPageForRegularHeaderAndFooterKey</key>
-	<integer>2</integer>
+	<integer>-1</integer>
 	<key>SCRCompileFolderAndTextCustomSeparatorStringKey</key>
 	<string></string>
 	<key>SCRCompileFolderAndTextSectionSeparatorKey</key>
@@ -214,8 +254,6 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileFolderFormattingLevelsKey</key>
 	<array>
 		<dict>
-			<key>SCRHasRTFBookmarksKey</key>
-			<true/>
 			<key>SCRIncludeMetaDataKey</key>
 			<false/>
 			<key>SCRIncludeNotesKey</key>
@@ -281,68 +319,66 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
 			hIQITlNTdHJpbmcBlYQBKxBOU1BhcmFncmFwaFN0eWxlhpKEhIQX
 			TlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQTlNQYXJhZ3JhcGhT
-			dHlsZQCVhARDQ0BTAACEhIQHTlNBcnJheQCVlgaShISECU5TVGV4
-			dFRhYgCVhAJDZgAkhpKEnp4ASIaShJ6eAGyGkoSengCBkACGkoSe
-			ngCBtACGkoSengCDADRZQ4aGgbIAhARbNGZdA4MAIGRBDAKGkoSX
-			mAZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYshAVbNDRjXQYAAAAkAAAA
-			//5GAHIAZQBpAGcAaAB0AFQAZQB4AHQATQBlAGQAaQB1AG0AhAFm
-			DIQBYwCjAaMAowCGhg==
+			dHlsZQCVhARDQ0BTBACFgZAAhARbMmZdHIPNzIw/hpKEl5gGTlNG
+			b250hpKEhIQGTlNGb250HpWWKIQFWzQwY10GAAAAHgAAAP/+QwBv
+			AHUAcgBpAGUAcgBOAGUAdwBQAFMATQBUAAAAhAFmDIQBYwCgAaAA
+			oACGhg==
 			</data>
 			<key>SCRTitleAttributesKey</key>
 			<data>
-			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
-			TlNPYmplY3QAhYQBaQKShISECE5TU3RyaW5nAZSEASsQTlNQYXJh
-			Z3JhcGhTdHlsZYaShISEF05TTXV0YWJsZVBhcmFncmFwaFN0eWxl
-			AISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwQAhYGAAIQEWzFm
-			XYMAAMA/hpKElpcGTlNGb250hpKEhIQGTlNGb250HpSVIIQFWzMy
-			Y10GAAAAGAAAAP/+TwBwAHQAaQBtAGEALQBCAG8AbABkAIQBZhCE
-			AWMAnwGfAJ8AhoY=
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
+			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpA5KE
+			hIQITlNTdHJpbmcBlYQBKwtOU1VuZGVybGluZYaShISECE5TTnVt
+			YmVyAISEB05TVmFsdWUAlYQBKoSWlgGGkoSXmBBOU1BhcmFncmFw
+			aFN0eWxlhpKEhIQXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQ
+			TlNQYXJhZ3JhcGhTdHlsZQCVhARDQ0BTAgCFgYAAhARbMWZdg83M
+			jD+GkoSXmAZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYohAVbNDBjXQYA
+			AAAeAAAA//5DAG8AdQByAGkAZQByAE4AZQB3AFAAUwBNAFQAAACE
+			AWYMhAFjAKMBowCjAIaG
 			</data>
-			<key>SCRTitleCaseKey</key>
-			<integer>0</integer>
 			<key>SCRTitlePrefixAttributesKey</key>
 			<data>
-			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
-			TlNPYmplY3QAhYQBaQKShISECE5TU3RyaW5nAZSEASsQTlNQYXJh
-			Z3JhcGhTdHlsZYaShISEF05TTXV0YWJsZVBhcmFncmFwaFN0eWxl
-			AISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwQAhYGAAIQEWzFm
-			XYMAAMA/hpKElpcGTlNGb250hpKEhIQGTlNGb250HpSVIIQFWzMy
-			Y10GAAAAGAAAAP/+TwBwAHQAaQBtAGEALQBCAG8AbABkAIQBZhCE
-			AWMAnwGfAJ8AhoY=
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
+			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
+			hIQITlNTdHJpbmcBlYQBKxBOU1BhcmFncmFwaFN0eWxlhpKEhIQX
+			TlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQTlNQYXJhZ3JhcGhT
+			dHlsZQCVhARDQ0BTAgCFgYAAhARbMWZdg83MjD+GkoSXmAZOU0Zv
+			bnSGkoSEhAZOU0ZvbnQelZYohAVbNDBjXQYAAAAeAAAA//5DAG8A
+			dQByAGkAZQByAE4AZQB3AFAAUwBNAFQAAACEAWYMhAFjAKABoACg
+			AIaG
 			</data>
-			<key>SCRTitlePrefixCaseKey</key>
-			<integer>0</integer>
 			<key>SCRTitlePrefixKey</key>
-			<string></string>
+			<string>(Chapter &lt;$W&gt;)
+# # </string>
 			<key>SCRTitleSuffixAttributesKey</key>
 			<data>
-			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
-			TlNPYmplY3QAhYQBaQKShISECE5TU3RyaW5nAZSEASsQTlNQYXJh
-			Z3JhcGhTdHlsZYaShISEF05TTXV0YWJsZVBhcmFncmFwaFN0eWxl
-			AISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwQAhYGAAIQEWzFm
-			XYMAAMA/hpKElpcGTlNGb250hpKEhIQGTlNGb250HpSVIIQFWzMy
-			Y10GAAAAGAAAAP/+TwBwAHQAaQBtAGEALQBCAG8AbABkAIQBZhCE
-			AWMAnwGfAJ8AhoY=
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
+			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
+			hIQITlNTdHJpbmcBlYQBKxBOU1BhcmFncmFwaFN0eWxlhpKEhIQX
+			TlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQTlNQYXJhZ3JhcGhT
+			dHlsZQCVhARDQ0BTAgCFgYAAhARbMWZdg83MjD+GkoSXmAZOU0Zv
+			bnSGkoSEhAZOU0ZvbnQelZYohAVbNDBjXQYAAAAeAAAA//5DAG8A
+			dQByAGkAZQByAE4AZQB3AFAAUwBNAFQAAACEAWYMhAFjAKABoACg
+			AIaG
 			</data>
-			<key>SCRTitleSuffixCaseKey</key>
-			<integer>0</integer>
 			<key>SCRTitleSuffixKey</key>
-			<string></string>
+			<string> # #
+(PROOF COPY -- Not for distribution.)</string>
 		</dict>
 	</array>
 	<key>SCRCompileFolderSectionSeparatorKey</key>
 	<integer>2</integer>
 	<key>SCRCompileFooterFontKey</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAZOU0ZvbnQehIQITlNPYmplY3QAhYQBaTyEBVs2
-	MGNdBgAAADIAAAD//lQAaQBtAGUAcwBOAGUAdwBSAG8AbQBhAG4AUABTAC0ASQB0AGEA
-	bABpAGMATQBUAAAAhAFmCoQBYwCYAZgAmACG
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAZOU0ZvbnQehIQITlNPYmplY3QAhYQBaSiEBVs0
+	MGNdBgAAAB4AAAD//kMAbwB1AHIAaQBlAHIATgBlAHcAUABTAE0AVAAAAIQBZgyEAWMA
+	mAGYAJgAhg==
 	</data>
 	<key>SCRCompileFootnotesFontKey</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAZOU0ZvbnQehIQITlNPYmplY3QAhYQBaSSEBVsz
-	NmNdBgAAABwAAAD//kgAZQBsAHYAZQB0AGkAYwBhAE4AZQB1AGUAhAFmCYQBYwCYAZgA
-	mACG
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAZOU0ZvbnQehIQITlNPYmplY3QAhYQBaSiEBVs0
+	MGNdBgAAAB4AAAD//k8AcAB0AGkAbQBhAC0AUgBlAGcAdQBsAGEAcgAAAIQBZgqEAWMA
+	mAGYAJgAhg==
 	</data>
 	<key>SCRCompileFootnotesHaveSeparatorKey</key>
 	<true/>
@@ -372,7 +408,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileFrontMatterIDKey</key>
 	<integer>-1</integer>
 	<key>SCRCompileGeneratePDFWithAspose</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>SCRCompileGroupFootnotesBeforePageBreakTypeKey</key>
 	<integer>1</integer>
 	<key>SCRCompileGroupFootnotesBeforePageBreaksKey</key>
@@ -391,20 +427,20 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileHTMLTreatPreserveFormatAsRawHTMLKey</key>
 	<false/>
 	<key>SCRCompileHTMLUnderlineInternalLinksKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileHTMLUseCenteredBodyTableKey</key>
 	<true/>
 	<key>SCRCompileHeaderAndFooterFontKey</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAZOU0ZvbnQehIQITlNPYmplY3QAhYQBaTyEBVs2
-	MGNdBgAAADIAAAD//lQAaQBtAGUAcwBOAGUAdwBSAG8AbQBhAG4AUABTAC0ASQB0AGEA
-	bABpAGMATQBUAAAAhAFmCoQBYwCYAZgAmACG
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAZOU0ZvbnQehIQITlNPYmplY3QAhYQBaSiEBVs0
+	MGNdBgAAAB4AAAD//kMAbwB1AHIAaQBlAHIATgBlAHcAUABTAE0AVAAAAIQBZgyEAWMA
+	mAGYAJgAhg==
 	</data>
 	<key>SCRCompileHeaderFontKey</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAZOU0ZvbnQehIQITlNPYmplY3QAhYQBaTyEBVs2
-	MGNdBgAAADIAAAD//lQAaQBtAGUAcwBOAGUAdwBSAG8AbQBhAG4AUABTAC0ASQB0AGEA
-	bABpAGMATQBUAAAAhAFmCoQBYwCYAZgAmACG
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAZOU0ZvbnQehIQITlNPYmplY3QAhYQBaSiEBVs0
+	MGNdBgAAAB4AAAD//kMAbwB1AHIAaQBlAHIATgBlAHcAUABTAE0AVAAAAIQBZgyEAWMA
+	mAGYAJgAhg==
 	</data>
 	<key>SCRCompileIgnoresLevelsOutsideCurrentCompileGroupKey</key>
 	<false/>
@@ -419,9 +455,9 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileIncludedTagKey</key>
 	<integer>0</integer>
 	<key>SCRCompileIncludesSubtitlesKey</key>
-	<true/>
-	<key>SCRCompileIndentFootnotesToMatchTextKey</key>
 	<false/>
+	<key>SCRCompileIndentFootnotesToMatchTextKey</key>
+	<true/>
 	<key>SCRCompileInlineAnnotationClosingMarkerKey</key>
 	<string>]</string>
 	<key>SCRCompileInlineAnnotationOpeningMarkerKey</key>
@@ -443,11 +479,11 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileLeftFirstPageHeaderStringKey</key>
 	<string></string>
 	<key>SCRCompileLeftFooterStringKey</key>
-	<string></string>
+	<string>PROOF COPY</string>
 	<key>SCRCompileLeftHeaderStringKey</key>
-	<string></string>
+	<string>&lt;$surname&gt;</string>
 	<key>SCRCompileMarkEndOfTextKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileMultiMarkdownAddFormatCompleteKey</key>
 	<true/>
 	<key>SCRCompileMultiMarkdownLaTeXBeginDocumentStringKey</key>
@@ -508,13 +544,13 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileOverrideFlattenIndentsType</key>
 	<integer>1</integer>
 	<key>SCRCompileOverrideFlattensFirstParagraphIndent</key>
-	<false/>
+	<true/>
 	<key>SCRCompileOverrideFontFaceThroughoutKey</key>
 	<false/>
 	<key>SCRCompileOverrideFontNameKey</key>
 	<string>Helvetica</string>
 	<key>SCRCompileOverrideFootnotesFontKey</key>
-	<true/>
+	<false/>
 	<key>SCRCompileOverridePrefixSeparatorInInlineLinksKey</key>
 	<true/>
 	<key>SCRCompileOverridePreserveFormattingHasLimits</key>
@@ -528,7 +564,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileOverridePreservesLineSpacingKey</key>
 	<false/>
 	<key>SCRCompileOverrideTextAndNotesFormatKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompilePDFExportColorInternalLinksKey</key>
 	<false/>
 	<key>SCRCompilePDFExportGeneratesOutlineKey</key>
@@ -545,7 +581,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompilePageBottomMarginUnitsKey</key>
 	<integer>1</integer>
 	<key>SCRCompilePageLeftMarginKey</key>
-	<real>1.5</real>
+	<real>1</real>
 	<key>SCRCompilePageLeftMarginUnitsKey</key>
 	<integer>1</integer>
 	<key>SCRCompilePageRightMarginKey</key>
@@ -577,8 +613,6 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<false/>
 	<key>SCRCompileRTFFlattenFootnotesAndCommentsKey</key>
 	<false/>
-	<key>SCRCompileRTFNoColumnsInFirstDocumentKey</key>
-	<false/>
 	<key>SCRCompileRTFNumberOfColumnsKey</key>
 	<integer>2</integer>
 	<key>SCRCompileRTFSpaceBetweenColumnsInTwipsKey</key>
@@ -586,8 +620,6 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileRTFStripTablesKey</key>
 	<false/>
 	<key>SCRCompileRTFUseColumnsKey</key>
-	<false/>
-	<key>SCRCompileRTFUsesCocoaStyleListIndents</key>
 	<false/>
 	<key>SCRCompileRTFUsesCocoaStyleListIndentsKey</key>
 	<false/>
@@ -620,9 +652,9 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileRightFirstPageHeaderStringKey</key>
 	<string></string>
 	<key>SCRCompileRightFooterStringKey</key>
-	<string></string>
+	<string>Not for distribution</string>
 	<key>SCRCompileRightHeaderStringKey</key>
-	<string>&lt;$initial&gt; &lt;$surname&gt; ({StudentID}) / {Supervisor-Surname} / &lt;$mediumdate&gt; ... &lt;$p&gt;</string>
+	<string>&lt;$p&gt;</string>
 	<key>SCRCompileStatisticsCharacterCountExcludesWhitespaceKey</key>
 	<false/>
 	<key>SCRCompileStatisticsCountAllTextKey</key>
@@ -656,22 +688,20 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileTextAndFolderCustomSeparatorStringKey</key>
 	<string></string>
 	<key>SCRCompileTextAndFolderSectionSeparatorKey</key>
-	<integer>2</integer>
+	<integer>3</integer>
 	<key>SCRCompileTextContainerFormattingLevelsKey</key>
 	<array>
 		<dict>
-			<key>SCRHasRTFBookmarksKey</key>
-			<integer>1</integer>
 			<key>SCRIncludeMetaDataKey</key>
 			<integer>0</integer>
 			<key>SCRIncludeNotesKey</key>
 			<integer>0</integer>
 			<key>SCRIncludeSynopsesKey</key>
-			<false/>
+			<integer>0</integer>
 			<key>SCRIncludeTextKey</key>
 			<integer>1</integer>
 			<key>SCRIncludeTitlesKey</key>
-			<true/>
+			<integer>1</integer>
 			<key>SCRMetaDataAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
@@ -685,9 +715,9 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			AEkAdABhAGwAaQBjAIQBZg2EAWMAowGjAKMAhoY=
 			</data>
 			<key>SCRMultiMarkdownPlacesTitlePrefixInsideHashesKey</key>
-			<integer>1</integer>
+			<true/>
 			<key>SCRMultiMarkdownPlacesTitleSuffixInsideHashesKey</key>
-			<integer>1</integer>
+			<true/>
 			<key>SCRNotesAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
@@ -725,63 +755,58 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
 			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
-			hIQITlNTdHJpbmcBlYQBKwZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYs
-			hAVbNDRjXQYAAAAkAAAA//5UAGkAbQBlAHMATgBlAHcAUgBvAG0A
-			YQBuAFAAUwBNAFQAhAFmDIQBYwCcAZwAnACGkoSXmBBOU1BhcmFn
-			cmFwaFN0eWxlhpKEhIQXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUA
-			hIQQTlNQYXJhZ3JhcGhTdHlsZQCVhARDQ0BTAwCEhIQHTlNBcnJh
-			eQCVlgKShISECU5TVGV4dFRhYgCVhAJDZgBIhpKEoaIAg4ALwkOG
-			hoGQAIQEWzJmXSQChoY=
+			hIQITlNTdHJpbmcBlYQBKxBOU1BhcmFncmFwaFN0eWxlhpKEhIQX
+			TlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQTlNQYXJhZ3JhcGhT
+			dHlsZQCVhARDQ0BTBACFgYAAhARbMWZdg83MjD+GkoSXmAZOU0Zv
+			bnSGkoSEhAZOU0ZvbnQelZYohAVbNDBjXQYAAAAeAAAA//5DAG8A
+			dQByAGkAZQByAE4AZQB3AFAAUwBNAFQAAACEAWYMhAFjAKABoACg
+			AIaG
 			</data>
 			<key>SCRTitleAttributesKey</key>
 			<data>
-			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
-			TlNPYmplY3QAhYQBaQKShISECE5TU3RyaW5nAZSEASsQTlNQYXJh
-			Z3JhcGhTdHlsZYaShISEF05TTXV0YWJsZVBhcmFncmFwaFN0eWxl
-			AISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwQAhYGAAIQEWzFm
-			XYMAAMA/hpKElpcGTlNGb250hpKEhIQGTlNGb250HpSVIIQFWzMy
-			Y10GAAAAGAAAAP/+TwBwAHQAaQBtAGEALQBCAG8AbABkAIQBZhCE
-			AWMAnwGfAJ8AhoY=
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
+			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpA5KE
+			hIQITlNTdHJpbmcBlYQBKwtOU1VuZGVybGluZYaShISECE5TTnVt
+			YmVyAISEB05TVmFsdWUAlYQBKoSWlgGGkoSXmBBOU1BhcmFncmFw
+			aFN0eWxlhpKEhIQXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQ
+			TlNQYXJhZ3JhcGhTdHlsZQCVhARDQ0BTAACFgYABhARbMmZdg83M
+			jD8MhpKEl5gGTlNGb250hpKEhIQGTlNGb250HpWWKIQFWzQwY10G
+			AAAAHgAAAP/+QwBvAHUAcgBpAGUAcgBOAGUAdwBQAFMATQBUAAAA
+			hAFmDIQBYwCjAaMAowCGhg==
 			</data>
-			<key>SCRTitleCaseKey</key>
-			<integer>0</integer>
 			<key>SCRTitlePrefixAttributesKey</key>
 			<data>
-			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
-			TlNPYmplY3QAhYQBaQKShISECE5TU3RyaW5nAZSEASsQTlNQYXJh
-			Z3JhcGhTdHlsZYaShISEF05TTXV0YWJsZVBhcmFncmFwaFN0eWxl
-			AISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwQAhYGAAIQEWzFm
-			XYMAAMA/hpKElpcGTlNGb250hpKEhIQGTlNGb250HpSVIIQFWzMy
-			Y10GAAAAGAAAAP/+TwBwAHQAaQBtAGEALQBCAG8AbABkAIQBZhCE
-			AWMAnwGfAJ8AhoY=
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
+			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
+			hIQITlNTdHJpbmcBlYQBKwZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYo
+			hAVbNDBjXQYAAAAeAAAA//5DAG8AdQByAGkAZQByAE4AZQB3AFAA
+			UwBNAFQAAACEAWYMhAFjAJwBnACcAIaShJeYEE5TUGFyYWdyYXBo
+			U3R5bGWGkoSEhBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZQCEhBBO
+			U1BhcmFncmFwaFN0eWxlAJWEBENDQFMCAIWBgACEBFsxZl2DAADA
+			P4aG
 			</data>
-			<key>SCRTitlePrefixCaseKey</key>
-			<integer>0</integer>
 			<key>SCRTitlePrefixKey</key>
 			<string></string>
 			<key>SCRTitleSuffixAttributesKey</key>
 			<data>
-			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
-			TlNPYmplY3QAhYQBaQKShISECE5TU3RyaW5nAZSEASsQTlNQYXJh
-			Z3JhcGhTdHlsZYaShISEF05TTXV0YWJsZVBhcmFncmFwaFN0eWxl
-			AISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwQAhYGAAIQEWzFm
-			XYMAAMA/hpKElpcGTlNGb250hpKEhIQGTlNGb250HpSVIIQFWzMy
-			Y10GAAAAGAAAAP/+TwBwAHQAaQBtAGEALQBCAG8AbABkAIQBZhCE
-			AWMAnwGfAJ8AhoY=
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
+			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
+			hIQITlNTdHJpbmcBlYQBKwZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYo
+			hAVbNDBjXQYAAAAeAAAA//5DAG8AdQByAGkAZQByAE4AZQB3AFAA
+			UwBNAFQAAACEAWYMhAFjAJwBnACcAIaShJeYEE5TUGFyYWdyYXBo
+			U3R5bGWGkoSEhBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZQCEhBBO
+			U1BhcmFncmFwaFN0eWxlAJWEBENDQFMCAIWBgACEBFsxZl2DAADA
+			P4aG
 			</data>
-			<key>SCRTitleSuffixCaseKey</key>
-			<integer>0</integer>
 			<key>SCRTitleSuffixKey</key>
 			<string></string>
 		</dict>
 	</array>
 	<key>SCRCompileTextCustomSeparatorStringKey</key>
-	<string>#</string>
+	<string># # #</string>
 	<key>SCRCompileTextFormattingLevelsKey</key>
 	<array>
 		<dict>
-			<key>SCRHasRTFBookmarksKey</key>
-			<integer>1</integer>
 			<key>SCRIncludeMetaDataKey</key>
 			<integer>0</integer>
 			<key>SCRIncludeNotesKey</key>
@@ -791,7 +816,7 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			<key>SCRIncludeTextKey</key>
 			<integer>1</integer>
 			<key>SCRIncludeTitlesKey</key>
-			<true/>
+			<integer>1</integer>
 			<key>SCRMetaDataAttributesKey</key>
 			<data>
 			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
@@ -847,56 +872,53 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
 			hIQITlNTdHJpbmcBlYQBKxBOU1BhcmFncmFwaFN0eWxlhpKEhIQX
 			TlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQTlNQYXJhZ3JhcGhT
-			dHlsZQCVhARDQ0BTAwCEhIQHTlNBcnJheQCVlgGShISECU5TVGV4
-			dFRhYgCVhAJDZgBIhoaBkACEBFsyZl0kAoaShJeYBk5TRm9udIaS
-			hISEBk5TRm9udB6VliyEBVs0NGNdBgAAACQAAAD//lQAaQBtAGUA
-			cwBOAGUAdwBSAG8AbQBhAG4AUABTAE0AVACEAWYMhAFjAKMBowCj
+			dHlsZQCVhARDQ0BTBACFgYAAhARbMWZdg83MjD+GkoSXmAZOU0Zv
+			bnSGkoSEhAZOU0ZvbnQelZYohAVbNDBjXQYAAAAeAAAA//5DAG8A
+			dQByAGkAZQByAE4AZQB3AFAAUwBNAFQAAACEAWYMhAFjAKABoACg
 			AIaG
 			</data>
 			<key>SCRTitleAttributesKey</key>
 			<data>
-			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
-			TlNPYmplY3QAhYQBaQKShISECE5TU3RyaW5nAZSEASsQTlNQYXJh
-			Z3JhcGhTdHlsZYaShISEF05TTXV0YWJsZVBhcmFncmFwaFN0eWxl
-			AISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwQAhYGAAIQEWzFm
-			XYMAAMA/hpKElpcGTlNGb250hpKEhIQGTlNGb250HpSVIIQFWzMy
-			Y10GAAAAGAAAAP/+TwBwAHQAaQBtAGEALQBCAG8AbABkAIQBZhCE
-			AWMAnwGfAJ8AhoY=
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
+			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpA5KE
+			hIQITlNTdHJpbmcBlYQBKwtOU1VuZGVybGluZYaShISECE5TTnVt
+			YmVyAISEB05TVmFsdWUAlYQBKoSWlgGGkoSXmBBOU1BhcmFncmFw
+			aFN0eWxlhpKEhIQXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQ
+			TlNQYXJhZ3JhcGhTdHlsZQCVhARDQ0BTAACFgYABhARbMmZdg83M
+			jD8MhpKEl5gGTlNGb250hpKEhIQGTlNGb250HpWWKIQFWzQwY10G
+			AAAAHgAAAP/+QwBvAHUAcgBpAGUAcgBOAGUAdwBQAFMATQBUAAAA
+			hAFmDIQBYwCjAaMAowCGhg==
 			</data>
-			<key>SCRTitleCaseKey</key>
-			<integer>0</integer>
 			<key>SCRTitlePrefixAttributesKey</key>
 			<data>
-			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
-			TlNPYmplY3QAhYQBaQKShISECE5TU3RyaW5nAZSEASsQTlNQYXJh
-			Z3JhcGhTdHlsZYaShISEF05TTXV0YWJsZVBhcmFncmFwaFN0eWxl
-			AISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwQAhYGAAIQEWzFm
-			XYMAAMA/hpKElpcGTlNGb250hpKEhIQGTlNGb250HpSVIIQFWzMy
-			Y10GAAAAGAAAAP/+TwBwAHQAaQBtAGEALQBCAG8AbABkAIQBZhCE
-			AWMAnwGfAJ8AhoY=
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
+			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
+			hIQITlNTdHJpbmcBlYQBKwZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYo
+			hAVbNDBjXQYAAAAeAAAA//5DAG8AdQByAGkAZQByAE4AZQB3AFAA
+			UwBNAFQAAACEAWYMhAFjAJwBnACcAIaShJeYEE5TUGFyYWdyYXBo
+			U3R5bGWGkoSEhBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZQCEhBBO
+			U1BhcmFncmFwaFN0eWxlAJWEBENDQFMCAIWBgACEBFsxZl2DAADA
+			P4aG
 			</data>
-			<key>SCRTitlePrefixCaseKey</key>
-			<integer>0</integer>
 			<key>SCRTitlePrefixKey</key>
 			<string></string>
 			<key>SCRTitleSuffixAttributesKey</key>
 			<data>
-			BAtzdHJlYW10eXBlZIHoA4QBQISEhAxOU0RpY3Rpb25hcnkAhIQI
-			TlNPYmplY3QAhYQBaQKShISECE5TU3RyaW5nAZSEASsQTlNQYXJh
-			Z3JhcGhTdHlsZYaShISEF05TTXV0YWJsZVBhcmFncmFwaFN0eWxl
-			AISEEE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwQAhYGAAIQEWzFm
-			XYMAAMA/hpKElpcGTlNGb250hpKEhIQGTlNGb250HpSVIIQFWzMy
-			Y10GAAAAGAAAAP/+TwBwAHQAaQBtAGEALQBCAG8AbABkAIQBZhCE
-			AWMAnwGfAJ8AhoY=
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBNOU011dGFibGVEaWN0aW9u
+			YXJ5AISEDE5TRGljdGlvbmFyeQCEhAhOU09iamVjdACFhAFpApKE
+			hIQITlNTdHJpbmcBlYQBKwZOU0ZvbnSGkoSEhAZOU0ZvbnQelZYo
+			hAVbNDBjXQYAAAAeAAAA//5DAG8AdQByAGkAZQByAE4AZQB3AFAA
+			UwBNAFQAAACEAWYMhAFjAJwBnACcAIaShJeYEE5TUGFyYWdyYXBo
+			U3R5bGWGkoSEhBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZQCEhBBO
+			U1BhcmFncmFwaFN0eWxlAJWEBENDQFMCAIWBgACEBFsxZl2DAADA
+			P4aG
 			</data>
-			<key>SCRTitleSuffixCaseKey</key>
-			<integer>0</integer>
 			<key>SCRTitleSuffixKey</key>
 			<string></string>
 		</dict>
 	</array>
 	<key>SCRCompileTextSectionSeparatorKey</key>
-	<integer>2</integer>
+	<integer>0</integer>
 	<key>SCRCompileUnderlinePrintedHyperlinksKey</key>
 	<true/>
 	<key>SCRCompileUpdateScrivenerLinksWithPrefixAndSuffixKey</key>
@@ -908,49 +930,8 @@ p.shot {text-align:left; text-indent:0; margin: 12pt 0pt 0pt 0pt; text-transform
 	<key>SCRCompileUsePeriodSpaceFootnoteMarkerStyleKey</key>
 	<false/>
 	<key>SCRCompileUseProjectPageSetupKey</key>
-	<false/>
+	<true/>
 	<key>SCRCompileVariableReplacementsKey</key>
-	<array>
-		<dict>
-			<key>replacement</key>
-			<string>110017909</string>
-			<key>variable</key>
-			<string>{StudentID}</string>
-		</dict>
-		<dict>
-			<key>replacement</key>
-			<string>Research &amp; Creative Practice</string>
-			<key>variable</key>
-			<string>{Supervisor-Surname}</string>
-		</dict>
-		<dict>
-			<key>replacement</key>
-			<string>COLLEGE NAME</string>
-			<key>variable</key>
-			<string>COLLEGE_NAME</string>
-		</dict>
-		<dict>
-			<key>replacement</key>
-			<string>COURSE NAME</string>
-			<key>variable</key>
-			<string>COURSE_NAME</string>
-		</dict>
-		<dict>
-			<key>replacement</key>
-			<string>SHORT PAPER NAME</string>
-			<key>variable</key>
-			<string>SHORT_PAPER_NAME</string>
-		</dict>
-		<dict>
-			<key>replacement</key>
-			<string>SUPERVISOR NAME</string>
-			<key>variable</key>
-			<string>SUPERVISOR_NAME</string>
-		</dict>
-	</array>
-	<key>SCRPlaceTitleAsRunInHeadKey</key>
-	<false/>
-	<key>SCRTemplateCompileSettingsTitle</key>
-	<string>Undergraduate Humanities Essay</string>
+	<array/>
 </dict>
 </plist>
