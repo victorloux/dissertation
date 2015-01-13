@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Snapshots Version="1.0">
+    <Snapshot>
+        <Title>Untitled (Save)</Title>
+        <Date>2015-01-13 03:48:33 +0000</Date>
+        <Links Version="1.0" Anchor="RTF">
+            <CommentsAndFootnotes>
+                <Comment IsFootnote="Yes" Collapsed="No" ID="A6F85618-C444-4C3F-BE7C-0DE2D7B95AB2">
+                    <Range>674,19</Range>
+                    <Color>0.85 0.85 0.85</Color>
+                    <RTF><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
+{\fonttbl\f0\fnil\fcharset0 Verdana;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs20 \cf0 For example, lowest to highest price, or best to worst result.}]]></RTF>
+                </Comment>
+            </CommentsAndFootnotes>
+        </Links>
+    </Snapshot>
+</Snapshots>

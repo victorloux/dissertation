@@ -2169,7 +2169,10 @@ Finally, appropriateness is using a method that is relevant to the type of mater
         <Document ID="14">
             <Title>Conclusion</Title>
             <Text>This dissertation has explored different aspects of the preservation of digital artefacts, the issues with preservation of personal memories from social networks, and, in the context of interaction design, looked at potential methods for the retrieval of these memories in large archives, notably by delving into a variety of representations of time through history and analysing the results of a workshop to understand users’ responses.
-By dissecting how the timeline used by social networks works, I have attempted to expose the fact that as a tool that attempts to be neutral and unopinionated, it is ultimately a deceptive and inefficient way of organising items once the amount of information is large enough. For interaction design, it is a challenge to organise information in a manner that is pertinent for users</Text>
+By dissecting how the timeline used by social networks works, I have attempted to expose the fact that as a tool that attempts to be neutral and unopinionated, it is ultimately a deceptive and inefficient way of organising items once the amount of information is large enough. For interaction design, it is a challenge to organise information in a manner that is pertinent for users, and looking at alternative ways of representing time was important to be able to design an efficient system to retrieve memories from an archive. The workshop I have held also allowed me to obtain great insights from the potential users’ perspective, and what are important factors and concepts to think about when designing such a system: the need for different filters when looking up in an archive, when simply increasing the granularity is not sufficient to help finding something with the information we remember; the importance of careful design in terms of readability and separation, to allow complexity while retaining the user; the general use of periods and events as main reference points when asking people to visually describe their life, rather than time units such as years or months.
+The research presented here is a stepping stone for my honours project, and the observations made here will allow me to drive the development of new prototypes. However, it is far from being a comprehensive answer to all the questions originally asked. I have only obtained a limited understanding of people’s behaviour and attitudes towards the preservation of their online data, and the research done on visual representation is not sufficient to establish strong design guidelines for the design of such systems.
+To consolidate the research presented here and help in fully answering the questions asked, further research will be needed. Building prototypes and testing them with users, which is what I set out to do when originally planning this dissertation, actually requires a good understanding of the existing representations of time in the first place. I will now be able to do this with my honours project, but a more complete study with a wider variety of interface paradigms, as part of a MSc or PhD research, would reveal new insights. It would also be necessary to go further in depth when attempting to understand the processes used by users when retrieving old memories on social networks, using ethnographic observation with a careful ethical consideration, and a larger pool of participants.
+This area of study is complex, because it has a “futuristic” aspect to it: the full potential of a retrieval system would only be achieved once several decades of data have been accumulated, which has not happened yet since all the social networking sites are still relatively young. However, I am hoping that small pieces of research and experimentation such as this one will pave the way for larger projects in this field, so that powerful, user-friendly systems can be built to preserve emotionally important content before it disappears, and allow new experiences for exploring and recovering it.</Text>
             <Notes>- Longer section on the limitations of your research. 
 - need to emphasise the contribution that it makes to research.
 - need for future research. 
@@ -2613,6 +2616,7 @@ Of course, any data (digital or not) is vulnerable to time, and it is generally 
             <Text>	•	Artefact, not artifact
 	•	Data always singular (data is); make a style note from Guardian/Observer style guide - “data takes a singular verb (like agenda), though strictly a plural; no one ever uses "agendum" or "datum””
 	•	Dates (accessed by): [Accessed: 20 Oct. 2014]
+	•	Check for elisions (I’ve -&gt; I have)
 Fine type:
 	•	Non-breaking space before page numbers (p.⌙22, esp. in sidenotes)
 
@@ -2853,7 +2857,9 @@ Martin, B. and Hanington, B. (2012). Universal Methods of Design: 100 Ways to Re
 Lidwell, W., Holden, K. and Butler, J. (2010). Universal Principles of Design: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design. Berverly, MA: Rockport Publishers, p. 100. 
 Wurman, R. S. (1989). Information Anxiety. New York, NY: Doubleday.
 Haynes, C. (2014b). Four Geometries of Time. A storm is blowing. [blog] http://astormisblowing.org/2014/03/24/four-geometries-of-time/ [Accessed: 27 Oct. 2014] &gt;&gt;&gt;&gt; Convert other one to 2014a
-Julius, M. (no date). Remembrance Value of Topics in Social Media. [online] pp. 6, 12. Available at: https://dl.dropboxusercontent.com/u/24440204/remembrance_value_of_topics_in_social_media.pdf [Accessed 12 Oct 2014].</Text>
+Julius, M. (no date). Remembrance Value of Topics in Social Media. [online] pp. 6, 12. Available at: https://dl.dropboxusercontent.com/u/24440204/remembrance_value_of_topics_in_social_media.pdf [Accessed 12 Oct 2014].
+Olsson, T., Soronen, H. and Väänänen-Vainio-Mattila, K. (2008). User needs and design guidelines for mobile services for sharing digital life memories. Proceedings of the 10th international conference on Human computer interaction with mobile devices and services - MobileHCI '08. Available at: {doi: 10.1145/1409240.1409270} [Accessed 03 Jan 2015]
+Petrelli, D., Whittaker, S. and Brockmeier, J. (2008). AutoTopography: what can physical mementos tell us about digital memories?. Proceeding of the twenty-sixth annual CHI conference on Human factors in computing systems - CHI '08. Available at: {doi:10.1145/1357054.1357065} [Accessed 12 Dec 2015]</Text>
         </Document>
         <Document ID="141">
             <Title>Untitled</Title>
@@ -2918,8 +2924,6 @@ Thanks to Katrina Gorkovenko, PhD student at Duncan of Jordanstone and alumni of
         <Document ID="134">
             <Title>Results</Title>
             <Text>put PDFS
-NB!!! Fix the first sheet of results, one line is off
-Also in first sheet correct “average” to “sum”
 
 Mention that to respect confidentiality, participants IDs were swapped between each sheets to avoid cross-tabulation of results.</Text>
         </Document>
@@ -3088,14 +3092,362 @@ It goes into the realm of space because it is a movement; the past is behind us 
         <Document ID="153">
             <Title>Conclusion</Title>
         </Document>
-        <Document ID="145">
-            <Title>Front matter</Title>
-        </Document>
         <Document ID="170">
             <Title>Workshop results</Title>
-            <Text>￼￼￼￼￼￼￼Retrieval process￼p1￼p2￼p3￼p4￼p5￼p6￼p7￼p8p9AVERAGEI went to the profile and...￼￼x￼xx3I went to the profile and kept scrolling down until I found it in the feed￼xxx3I went to the profile and used the Timeline links on the right to access a time periodx1I went to the profile and knew it was in their profile/cover pictures, so I clicked there directlyx￼x2I went to the profile and directly browsed the albumsx1... I knew which one it was inxxx￼xxx￼xx8... I had to go through a few albums to find itxx￼x￼xxx6I used Facebook’s search engine to find the album or post0I searched in my browser history0I searched in my messages history0... it was a shared link0... the photo was sent privately (in the messages)x￼1I searched my inbox for the relevant Facebook notification emails0I asked someone to send me a link to it0I had a picture in mind but I can’t remember where it wasx1I had a picture in mind and knew where it was, but I couldn’t find it/it’s been deletedx1ExperienceWorks finexxxxxxxxxxx11Laboriousxxxxxxxxxxxx12Had trouble finding itxx￼2Couldn't find it at all￼0Wasn't where I thought it wasxx￼2￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼What do you use social media for?(grades range from 1 to 10)p1p2p3p4p5p6p7p8p9TotalKeep friends up to date179595679￼6.44Preserve things that affect me emotionally1611512152.56Stimulate friends to think about certain topics5456111753.89Satisfy a spontaneous need for communication1595155795.22Get attention for my projects1591559655.11Define my reputation1298155714.33Chat with friends5996998998.11Follow news of friends5991999897.56General attention139811475￼4.33Keep in touch with friends far away5998955997.56Use groups for school/work/activities99919910898.11Follow celebrities or brands125145155￼3.22Follow networks about general news and current affairs5355596715.11Follow content about my domain (blogs, magazines, communities)1296599515.22Leisure activities525155831￼3.89Be part of the community9651555495.44No specific goal9513517554.56How long do you think Facebook will stay popular before being replaced by something else?10105?51010527.125Would you be willing to manually curate the archive of your social networks to organise it?- Yes, every few weeks, so that I can keep a fresh eye on what’s importantx￼1- Yes, every year or so, that’d allow me to look backxxxxxxx￼7- Yes, less often, when I think of it￼0- No, I’d prefer the curation to be done automatically, even if that means it is less accuratex*x￼2- No, I think a standard timeline is better than these alternative representations0- No, I would not be interested in your product anyway0* although if sth was missing, they would like to be able to manually fix this.￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Cartography p1 p2 p3 p4 p5 p6 p7 p8 p9 AVERAGE CREBCREBCREBCREBCREBCREBCREBCREBCREBC R E B￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3 4 5 6 7 8 9 10 11 12 13513 ￼ ￼ 5 5 1 5 5 3 4 3 2 4 3 3 4 3 4 3 5 5 5 5 5 2 4 4 4 2 2 2 4 2 3 1 5 3.44 3.00 3.22 4.33 432 ￼ ￼ 4 3 4 2 3 4 4 3 5 4 3 3 3 2 4 4 5 3 3 5 5 4 4 4 4 3 4 4 5 4 4 4 2 3.44 3.67 3.44 4.00 232 ￼ ￼ 3 1 3 1 5 3 2 2 4 1 2 1 4 1 1 1 3 1 3 3 5 1 2 2 1 4 4 4 5 2 2 1 3 1.78 2.44 1.89 3.67 432 ￼ ￼ 3 5 5 5 5 4 1 3 4 5 4 2 3 5 2 4 5 5 5 5 5 1 1 1 3 5 5 5 5 1 3 2 4 3.89 3.22 3.22 4.11 443 ￼ ￼ 4 3 3 1 1 5 4 5 5 5 5 1 4 5 5 4 3 5 5 5 3 5 5 5 3 5 5 5 5 5 4 3 5 4.67 4.44 3.56 3.67 232 ￼ ￼ 3121345333412131315334433555513212.443.782.332.89 231 ￼ ￼ 1 4 4 1 5 3 3 3 4 3 5 3 1 1 2 1 5 3 3 3 3 2 1 2 4 2 4 5 5 1 2 3 1 2.33 3.00 2.44 3.22 313 ￼ ￼ 2213154511111244113312121555111412.442.333.331.11 112 ￼ ￼ 5333522443335123353532131344542442.672.333.443.89 533 ￼ ￼ 2554533325434444511353333555554554.003.563.674.00 322 ￼ ￼ 3444334134221335311132224354443253.002.892.563.22 121 ￼ ￼ 3253512141211333553552122445512312.222.672.673.44 333 ￼ ￼ 2555545435545535533335544444452554.333.894.114.00￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼C ClarityR Relevance E Efficiency B BeautyGrades range from 1 to 5.</Text>
+            <Text>￼￼￼￼￼￼￼Retrieval process
+￼p1
+￼p2
+￼p3
+￼p4
+￼p5
+￼p6
+￼p7
+￼p8
+p9
+AVERAGE
+I went to the profile and...
+￼￼x
+￼x
+x
+3
+I went to the profile and kept scrolling down until I found it in the feed
+￼x
+x
+x
+3
+I went to the profile and used the Timeline links on the right to access a time period
+x
+1
+I went to the profile and knew it was in their profile/cover pictures, so I clicked there directly
+x
+￼x
+2
+I went to the profile and directly browsed the albums
+x
+1
+... I knew which one it was in
+x
+x
+x
+￼x
+x
+x
+￼x
+x
+8
+... I had to go through a few albums to find it
+x
+x
+￼x
+￼x
+x
+x
+6
+I used Facebook’s search engine to find the album or post
+0
+I searched in my browser history
+0
+I searched in my messages history
+0
+... it was a shared link
+0
+... the photo was sent privately (in the messages)
+x
+￼1
+I searched my inbox for the relevant Facebook notification emails
+0
+I asked someone to send me a link to it
+0
+I had a picture in mind but I can’t remember where it was
+x
+1
+I had a picture in mind and knew where it was, but I couldn’t find it/it’s been deleted
+x
+1
+Experience
+Works fine
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+11
+Laborious
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+12
+Had trouble finding it
+x
+x
+￼2
+Couldn't find it at all
+￼0
+Wasn't where I thought it was
+x
+x
+￼2
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼What do you use social media for?
+(grades range from 1 to 10)
+p1
+p2
+p3
+p4
+p5
+p6
+p7
+p8
+p9
+Total
+Keep friends up to date
+1
+7
+9
+5
+9
+5
+6
+7
+9
+￼6.44
+Preserve things that affect me emotionally
+1
+6
+1
+1
+5
+1
+2
+1
+5
+2.56
+Stimulate friends to think about certain topics
+5
+4
+5
+6
+1
+1
+1
+7
+5
+3.89
+Satisfy a spontaneous need for communication
+1
+5
+9
+5
+1
+5
+5
+7
+9
+5.22
+Get attention for my projects
+1
+5
+9
+1
+5
+5
+9
+6
+5
+5.11
+Define my reputation
+1
+2
+9
+8
+1
+5
+5
+7
+1
+4.33
+Chat with friends
+5
+9
+9
+6
+9
+9
+8
+9
+9
+8.11
+Follow news of friends
+5
+9
+9
+1
+9
+9
+9
+8
+9
+7.56
+General attention
+1
+3
+9
+8
+1
+1
+4
+7
+5
+￼4.33
+Keep in touch with friends far away
+5
+9
+9
+8
+9
+5
+5
+9
+9
+7.56
+Use groups for school/work/activities
+9
+9
+9
+1
+9
+9
+10
+8
+9
+8.11
+Follow celebrities or brands
+1
+2
+5
+1
+4
+5
+1
+5
+5
+￼3.22
+Follow networks about general news and current affairs
+5
+3
+5
+5
+5
+9
+6
+7
+1
+5.11
+Follow content about my domain (blogs, magazines, communities)
+1
+2
+9
+6
+5
+9
+9
+5
+1
+5.22
+Leisure activities
+5
+2
+5
+1
+5
+5
+8
+3
+1
+￼3.89
+Be part of the community
+9
+6
+5
+1
+5
+5
+5
+4
+9
+5.44
+No specific goal
+9
+5
+1
+3
+5
+1
+7
+5
+5
+4.56
+How long do you think Facebook will stay popular before being replaced by something else?
+10
+10
+5
+?
+5
+10
+10
+5
+2
+7.125
+Would you be willing to manually curate the archive of your social networks to organise it?
+- Yes, every few weeks, so that I can keep a fresh eye on what’s important
+x
+￼1
+- Yes, every year or so, that’d allow me to look back
+x
+x
+x
+x
+x
+x
+x
+￼7
+- Yes, less often, when I think of it
+￼0
+- No, I’d prefer the curation to be done automatically, even if that means it is less accurate
+x*
+x
+￼2
+- No, I think a standard timeline is better than these alternative representations
+0
+- No, I would not be interested in your product anyway
+0
+* although if sth was missing, they would like to be able to manually fix this.
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Cartography p1 p2 p3 p4 p5 p6 p7 p8 p9 AVERAGE CREBCREBCREBCREBCREBCREBCREBCREBCREBC R E B
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3 4 5 6 7 8 9 10 11 12 13
+513 ￼ ￼ 5 5 1 5 5 3 4 3 2 4 3 3 4 3 4 3 5 5 5 5 5 2 4 4 4 2 2 2 4 2 3 1 5 3.44 3.00 3.22 4.33 432 ￼ ￼ 4 3 4 2 3 4 4 3 5 4 3 3 3 2 4 4 5 3 3 5 5 4 4 4 4 3 4 4 5 4 4 4 2 3.44 3.67 3.44 4.00 232 ￼ ￼ 3 1 3 1 5 3 2 2 4 1 2 1 4 1 1 1 3 1 3 3 5 1 2 2 1 4 4 4 5 2 2 1 3 1.78 2.44 1.89 3.67 432 ￼ ￼ 3 5 5 5 5 4 1 3 4 5 4 2 3 5 2 4 5 5 5 5 5 1 1 1 3 5 5 5 5 1 3 2 4 3.89 3.22 3.22 4.11 443 ￼ ￼ 4 3 3 1 1 5 4 5 5 5 5 1 4 5 5 4 3 5 5 5 3 5 5 5 3 5 5 5 5 5 4 3 5 4.67 4.44 3.56 3.67 232 ￼ ￼ 3121345333412131315334433555513212.443.782.332.89 231 ￼ ￼ 1 4 4 1 5 3 3 3 4 3 5 3 1 1 2 1 5 3 3 3 3 2 1 2 4 2 4 5 5 1 2 3 1 2.33 3.00 2.44 3.22 313 ￼ ￼ 2213154511111244113312121555111412.442.333.331.11 112 ￼ ￼ 5333522443335123353532131344542442.672.333.443.89 533 ￼ ￼ 2554533325434444511353333555554554.003.563.674.00 322 ￼ ￼ 3444334134221335311132224354443253.002.892.563.22 121 ￼ ￼ 3253512141211333553552122445512312.222.672.673.44 333 ￼ ￼ 2555545435545535533335544444452554.333.894.114.00
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼C Clarity
+R Relevance E Efficiency B Beauty
+Grades range from 1 to 5.
+</Text>
+        </Document>
+        <Document ID="145">
+            <Title>Front matter</Title>
         </Document>
         <Document ID="137">
             <Title>Drawings</Title>
@@ -3123,6 +3475,12 @@ http://archiveteam.org/index.php?title=Why_Back_Up%3F [Accessed 20th October 201
         </Document>
         <Document ID="146">
             <Title>Back matter</Title>
+        </Document>
+        <Document ID="171">
+            <Title>Workshop results</Title>
+            <Text>￼￼￼￼￼Retrieval method￼￼p1￼p2￼p3￼p4￼p5￼p6￼p7￼p8p9TotalI went to the profile and......kept scrolling down until I found it in the feedXXXXXX￼6...used the Timeline links on the right to access a time periodX1...knew it was in their profile/cover pictures, so I clicked there directlyXX2...directly browsed the albums... I knew which one it was inXXXXXXXX8... I had to go through a few albums to find itXXXXXXX7I used Facebook’s search engine to find the album or post0I searched in my browser history0I searched in my messages history... it was a shared link￼0... the photo was sent privately (in the messages)X￼1I searched my inbox for the relevant Facebook notification emails0I asked someone to send me a link to it0I had a picture in mind but I can’t remember where it wasX1I had a picture in mind and knew where it was, but I couldn’t find it/it’s been deletedX1ExperienceWorks fineXXXXXXXXXXX11LaboriousXXXXXXXXXXXX12Had trouble finding itXX￼2Couldn't find it at all￼0Wasn't where I thought it wasXX￼2￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼(grades range from 1 to 10)￼What do you use social media for?p1p2p3p4p5p6p7p8p9AverageKeep friends up to date179595679￼6.44Preserve things that affect me emotionally1611512152.56Stimulate friends to think about certain topics5456111753.89Satisfy a spontaneous need for communication1595155795.22Get attention for my projects1591559655.11Define my reputation1298155714.33Chat with friends5996998998.11Follow news of friends5991999897.56General attention139811475￼4.33Keep in touch with friends far away5998955997.56Use groups for school/work/activities99919910898.11Follow celebrities or brands125145155￼3.22Follow networks about general news and current affairs5355596715.11Follow content about my domain (blogs, magazines, communities)1296599515.22Leisure activities525155831￼3.89Be part of the community9651555495.44No specific goal9513517554.56How long do you think Facebook will stay popular before being replaced by something else?10105?51010527.125￼Would you be willing to manually curate the archive of your social networks to organise it?TotalYes, every few weeks, so that I can keep a fresh eye on what’s importantX￼1Yes, every year or so, that’d allow me to look backXXXXXXX￼7Yes, less often, when I think of it￼0No, I’d prefer the curation to be done automatically, even if that means it is less accurateX*X￼2No, I think a standard timeline is better than these alternative representations0No, I would not be interested in your product anyway0* although if something was missing, they would like to be able to manually fix this.￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Cartography p1 p2 p3 p4 p5 p6 p7 p8 p9 AVERAGE CREBCREBCREBCREBCREBCREBCREBCREBCREBC R E B￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1 2 3 4 5 6 7 8 9 10 11 12 13513 ￼ ￼ 5 5 1 5 5 3 4 3 2 4 3 3 4 3 4 3 5 5 5 5 5 2 4 4 4 2 2 2 4 2 3 1 5 3.44 3.00 3.22 4.33 432 ￼ ￼ 4 3 4 2 3 4 4 3 5 4 3 3 3 2 4 4 5 3 3 5 5 4 4 4 4 3 4 4 5 4 4 4 2 3.44 3.67 3.44 4.00 232 ￼ ￼ 3 1 3 1 5 3 2 2 4 1 2 1 4 1 1 1 3 1 3 3 5 1 2 2 1 4 4 4 5 2 2 1 3 1.78 2.44 1.89 3.67 432 ￼ ￼ 3 5 5 5 5 4 1 3 4 5 4 2 3 5 2 4 5 5 5 5 5 1 1 1 3 5 5 5 5 1 3 2 4 3.89 3.22 3.22 4.11 443 ￼ ￼ 4 3 3 1 1 5 4 5 5 5 5 1 4 5 5 4 3 5 5 5 3 5 5 5 3 5 5 5 5 5 4 3 5 4.67 4.44 3.56 3.67 232 ￼ ￼ 3121345333412131315334433555513212.443.782.332.89 231 ￼ ￼ 1 4 4 1 5 3 3 3 4 3 5 3 1 1 2 1 5 3 3 3 3 2 1 2 4 2 4 5 5 1 2 3 1 2.33 3.00 2.44 3.22 313 ￼ ￼ 2213154511111244113312121555111412.442.333.331.11 112 ￼ ￼ 5333522443335123353532131344542442.672.333.443.89 533 ￼ ￼ 2554533325434444511353333555554554.003.563.674.00 322 ￼ ￼ 3444334134221335311132224354443253.002.892.563.22 121 ￼ ￼ 3253512141211333553552122445512312.222.672.673.44 333 ￼ ￼ 2555545435545535533335544444452554.333.894.114.00￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼C ClarityR Relevance E Efficiency B BeautyGrades range from 1 to 5.</Text>
         </Document>
         <Document ID="138">
             <Title>Recording</Title>
@@ -3170,9 +3528,9 @@ The symbol of the Ouroboros, a snake or a dragon eating its tail, is extremely a
         </Document>
         <Document ID="165">
             <Title>Results</Title>
-            <Text>The detail of results are available in [appendix Q-RETRIEVAL]. The results of this activity were rather unanimous. For most pictures, people knew on which profile to look; they associated, in their memory, the picture with the person who posted it. In over half of these cases, they knew exactly in which photo album it was (as albums are generally unique per particular event or date, or they were in the special profile/cover pictures album); in the remaining cases, they had to browse through a few albums to find the photo they were thinking about. Three participants, once each, did not know in which album it was and instead scrolled down the users’ timeline until they found the picture. One browsed the timeline but used the links to access a specific time period, knowing when the photo was posted. Only one photo was sent in private message, and two photos could not be found at all; either by not remembering where it was located, or by remembering where it was located but could not find it there.
-Of the 27 (9⨉3) times a photo has been searched, 12 times it was considered a laborious process, and 11 times participants have had no trouble finding it. Two times it was considered really hard to find it, and in the last two cases the photo wasn’t found at all.
-The most interesting insights we can get from this activity are by comparing the experience of retrieval with the process used. Out of all the retrievals that were considered “laborious” or troublesome, only one of them was for “I went to the profile and knew which [album] it was in”; all the 13 others times this was when the exact location of the item was not known precisely, and some research through the albums, timeline or message history had to be done first. This isn’t exactly surprising (having to spend longer on finding a picture means it is more laborious than finding it straight away) but the amount of times this happened demonstrates that our ability to find data is limited to the amount of “metadata” that we have stored with it: most people knew which friend this memory was linked with, but less than half could remember in which “box” it was stored on the social network. This indicates that more levels of classification and sorting must be available when browsing a large archive; for example, being able to know which other friends were tagged with it, at which period it happened, and possibly where it happened, if the content is geotagged.</Text>
+            <Text>The detail of results are available in [appendix Q-RETRIEVAL]. The results of this activity were divided. For two thirds of the pictures, people knew on which profile to look; they associated, in their memory, the picture with the person who posted it. In over half of these cases, they knew exactly in which photo album it was (as albums are generally unique per particular event or date, or they were in the special profile/cover pictures album); in the remaining cases, they had to browse through a few albums to find the photo they were thinking about. Only one photo was sent in private message.
+For six photographs, the participants did not know in which album it was, and instead scrolled down the users’ timeline until they found the picture. One other browsed the timeline but used the links to access a specific time period, knowing when the photo was posted. Two photos could not be found at all; either by not remembering where it was located, or by remembering where it was located but could not find it there.
+Of the 27 (9⨉3) times a photo has been searched, 12 times it was considered a laborious process, and 11 times participants have had no trouble finding it. Two times it was considered really hard to find it, and in the last two cases the photo wasn’t found at all. The most interesting insights we can get from this activity are by comparing the experience of retrieval with the process used. In the 14 times the retrieval was considered either “laborious” or troublesome, none of them was for “I went to the profile and knew which [album] it was in”; this happened only when the exact location of the item was not known precisely, and some research through the albums, timeline or message history had to be done first. This isn’t exactly surprising (having to spend longer on finding a picture means it is more laborious than finding it straight away) but the amount of times this happened demonstrates that our ability to find data is limited to the amount of “metadata” that we have stored with it: most people knew which friend this memory was linked with, but less than half could remember in which “box” it was stored on the social network. This indicates that more levels of classification and sorting must be available when browsing a large archive; for example, being able to know which other friends were tagged with it, at which period it happened, and possibly where it happened, if the content is geotagged.</Text>
         </Document>
         <Document ID="157">
             <Title>Methodology</Title>
@@ -3409,7 +3767,7 @@ REFERENCES
         </Document>
         <Document ID="169">
             <Title>Results</Title>
-            <Text>__ CAREFUL: fig numbers in the questionnaire don’t match those in Figures list, need to change them __
+            <Text>__ CAREFUL: fig numbers in the questionnaire don’t match those in Figures list, need to change them. Move to appendice?? __
 
 [fig. Cartographies/1]
 

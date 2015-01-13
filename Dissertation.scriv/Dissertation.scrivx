@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2015-01-12 17:50:06 +0000">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2015-01-13 04:01:28 +0000">
     <Binder>
         <BinderItem ID="145" Type="Folder" Created="2014-12-22 18:44:59 +0000" Modified="2014-12-22 18:45:45 +0000">
             <Title>Front matter</Title>
@@ -53,7 +53,7 @@
                         <TextSelection>0,242</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="140" Type="Text" Created="2014-12-19 10:13:18 +0000" Modified="2015-01-10 21:11:57 +0000">
+                <BinderItem ID="140" Type="Text" Created="2014-12-19 10:13:18 +0000" Modified="2015-01-13 03:28:17 +0000">
                     <Title>Figures list</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -61,7 +61,7 @@
                         <IconFileName>Characters (Photo).tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1379,0</TextSelection>
+                        <TextSelection>7241,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -71,8 +71,20 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>18</SelectedSubdocumentIDs>
+                <OutlinerExpandedState>
+                    <ItemID>18</ItemID>
+                    <ItemID>19</ItemID>
+                    <ItemID>62</ItemID>
+                    <ItemID>163</ItemID>
+                    <ItemID>161</ItemID>
+                    <ItemID>65</ItemID>
+                    <ItemID>159</ItemID>
+                </OutlinerExpandedState>
+            </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="11" Type="Text" Created="2014-10-10 15:21:18 +0100" Modified="2014-12-18 10:50:26 +0000">
+                <BinderItem ID="11" Type="Text" Created="2014-10-10 15:21:18 +0100" Modified="2015-01-12 19:21:18 +0000">
                     <Title>Introduction</Title>
                     <MetaData>
                         <StatusID>1</StatusID>
@@ -81,20 +93,21 @@
                         <NotesTextSelection>1003,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2841,0</TextSelection>
+                        <TextSelection>2428,0</TextSelection>
                         <Target Type="Words" Notify="No">600</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="18" Type="Text" Created="2014-10-10 18:26:26 +0100" Modified="2014-12-03 20:33:18 +0000">
-                    <Title>Literature review</Title>
+                <BinderItem ID="18" Type="Text" Created="2014-10-10 18:26:26 +0100" Modified="2015-01-13 01:18:12 +0000">
+                    <Title>Literature review: the need for preservation</Title>
                     <MetaData>
+                        <LabelID>1</LabelID>
                         <PageBreakBefore>Yes</PageBreakBefore>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                        <Target Type="Words" Notify="No">4000</Target>
+                        <TextSelection>384,0</TextSelection>
+                        <Target Type="Words" Notify="No">2000</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
                         <SelectedSubdocumentIDs></SelectedSubdocumentIDs>
@@ -103,429 +116,59 @@
                         </OutlinerExpandedState>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="75" Type="Text" Created="2014-10-18 15:51:40 +0100" Modified="2014-10-26 15:30:30 +0000">
-                            <Title>Need for preservation</Title>
+                        <BinderItem ID="112" Type="Text" Created="2014-10-18 19:19:58 +0100" Modified="2015-01-12 22:17:56 +0000">
+                            <Title>The disappearance of constraints</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>89,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>987,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="103" Type="Text" Created="2014-10-18 16:12:47 +0100" Modified="2015-01-12 22:17:56 +0000">
+                            <Title>Keeping track</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1,0</TextSelection>
+                                <TextSelection>243,0</TextSelection>
                             </TextSettings>
-                            <Children>
-                                <BinderItem ID="125" Type="Text" Created="2014-10-20 16:12:43 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Growth of data</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>527,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="95" Type="Text" Created="2014-10-18 16:04:19 +0100" Modified="2015-01-12 17:48:38 +0000">
-                                    <Title>Understanding history</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>100,393</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="124" Type="Text" Created="2014-10-20 16:01:33 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Reasons for preserving</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="112" Type="Text" Created="2014-10-18 19:19:58 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Personal archiving</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>89,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1303,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="103" Type="Text" Created="2014-10-18 16:12:47 +0100" Modified="2014-10-26 15:32:34 +0000">
-                                    <Title>Difficulty of keeping track of what we create</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1366,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem ID="129" Type="Text" Created="2014-10-20 18:43:53 +0100" Modified="2014-10-26 15:32:34 +0000">
-                                            <Title>Archive Team</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>1889,0</TextSelection>
-                                            </TextSettings>
-                                            <Children>
-                                                <BinderItem ID="130" Type="Text" Created="2014-10-21 12:17:52 +0100" Modified="2015-01-12 17:48:38 +0000">
-                                                    <Title>Geocities</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>2235,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                            </Children>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem ID="96" Type="Text" Created="2014-10-18 16:05:15 +0100" Modified="2014-10-26 15:32:34 +0000">
-                                    <Title>For social networks</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>1303,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="119" Type="Text" Created="2014-10-18 19:35:54 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Digital heritage</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem ID="121" Type="Text" Created="2014-10-20 13:54:18 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                            <Title>Post death</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>1441,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                            </Children>
                         </BinderItem>
-                        <BinderItem ID="76" Type="Text" Created="2014-10-18 15:51:48 +0100" Modified="2014-10-18 15:51:56 +0100">
-                            <Title>Threats to digital continuity</Title>
+                        <BinderItem ID="129" Type="Text" Created="2014-10-20 18:43:53 +0100" Modified="2015-01-12 22:36:28 +0000">
+                            <Title>Collecting a culture</Title>
                             <MetaData>
-                                <PageBreakBefore>Yes</PageBreakBefore>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>2774,0</TextSelection>
                             </TextSettings>
-                            <Children>
-                                <BinderItem ID="84" Type="Text" Created="2014-10-18 15:56:27 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Storage media</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem ID="90" Type="Text" Created="2014-10-18 16:01:06 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                            <Title>Preservation conditions</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>434,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem ID="85" Type="Text" Created="2014-10-18 15:56:32 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Access of media</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>66,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="91" Type="Text" Created="2014-10-18 16:01:36 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Natural disasters</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="106" Type="Text" Created="2014-10-18 18:35:13 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Social networks</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1595,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="111" Type="Text" Created="2014-10-18 18:57:36 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Loss of metadata</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>483,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
                         </BinderItem>
-                        <BinderItem ID="82" Type="Text" Created="2014-10-18 15:52:37 +0100" Modified="2014-10-18 16:14:17 +0100">
-                            <Title>New contexts for personal archiving</Title>
+                        <BinderItem ID="96" Type="Text" Created="2014-10-18 16:05:15 +0100" Modified="2015-01-13 01:27:52 +0000">
+                            <Title>For social networks</Title>
                             <MetaData>
-                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1303,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1490,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="119" Type="Text" Created="2014-10-18 19:35:54 +0100" Modified="2015-01-13 02:40:55 +0000">
+                            <Title>Digital heritage</Title>
+                            <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>2574,0</TextSelection>
                             </TextSettings>
-                            <Children>
-                                <BinderItem ID="105" Type="Text" Created="2014-10-18 16:13:20 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Advantages of digital</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <CorkboardAndOutliner>
-                                        <OutlinerExpandedState>
-                                            <ItemID>128</ItemID>
-                                        </OutlinerExpandedState>
-                                    </CorkboardAndOutliner>
-                                    <Children>
-                                        <BinderItem ID="128" Type="Text" Created="2014-10-20 16:21:08 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                            <Title>Indexing &amp; cataloguing</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                            <Children>
-                                                <BinderItem ID="126" Type="Text" Created="2014-10-20 16:19:37 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                                    <Title>MUSE example</Title>
-                                                    <MetaData>
-                                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                                    </MetaData>
-                                                    <TextSettings>
-                                                        <TextSelection>1401,0</TextSelection>
-                                                    </TextSettings>
-                                                </BinderItem>
-                                            </Children>
-                                        </BinderItem>
-                                        <BinderItem ID="127" Type="Text" Created="2014-10-20 16:19:53 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                            <Title>Copying/backup</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem ID="120" Type="Text" Created="2014-10-18 19:36:30 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Keeping more context</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>521,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="97" Type="Text" Created="2014-10-18 16:05:50 +0100" Modified="2014-10-18 18:36:15 +0100">
-                            <Title>What to preserve</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>547,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="114" Type="Text" Created="2014-10-18 19:20:49 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>5 reasons</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>89,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>364,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="113" Type="Text" Created="2014-10-18 19:20:04 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Pro/cons of archiving everything</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>89,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="115" Type="Text" Created="2014-10-18 19:21:45 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Dangers of selection</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>89,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>666,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="116" Type="Text" Created="2014-10-18 19:21:53 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Automatic selection (Reputation model)</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>89,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>513,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="117" Type="Text" Created="2014-10-18 19:22:15 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Manual curation</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>89,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="118" Type="Text" Created="2014-10-18 19:22:43 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Selection by genre</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>89,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>423,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                        <BinderItem ID="78" Type="Text" Created="2014-10-18 15:52:05 +0100" Modified="2014-10-18 15:52:08 +0100">
-                            <Title>How to preserve</Title>
-                            <MetaData>
-                                <PageBreakBefore>Yes</PageBreakBefore>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="98" Type="Text" Created="2014-10-18 16:07:50 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Hard copies</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>143,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="99" Type="Text" Created="2014-10-18 16:08:33 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Standardisation</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>2096,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="100" Type="Text" Created="2014-10-18 16:08:38 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Migration</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1096,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="101" Type="Text" Created="2014-10-18 16:09:24 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Emulation</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1795,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="80" Type="Text" Created="2014-10-18 15:52:21 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Open design</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="102" Type="Text" Created="2014-10-18 16:12:11 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Choosing a method</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1607,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="122" Type="Text" Created="2014-10-20 15:12:38 +0100" Modified="2014-10-26 15:30:30 +0000">
-                                    <Title>Authenticity/integrity</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1834,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="4" Type="Folder" Created="2014-10-10 15:08:45 +0100" Modified="2014-10-18 18:44:03 +0100">
+                <BinderItem ID="4" Type="Folder" Created="2014-10-10 15:08:45 +0100" Modified="2015-01-13 01:18:12 +0000">
                     <Title>Context</Title>
                     <MetaData>
                         <LabelID>1</LabelID>
@@ -535,33 +178,13 @@
                         <IconFileName>Notes (White Notepad).tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                        <Target Type="Words" Notify="No">2000</Target>
+                        <TextSelection>714,0</TextSelection>
+                        <Target Type="Words" Notify="No">500</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
                         <SelectedSubdocumentIDs>5</SelectedSubdocumentIDs>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="5" Type="Text" Created="2014-10-10 15:08:45 +0100" Modified="2014-12-18 11:19:32 +0000">
-                            <Title>Introduction</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>279,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="51" Type="Text" Created="2014-10-10 20:41:59 +0100" Modified="2014-10-26 15:30:30 +0000">
-                            <Title>Remembrance values</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>251,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
                         <BinderItem ID="24" Type="Text" Created="2014-10-10 18:33:02 +0100" Modified="2014-10-10 18:33:08 +0100">
                             <Title>Issues of the project</Title>
                             <MetaData>
@@ -615,191 +238,121 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="132" Type="Text" Created="2014-10-22 01:28:32 +0100" Modified="2014-10-26 15:30:30 +0000">
+                        <BinderItem ID="132" Type="Text" Created="2014-10-22 01:28:32 +0100" Modified="2015-01-13 02:20:04 +0000">
                             <Title>Obstacles to digital heritage</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>508,343</TextSelection>
                             </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="16" Type="Text" Created="2014-10-10 18:25:29 +0100" Modified="2014-10-10 18:27:20 +0100">
-                            <Title>What I want to prove</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="131" Type="Text" Created="2014-10-22 01:28:16 +0100" Modified="2014-10-26 15:30:30 +0000">
-                            <Title>How the research is made</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="52" Type="Text" Created="2014-10-13 17:26:20 +0100" Modified="2014-12-19 10:13:53 +0000">
-                            <Title>Questions</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>664,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="19" Type="Text" Created="2014-10-10 18:28:57 +0100" Modified="2015-01-04 13:59:56 +0000">
-                            <Title>Deconstructing the timeline</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="20" Type="Text" Created="2014-10-10 18:30:22 +0100" Modified="2015-01-04 14:01:43 +0000">
-                                    <Title>Intro</Title>
-                                    <MetaData>
-                                        <StatusID>3</StatusID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>55,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>614,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem ID="155" Type="Text" Created="2015-01-04 00:36:02 +0000" Modified="2015-01-05 13:48:16 +0000">
-                                            <Title>Five orders of magnitude</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>0,0</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>987,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem ID="152" Type="Text" Created="2015-01-03 19:33:05 +0000" Modified="2015-01-04 00:12:47 +0000">
-                                    <Title>Spatial model of timeline</Title>
-                                    <MetaData>
-                                        <StatusID>1</StatusID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1447,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="147" Type="Text" Created="2014-12-27 16:50:12 +0000" Modified="2015-01-12 17:48:38 +0000">
-                                    <Title>Cultural differences</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="148" Type="Text" Created="2014-12-27 16:50:55 +0000" Modified="2014-12-30 15:51:52 +0000">
-                                    <Title>Circular representation</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1604,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="156" Type="Text" Created="2015-01-04 01:00:34 +0000" Modified="2015-01-05 02:03:25 +0000">
-                                    <Title>Historical timelines</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>3065,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="150" Type="Text" Created="2014-12-30 20:41:28 +0000" Modified="2015-01-04 00:45:17 +0000">
-                                    <Title>Process-related</Title>
-                                    <MetaData>
-                                        <LabelID>2</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>693,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>2412,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="21" Type="Text" Created="2014-10-10 18:30:42 +0100" Modified="2015-01-10 20:24:44 +0000">
-                                    <Title>Applying it to a personal life</Title>
-                                    <MetaData>
-                                        <StatusID>0</StatusID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>372,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1057,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="153" Type="Text" Created="2015-01-03 19:36:00 +0000" Modified="2015-01-04 00:12:47 +0000">
-                                    <Title>Conclusion</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="17" Type="Text" Created="2014-10-10 18:25:55 +0100" Modified="2014-12-07 05:37:24 +0000">
-                    <Title>Document prototypes</Title>
+                <BinderItem ID="19" Type="Text" Created="2014-10-10 18:28:57 +0100" Modified="2015-01-13 03:20:43 +0000">
+                    <Title>Literature review: Deconstructing the timeline</Title>
                     <MetaData>
                         <LabelID>1</LabelID>
-                        <PageBreakBefore>Yes</PageBreakBefore>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>1059,0</NotesTextSelection>
+                        <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>192,0</TextSelection>
-                        <Target Type="Words" Notify="No">1000</Target>
+                        <TextSelection>674,19</TextSelection>
+                        <Target Type="Words" Notify="No">2000</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs>148</SelectedSubdocumentIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="152" Type="Text" Created="2015-01-03 19:33:05 +0000" Modified="2015-01-13 03:22:07 +0000">
+                            <Title>Spatial model of timeline</Title>
+                            <MetaData>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>518,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="147" Type="Text" Created="2014-12-27 16:50:12 +0000" Modified="2015-01-13 03:25:53 +0000">
+                            <Title>Cultural differences</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1419,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="148" Type="Text" Created="2014-12-27 16:50:55 +0000" Modified="2015-01-13 03:39:23 +0000">
+                            <Title>Circular representation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1038,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="156" Type="Text" Created="2015-01-04 01:00:34 +0000" Modified="2015-01-13 03:48:17 +0000">
+                            <Title>Historical timelines</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>420,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="150" Type="Text" Created="2014-12-30 20:41:28 +0000" Modified="2015-01-13 03:54:06 +0000">
+                            <Title>Process-related</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>693,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>290,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="21" Type="Text" Created="2014-10-10 18:30:42 +0100" Modified="2015-01-13 04:01:28 +0000">
+                            <Title>Applying it to a personal life</Title>
+                            <MetaData>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>372,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2544,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="153" Type="Text" Created="2015-01-03 19:36:00 +0000" Modified="2015-01-13 04:01:28 +0000">
+                            <Title>Conclusion</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>257,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
-                <BinderItem ID="62" Type="Text" Created="2014-10-17 13:17:28 +0100" Modified="2014-12-18 21:20:27 +0000">
+                <BinderItem ID="62" Type="Text" Created="2014-10-17 13:17:28 +0100" Modified="2015-01-13 01:18:12 +0000">
                     <Title>Workshop</Title>
                     <MetaData>
+                        <LabelID>1</LabelID>
                         <PageBreakBefore>Yes</PageBreakBefore>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                        <Target Type="Words" Notify="No">1000</Target>
+                        <TextSelection>564,0</TextSelection>
+                        <Target Type="Words" Notify="No">2000</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="63" Type="Text" Created="2014-10-17 13:18:02 +0100" Modified="2015-01-12 17:48:38 +0000">
-                            <Title>Introduction</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>564,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
                         <BinderItem ID="64" Type="Text" Created="2014-10-17 13:18:09 +0100" Modified="2015-01-12 17:48:38 +0000">
                             <Title>Demographics</Title>
                             <MetaData>
@@ -810,14 +363,14 @@
                                 <TextSelection>864,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="162" Type="Text" Created="2015-01-07 01:27:07 +0000" Modified="2015-01-11 17:44:29 +0000">
+                        <BinderItem ID="162" Type="Text" Created="2015-01-07 01:27:07 +0000" Modified="2015-01-13 03:00:07 +0000">
                             <Title>Procedure followed</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>770,0</TextSelection>
+                                <TextSelection>787,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="163" Type="Text" Created="2015-01-07 01:28:21 +0000" Modified="2015-01-07 11:08:06 +0000">
@@ -830,26 +383,6 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="166" Type="Text" Created="2015-01-07 01:30:04 +0000" Modified="2015-01-11 14:46:16 +0000">
-                                    <Title>Methodology</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>887,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="167" Type="Text" Created="2015-01-07 01:30:10 +0000" Modified="2015-01-11 17:28:15 +0000">
-                                    <Title>Description of results</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1889,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
                                 <BinderItem ID="168" Type="Text" Created="2015-01-10 19:11:44 +0000" Modified="2015-01-11 18:01:45 +0000">
                                     <Title>Analysis</Title>
                                     <MetaData>
@@ -872,16 +405,6 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="157" Type="Text" Created="2015-01-06 09:08:16 +0000" Modified="2015-01-07 10:36:13 +0000">
-                                    <Title>Methodology</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>771,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
                                 <BinderItem ID="165" Type="Text" Created="2015-01-07 01:29:05 +0000" Modified="2015-01-12 10:32:30 +0000">
                                     <Title>Results</Title>
                                     <MetaData>
@@ -904,16 +427,6 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="158" Type="Text" Created="2015-01-06 09:41:34 +0000" Modified="2015-01-10 20:18:33 +0000">
-                                    <Title>Methodology</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>262,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
                                 <BinderItem ID="160" Type="Text" Created="2015-01-07 01:26:09 +0000" Modified="2015-01-07 15:47:18 +0000">
                                     <Title>Results</Title>
                                     <MetaData>
@@ -926,36 +439,16 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="159" Type="Text" Created="2015-01-06 09:41:52 +0000" Modified="2015-01-06 17:04:06 +0000">
+                        <BinderItem ID="159" Type="Text" Created="2015-01-06 09:41:52 +0000" Modified="2015-01-13 03:00:07 +0000">
                             <Title>Evaluation</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>52,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="164" Type="Text" Created="2015-01-07 01:28:36 +0000" Modified="2015-01-10 21:04:09 +0000">
-                                    <Title>Methodology</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>838,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="169" Type="Text" Created="2015-01-10 21:03:49 +0000" Modified="2015-01-12 10:43:33 +0000">
-                                    <Title>Results</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>42,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>121,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
                                 <BinderItem ID="66" Type="Text" Created="2014-10-17 13:18:22 +0100" Modified="2015-01-11 14:37:22 +0000">
                                     <Title>Analysis of results</Title>
                                     <MetaData>
@@ -968,8 +461,8 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="67" Type="Text" Created="2014-10-17 13:18:29 +0100" Modified="2014-10-26 15:05:22 +0000">
-                            <Title>Results</Title>
+                        <BinderItem ID="173" Type="Text" Created="2015-01-12 19:30:24 +0000" Modified="2015-01-12 19:30:27 +0000">
+                            <Title>Conclusion</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -977,48 +470,6 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="68" Type="Text" Created="2014-10-17 13:18:31 +0100" Modified="2014-10-17 13:18:37 +0100">
-                            <Title>Discussion of results &amp; evidence</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem ID="107" Type="Text" Created="2014-10-18 18:41:49 +0100" Modified="2014-10-18 18:41:53 +0100">
-                                    <Title>Reflection on prototypes</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="108" Type="Text" Created="2014-10-18 18:41:55 +0100" Modified="2014-10-18 18:41:59 +0100">
-                                    <Title>Reflection on experiments</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="109" Type="Text" Created="2014-10-18 18:42:00 +0100" Modified="2014-10-18 18:42:02 +0100">
-                                    <Title>Evaluate them</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -1059,14 +510,14 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="73" Type="Text" Created="2014-10-17 16:03:00 +0100" Modified="2015-01-12 17:02:17 +0000">
+                        <BinderItem ID="73" Type="Text" Created="2014-10-17 16:03:00 +0100" Modified="2015-01-13 01:52:26 +0000">
                             <Title>Referenced</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>8211,0</TextSelection>
+                                <TextSelection>5989,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="72" Type="Text" Created="2014-10-17 16:02:50 +0100" Modified="2015-01-02 20:02:01 +0000">
@@ -1102,6 +553,66 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
+                        <BinderItem ID="166" Type="Text" Created="2015-01-07 01:30:04 +0000" Modified="2015-01-13 02:43:00 +0000">
+                            <Title>Map:Methodology</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>887,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="167" Type="Text" Created="2015-01-07 01:30:10 +0000" Modified="2015-01-12 19:30:04 +0000">
+                            <Title>Life maps:Description of results</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1889,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="157" Type="Text" Created="2015-01-06 09:08:16 +0000" Modified="2015-01-13 02:43:07 +0000">
+                            <Title>Retrieval:Methodology</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>771,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="158" Type="Text" Created="2015-01-06 09:41:34 +0000" Modified="2015-01-13 02:58:09 +0000">
+                            <Title>Questions:Methodology</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>262,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="164" Type="Text" Created="2015-01-07 01:28:36 +0000" Modified="2015-01-13 02:58:04 +0000">
+                            <Title>Evaluation:Methodology</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>838,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="169" Type="Text" Created="2015-01-10 21:03:49 +0000" Modified="2015-01-12 19:30:13 +0000">
+                            <Title>Evaluation:Results</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>42,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>121,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem ID="134" Type="Text" Created="2014-12-11 16:06:06 +0000" Modified="2015-01-12 10:13:50 +0000">
                             <Title>Results</Title>
                             <MetaData>
@@ -1828,6 +1339,522 @@
                         <CurrentPDFPage>0</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
+                <BinderItem ID="121" Type="Text" Created="2014-10-20 13:54:18 +0100" Modified="2014-10-26 15:30:30 +0000">
+                    <Title>Post death</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1441,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="84" Type="Text" Created="2014-10-18 15:56:27 +0100" Modified="2014-10-26 15:30:30 +0000">
+                    <Title>Storage media</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="90" Type="Text" Created="2014-10-18 16:01:06 +0100" Modified="2014-10-26 15:30:30 +0000">
+                            <Title>Preservation conditions</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>434,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="85" Type="Text" Created="2014-10-18 15:56:32 +0100" Modified="2014-10-26 15:30:30 +0000">
+                    <Title>Access of media</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>66,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="91" Type="Text" Created="2014-10-18 16:01:36 +0100" Modified="2014-10-26 15:30:30 +0000">
+                    <Title>Natural disasters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="111" Type="Text" Created="2014-10-18 18:57:36 +0100" Modified="2014-10-26 15:30:30 +0000">
+                    <Title>Loss of metadata</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>483,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="97" Type="Text" Created="2014-10-18 16:05:50 +0100" Modified="2014-10-18 18:36:15 +0100">
+                    <Title>What to preserve</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>547,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="114" Type="Text" Created="2014-10-18 19:20:49 +0100" Modified="2014-10-26 15:30:30 +0000">
+                            <Title>5 reasons</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>89,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>364,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="113" Type="Text" Created="2014-10-18 19:20:04 +0100" Modified="2014-10-26 15:30:30 +0000">
+                            <Title>Pro/cons of archiving everything</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>89,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="115" Type="Text" Created="2014-10-18 19:21:45 +0100" Modified="2014-10-26 15:30:30 +0000">
+                            <Title>Dangers of selection</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>89,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>666,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="116" Type="Text" Created="2014-10-18 19:21:53 +0100" Modified="2014-10-26 15:30:30 +0000">
+                            <Title>Automatic selection (Reputation model)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>89,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>513,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="117" Type="Text" Created="2014-10-18 19:22:15 +0100" Modified="2014-10-26 15:30:30 +0000">
+                            <Title>Manual curation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>89,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="118" Type="Text" Created="2014-10-18 19:22:43 +0100" Modified="2014-10-26 15:30:30 +0000">
+                            <Title>Selection by genre</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>89,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>423,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="78" Type="Text" Created="2014-10-18 15:52:05 +0100" Modified="2014-10-18 15:52:08 +0100">
+                    <Title>How to preserve</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="98" Type="Text" Created="2014-10-18 16:07:50 +0100" Modified="2014-10-26 15:30:30 +0000">
+                            <Title>Hard copies</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>143,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="99" Type="Text" Created="2014-10-18 16:08:33 +0100" Modified="2014-10-26 15:30:30 +0000">
+                            <Title>Standardisation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2096,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="100" Type="Text" Created="2014-10-18 16:08:38 +0100" Modified="2014-10-26 15:30:30 +0000">
+                            <Title>Migration</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1096,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="101" Type="Text" Created="2014-10-18 16:09:24 +0100" Modified="2014-10-26 15:30:30 +0000">
+                            <Title>Emulation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1795,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="80" Type="Text" Created="2014-10-18 15:52:21 +0100" Modified="2014-10-26 15:30:30 +0000">
+                            <Title>Open design</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="102" Type="Text" Created="2014-10-18 16:12:11 +0100" Modified="2014-10-26 15:30:30 +0000">
+                            <Title>Choosing a method</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1607,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="122" Type="Text" Created="2014-10-20 15:12:38 +0100" Modified="2014-10-26 15:30:30 +0000">
+                            <Title>Authenticity/integrity</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1834,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="51" Type="Text" Created="2014-10-10 20:41:59 +0100" Modified="2014-10-26 15:30:30 +0000">
+                    <Title>Remembrance values</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>251,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="131" Type="Text" Created="2014-10-22 01:28:16 +0100" Modified="2014-10-26 15:30:30 +0000">
+                    <Title>How the research is made</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="52" Type="Text" Created="2014-10-13 17:26:20 +0100" Modified="2014-12-19 10:13:53 +0000">
+                    <Title>Questions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>664,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="75" Type="Text" Created="2014-10-18 15:51:40 +0100" Modified="2014-10-26 15:30:30 +0000">
+                    <Title>Need for preservation</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="16" Type="Text" Created="2014-10-10 18:25:29 +0100" Modified="2014-10-10 18:27:20 +0100">
+                    <Title>What I want to prove</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="67" Type="Text" Created="2014-10-17 13:18:29 +0100" Modified="2014-10-26 15:05:22 +0000">
+                    <Title>Results</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="68" Type="Text" Created="2014-10-17 13:18:31 +0100" Modified="2014-10-17 13:18:37 +0100">
+                    <Title>Discussion of results &amp; evidence</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="107" Type="Text" Created="2014-10-18 18:41:49 +0100" Modified="2014-10-18 18:41:53 +0100">
+                            <Title>Reflection on prototypes</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="108" Type="Text" Created="2014-10-18 18:41:55 +0100" Modified="2014-10-18 18:41:59 +0100">
+                            <Title>Reflection on experiments</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="109" Type="Text" Created="2014-10-18 18:42:00 +0100" Modified="2014-10-18 18:42:02 +0100">
+                            <Title>Evaluate them</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="17" Type="Text" Created="2014-10-10 18:25:55 +0100" Modified="2014-12-07 05:37:24 +0000">
+                    <Title>Document prototypes</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>1059,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>192,0</TextSelection>
+                        <Target Type="Words" Notify="No">1000</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="125" Type="Text" Created="2014-10-20 16:12:43 +0100" Modified="2014-10-26 15:30:30 +0000">
+                    <Title>Growth of data</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>527,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="95" Type="Text" Created="2014-10-18 16:04:19 +0100" Modified="2015-01-12 17:48:38 +0000">
+                    <Title>Understanding history</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>801,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="106" Type="Text" Created="2014-10-18 18:35:13 +0100" Modified="2014-10-26 15:30:30 +0000">
+                    <Title>Social networks</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="76" Type="Text" Created="2014-10-18 15:51:48 +0100" Modified="2014-10-18 15:51:56 +0100">
+                    <Title>Threats to digital continuity</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="82" Type="Text" Created="2014-10-18 15:52:37 +0100" Modified="2014-10-18 16:14:17 +0100">
+                    <Title>New contexts for personal archiving</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="105" Type="Text" Created="2014-10-18 16:13:20 +0100" Modified="2014-10-26 15:30:30 +0000">
+                            <Title>Advantages of digital</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <OutlinerExpandedState>
+                                    <ItemID>128</ItemID>
+                                </OutlinerExpandedState>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem ID="128" Type="Text" Created="2014-10-20 16:21:08 +0100" Modified="2014-10-26 15:30:30 +0000">
+                                    <Title>Indexing &amp; cataloguing</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="126" Type="Text" Created="2014-10-20 16:19:37 +0100" Modified="2014-10-26 15:30:30 +0000">
+                                            <Title>MUSE example</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1401,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="127" Type="Text" Created="2014-10-20 16:19:53 +0100" Modified="2014-10-26 15:30:30 +0000">
+                                    <Title>Copying/backup</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="120" Type="Text" Created="2014-10-18 19:36:30 +0100" Modified="2014-10-26 15:30:30 +0000">
+                            <Title>Keeping more context</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>521,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="63" Type="Text" Created="2014-10-17 13:18:02 +0100" Modified="2015-01-12 22:00:42 +0000">
+                    <Title>Introduction</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="20" Type="Text" Created="2014-10-10 18:30:22 +0100" Modified="2015-01-12 22:02:38 +0000">
+                    <Title>Intro</Title>
+                    <MetaData>
+                        <StatusID>3</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>55,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="5" Type="Text" Created="2014-10-10 15:08:45 +0100" Modified="2015-01-12 22:02:38 +0000">
+                    <Title>Introduction</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="172" Type="Text" Created="2015-01-12 19:21:42 +0000" Modified="2015-01-12 22:02:38 +0000">
+                    <Title>Tech review</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="124" Type="Text" Created="2014-10-20 16:01:33 +0100" Modified="2015-01-12 22:10:43 +0000">
+                    <Title>Reasons for preserving</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="130" Type="Text" Created="2014-10-21 12:17:52 +0100" Modified="2015-01-12 22:20:37 +0000">
+                    <Title>Geocities</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="155" Type="Text" Created="2015-01-04 00:36:02 +0000" Modified="2015-01-05 13:48:16 +0000">
+                    <Title>Five orders of magnitude</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,987</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1837,7 +1864,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="0D53BC99-F728-41DC-B07E-50F35053E8C1" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">cartographies of tim</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">moncur</SearchSettings>
         </Collection>
     </Collections>
     <LabelSettings>
@@ -1872,7 +1899,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2014-10-27 12:30:22 +0000" IgnoreDeadline="No">7500</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="4-5" CanWriteOnDeadlineDate="No">500</SessionTarget>
-        <PreviousSession Words="443" Characters="2736" Date="2015-01-12 00:27:30 +0000"></PreviousSession>
+        <PreviousSession Words="-179" Characters="-818" Date="2015-01-13 01:11:32 +0000"></PreviousSession>
     </ProjectTargets>
     <ProjectReferences>
         <Reference Destination="file://localhost/Users/DeadPx/Dropbox/DIxD/3rdYear/Research%20&amp;%20Creative%20Practice/ebooks/Tech%20Heirlooms%20-%20considerations.pdf">Tech Heirlooms - considerations</Reference>
