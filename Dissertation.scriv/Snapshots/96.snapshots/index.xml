@@ -132,4 +132,22 @@
             </CommentsAndFootnotes>
         </Links>
     </Snapshot>
+    <Snapshot>
+        <Title>Untitled (Save)</Title>
+        <Date>2015-01-13 19:26:52 +0000</Date>
+        <Links Version="1.0" Anchor="RTF">
+            <CommentsAndFootnotes>
+                <Comment IsFootnote="Yes" Collapsed="No" ID="79F276CF-A3B3-4177-BE94-64C470B32F37">
+                    <Range>1008,43</Range>
+                    <Color>0.85 0.85 0.85</Color>
+                    <RTF><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
+{\fonttbl\f0\fnil\fcharset0 Verdana;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs20 \cf0 Whose communications on social media legally need to be archived in case of dispute}]]></RTF>
+                </Comment>
+            </CommentsAndFootnotes>
+        </Links>
+    </Snapshot>
 </Snapshots>

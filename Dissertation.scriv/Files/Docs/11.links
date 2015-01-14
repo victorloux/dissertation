@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Links Version="1.0" Anchor="RTF">
     <CommentsAndFootnotes>
-        <Comment IsFootnote="Yes" FootnoteNumber="1" Collapsed="No" ID="1CA3045B-876A-476C-AD24-36EAE05CD3EB">
-            <Range>2105,22</Range>
+        <Comment IsFootnote="Yes" Collapsed="No" ID="24552F28-57C6-4DA8-9437-F33FDAC98CBD">
+            <Range>2080,32</Range>
             <Color>0.85 0.85 0.85</Color>
             <RTF><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
 {\fonttbl\f0\fnil\fcharset0 Verdana;}
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs20 \cf0 Source http://www.ebizmba.com/articles/social-networking-websites\
-[Accessed 17/10/2014]\
-https://web.archive.org/web/20141007035034/http://www.ebizmba.com/articles/social-networking-websites\
-}]]></RTF>
+\f0\fs20 \cf0 At the time of writing: Facebook, Twitter, Instagram, LinkedIn, Pinterest\'85 (Ebizmba, 2014)}]]></RTF>
         </Comment>
     </CommentsAndFootnotes>
 </Links>
