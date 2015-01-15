@@ -1557,6 +1557,7 @@ Kirk and Sellen (2010) found however that ultimately, stories and narrative are 
         </Document>
         <Document ID="62">
             <Title>Workshop</Title>
+            <Text>In order to get a better understanding on how we could map a life, I have organised a workshop where I have asked some people to perform a few tasks such as graphically representing their life and retrieving old content on social networks, and answer a few questions about the project. This chapter will detail the methodological approach used to prepare the workshop and questions, then analyse the results and make conclusions on how these results can be used to design a retrieval interface. The raw questions and results are available in the appendices A to E.</Text>
         </Document>
         <Document ID="38">
             <Title>LiteratureReviewLayout</Title>
@@ -1565,9 +1566,6 @@ Kirk and Sellen (2010) found however that ultimately, stories and narrative are 
             <Title>Introduction</Title>
             <Synopsis>Provide intro to why gather the data
 </Synopsis>
-            <Text>In order to get a better understanding on how we could map a life, I have organised a workshop where I have asked some people to perform a few tasks such as graphically representing their life and retrieving old content on social networks, and answer a few questions about the project. This chapter will detail the methodological approach used to prepare the workshop and questions, then analyse the results and make conclusions on how these results can be used to design a retrieval interface. The raw questions and results are available in the appendices A to E.</Text>
-            <Comments>Change with actual appendices name
-</Comments>
         </Document>
         <Document ID="39">
             <Title>LiteratureReviewLayout</Title>
@@ -1739,7 +1737,24 @@ Amongst the participants were 3 women and 6 men, ages ranging from 21 to 24. Six
 </Text>
         </Document>
         <Document ID="65">
-            <Title>Questions</Title>
+            <Title>Questionnaire on the usage of social media</Title>
+            <Text>The third task was a questionnaire, asking the participants about their use of social media and their opinion of the project. Questions and reasons for using a questionnaire are outlined in [appendix F], and a table with the raw results is situated in [appendix G]. These questions will only be useful for the honours project, so the results will not be analysed in too much depth.
+
+The usages that were most often rated as important were:
+1. Use groups for school/work/activities, and Chat with friends (same proportion)
+3. Keep in touch with friends far away and Follow news of friends (same proportion)
+5. Keep friends up to date
+
+The goals that were the least popular in terms of importance were:
+
+12. Stimulate friends to think about certain topics, and Leisure activities (same proportion)
+14. Follow celebrities or brands
+15. Preserve things that affect me emotionally 
+
+The results do not match with Julius’ (n. d.), who did a similar survey for other purposes and with fewer options. In her results, the most popular goals were, in order: “Keep friends up to date”; “Preserve things that affect me emotionally”; “Stimulate friends to think about certain topics”; and “Satisfy a spontaneous need for communication”. The second and third most popular options in Julius’ (n. d.) results are at the bottom of my ranking. The methodology was however a bit different — she asked her participants to choose the most important goal for them on social networks, whereas I asked, for each goal, how important this goal was to them. Her sample was much larger and more varied (112 participants, in an online questionnaire) and might therefore be more representative.
+On the second question, 4 people thought that Facebook would stay popular for 10 years; 3 thought it would stay popular for 5 years; one thought it would stay popular for two years; and one thought it would stay there forever.
+On the third question, a majority (7 respondents) answered that they would like to curate their social, network archive every year or so. Two would prefer the curation to be done automatically even if that meant a lower accuracy. One of the respondent who checked the option for manually curating every year or so, indicated that they would also be happy to do so more often (every few weeks).</Text>
+            <Comments>Although one of them explained (on the sheet and orally during the workshop) that they would still be able to manually sort artefacts if they thought that it was not curated correctly.</Comments>
             <Notes>see Universal Methods of Design, pp. 17, 32, 74, 156.
 </Notes>
         </Document>
@@ -1753,13 +1768,6 @@ src? + same if you store it locally, need for backups in different locations
         </Document>
         <Document ID="66">
             <Title>Analysis of results</Title>
-            <Text>A summary of the averages of results are presented in the table below [fig. Workshop/Evaluations-Results]. Individual results can be found in [appendix Q-EVALUATIONS].
-
-[table of results as a figure]
-
-Looking at the individual reviews, it appears clear that simplicity is key. The charts that were considered most relevant for being used as life maps were linear, with little to no branching and separation [fig. 2, 5, 6, 13], contradicting the intuitions that I have had when discussing streams and the knottiness and elusiveness of lives in the previous chapters. Those which fared well for clarity [fig. 4, 5, 10, 13] are not necessarily the least complex, indicating that being rich with information is not necessarily a bad thing although it should be very carefully designed to avoid overcrowding the chart and confusing the user. 
-Regarding efficiency, we can see overall that the averages are low or intermediate for all the charts, only one of them exceeding 3.67. Considering the evaluation was not made with full-size charts asking the user to look for particular information, but only as a rapid rating of images, this metric is not going to be accurate; and so we can expect participants to judge hastily based on their perception of clarity. The two criteria almost always received similar results. We can however get a new insight from this: it is those which are complex but extremely crowded, where it is hard to distinguish information and what belongs to which group of data, that received the worst results [fig. 3, 6, 7, 11, 12]. This confirms the previous statement in regards to smart design for associating readability with complexity.
-The criterion of beauty, or aesthetic quality, inversely received the most positive reviews, with only two exceptions going below an average of 3.00. In terms of patterns, we can see that the use of colour is not very incidental on the result, as both the best [fig. 1 and 2] and worst [fig. 6 and 8] charts were monochromatic or bicolour; Strom der Zeiten [fig. 12], with its liberal use of colour to separate streams, was rated highly for beauty but poorly for clarity, so it should not necessarily be a deciding factor. Ornamentation did not seem to be influential either, charts who were “plain” and not highly decorated getting both honourable grades ([fig. 2, 5, 9, 11]) and terrible ones ([fig. 8]); likewise richly illustrated ones had both great ([fig. 1, 3, 4]) and lower ([fig. 6 and 7]) reviews. Looking at the individual reviews chart in [appendix Q-EVALUATIONS], we can see that while the grades for beauty were generally consistent, in a few cases this aspect was controversial (some charts getting both “5”s and “1”s), and reminded us that beauty is always subjective.</Text>
         </Document>
         <Document ID="92">
             <Title>Software barriers</Title>
@@ -1778,6 +1786,8 @@ Dissertation
         </Document>
         <Document ID="4">
             <Title>Context</Title>
+            <Text>This dissertation is tied to my honours project, that I will introduce in more detail here. As we have seen, there is a need to backup our data from social networks to protect it, if social networks go down, are discontinued or forgotten. 
+Several challenges appear there. Applying the “large-scale” paradigms of conservation  established in the previous literature review (Loux, 2014) for small-scale, personal archiving is complex, due to the resources and knowledge needed to conserve information over time, so this needs to be as automated and seamless as possible. The experience of retrieval of digital memories, once stored, is the main theme of the next chapter and my main focus as an interaction designer. Many variables encompass this experience: the representation of time, the hierarchisation of memories, the visual presentation, and the feeling of durability of the backup and object containing them.</Text>
         </Document>
         <Document ID="68">
             <Title>Discussion of results &amp; evidence</Title>
@@ -1789,8 +1799,6 @@ Dissertation
             <Title>Introduction</Title>
             <Synopsis>Explain what I have shifted to, existing ideas that influence this shift, critique them; explain how I think it might influence my own prototypes
 </Synopsis>
-            <Text>This part of the dissertation discusses the gap in research that I want to explore, the experience of retrieval of memories. I will try to understand what encompasses this experience: the representation of time and hierarchisation of memories, the presentation, the feeling of durability of the backup, and how to make it enjoyable. 
-This dissertation is tied to my honours project, so I will go over aspects of the project: applying the “large-scale” paradigms of conservation  established in the previous chapter for small-scale, personal archiving; the representation/visualisation of memories; how to go against the obsolescence of the object by using open design; and the relationship with families and death.</Text>
         </Document>
         <Document ID="69">
             <Title>Introduction-1</Title>
@@ -1893,9 +1901,8 @@ iv Donne, ‘To Mr Tilman after he had taken orders’, ll. 15-16, 17-18, in The
         </Document>
         <Document ID="96">
             <Title>For social networks</Title>
-            <Text>In preparation of future data losses, perhaps, the US Library of Congress maintains a permanent archive of Twitter since 2010 (LoC, 2010). However, this is again kept with a cultural intention: “The public Twitter stream is of historical cultural significance and is an amazing repository of mundane moments in the daily lives of many people and records of what they thought important” (Baym, 2010). Keeping a parallel with the GeoCities archive, I believe that the jargon, hashtags and emojis of the present day could become the ‘Under Construction’ GIFs of the next decade, becoming relics and symbols of a time on the Internet. However, there seems to be little possibility for individuals to create archives of their own account, for retrieving their memories at a later time and not from a scientific/historical perspective. A few services, such as SocialSafe or Frostbox offer to back up social media accounts; they are principally marketed towards businesses and authorities, whose communications on social media need to be archived in case of dispute, but they can also be used by individuals. However these services are subscription-based (or offer subscription-based premiums, but back up using proprietary archive formats) and as such we are simply repeating the situation of social networking sites, where backed up data could disappear if the companies go out of business — possibly in a worse way, since these companies do not have the financial means of social networks to survive for very long.</Text>
-            <Comments>http://www.socialsafe.net/
-http://www.frostbox.com/</Comments>
+            <Text>In preparation of future data losses, perhaps, the US Library of Congress maintains a permanent archive of Twitter since 2010 (LoC, 2010). However, this is again kept with a cultural intention: “The public Twitter stream is of historical cultural significance and is an amazing repository of mundane moments in the daily lives of many people and records of what they thought important” (Baym, 2010). Scott (2009) has noted the cultural value of archiving GeoCities, despite its tacky design and content; I believe that the jargon, hashtags and emojis of the present day could become the ‘Under Construction’ GIFs of the next decade, becoming relics and symbols of a time on the Internet. However, there seems to be little possibility for individuals to create archives of their own account, for retrieving their memories at a later time and not in a general, sociological or historical goal. A few services, such as SocialSafe.net or Frostbox.com offer to back up social media accounts; they are principally marketed towards businesses and authorities, but can also be used by individuals. However these services are subscription-based (or offer subscription-based premiums, but back up using proprietary archive formats) and as such we are simply repeating the situation of social networking sites, where backed up data could disappear if the companies go out of business — possibly in a worse way, since these companies do not have the financial means of social networks to survive for very long.</Text>
+            <Comments>Whose communications on social media legally need to be archived in case of dispute</Comments>
             <Notes>In The Future of Looking Back, Richard Banks (2011) analyses the reasons that lead us to keep or discard physical objects at home. He argues that while making a selection is a positive thing because it forces us to filter our belongings and focus on what is really meaningful, we also run the risk of ridding ourselves of things that we wish we would have kept in retrospect. He points out that the organisation of digital files make this trickier: because we we can keep pretty much everything on virtual space, it is easier to accidentally delete meaningful things alongside the less important. (Banks, 2011 p. 22).
 In the context of personal archiving, Banks notes that in the past, the legacy we leave behind us was a highly selective one. Because our possessions are limited by physical space, our ancestors until now “have implicitly indicated that an item is significant through the simple act of keeping it. Although thousands of objects likely crossed their path over their lifetime, the constraints of money and space meant that only a few were retained, often the most significant.” (Banks, 2011, p. 78). He does however argue that this is no longer true in a digital world, because new possibilities mean we simply accumulate digital objects without necessarily ordering them by importance.
 </Notes>
@@ -1938,12 +1945,9 @@ Provide on disc if long audio/video</Synopsis>
             <Title>Introduction</Title>
             <Text>The research presented in this dissertation stems from observations of the recent shift of many of our communications towards social networking websites. Whilst creating memories (be it photographs, videos, textual stories…) digitally rather than physically is not exactly a new thing, the places where we share them online are progressively going further away from our own control. This creates worrying uncertainty in terms of preservation of our digital legacy.
 Traditionally, we have kept what was sentimentally important to us in our homes, on materials that were not aging very fast (paper, for instance, will last for decades without any particular intervention needed to retain its integrity). Most importantly, the constraints of cost and physical space meant that we produced and kept relatively few artifacts, retaining only what was the most important to us in our lives. The immateriality of current technologies, however, allow us to create these artifacts very cheaply and store hundreds of these elements in a reduced space, which progressively eliminates this need for curation and selection, and instead let us record our lives more frequently and accumulate these records.
-But this immateriality does not come without its downsides. Digital information is, as we will see, very fragile; not only because of the storage media used to store it, but also due to the technological obsolescence of interfaces and software to access these media. The emergence of social networks and services of “cloud” storage, however, produces a whole new issue: the long-term existence and safety of the data that we put on these is entirely dependent on the commercial success and policies of the provider. The short history of the Internet has already proven us that social networks and online spaces do not last eternally, and when they shut down or stop being maintained, our data disappears forever (examples include Bebo, MSN, MySpace, Orkut, GeoCities…). There are numerous reasons, that will be described later in this dissertation, to think that some (if not all) of the dominant social networks at the time of writing (Facebook, Twitter, Instagram, LinkedIn, Pinterest…) will be replaced in a few years and that our data will share the same fate, with possibly bigger consequences considering the extreme growth in the amount of users and content shared. There is an alarming lack of awareness about this impending destruction  of our memories, and most importantly a lack of simple solutions for the general public to be able to preserve digital memories over the long term. The questions that I will try to answer here are: is it worth capturing digital memories shared on social networks? How to store these in the long-term? Which privacy levels are desired for that content? And finally, how can we design an interface that would allow users to go through a complex lifetime of digital memories in a meaningful and organised way? 
-The present research was done in parallel with my final year's honours project that is aiming to tackle this issue. As such I have used elements of the development of this project to inform the questions asked, and used prototypes to gather insights and find answers. Through a literature review in the field of digital preservation, structured interviews and user testing I am trying here to answer these questions, and decrypt a bit further the large question of personal archiving and representation of events over time.</Text>
-            <Comments>Source http://www.ebizmba.com/articles/social-networking-websites
-[Accessed 17/10/2014]
-https://web.archive.org/web/20141007035034/http://www.ebizmba.com/articles/social-networking-websites
-</Comments>
+But this immateriality does not come without its downsides. Digital information is, as we will see, very fragile; not only because of the storage media used to store it, but also due to the technological obsolescence of interfaces and software to access these media. The emergence of social networks and services of “cloud” storage, however, produces a whole new issue: the long-term existence and safety of the data that we put on these is entirely dependent on the commercial success and policies of the provider. The short history of the Internet has already proven us that social networks and online spaces do not last eternally, and when they shut down or stop being maintained, our data disappears forever (examples include Bebo, MSN, MySpace, Orkut, GeoCities…). There are numerous reasons, that will be described later in this dissertation, to think that some (if not all) of the current dominant social networks will be replaced in a few years and that our data will share the same fate, with possibly bigger consequences considering the extreme growth in the amount of users and content shared. There is an alarming lack of awareness about this impending destruction  of our memories, and most importantly a lack of simple solutions for the general public to be able to preserve digital memories over the long term. The questions that I will try to answer here are: is it worth capturing digital memories shared on social networks? How to store these in the long-term? And finally, how can we design an interface that would allow users to go through a complex lifetime of digital memories in a meaningful and organised way? 
+The present research was done in parallel with my final year's honours project that is aiming to tackle this issue. As such I have used elements of the development of this project to inform the questions asked, and used prototypes to gather insights and find answers. Through a literature review in the field of digital preservation, an exploration of representations of time and a series of activities with potential users, I am trying here to answer these questions, and shed some light on personal archiving and representation of events over time.</Text>
+            <Comments>At the time of writing: Facebook, Twitter, Instagram, LinkedIn, Pinterest… (Ebizmba, 2014)</Comments>
             <Notes>http://www2.warwick.ac.uk/fac/soc/al/learning_english/leap/writing/moreinfo/
 
 a statement of the importance of the subject
@@ -2172,7 +2176,7 @@ Finally, appropriateness is using a method that is relevant to the type of mater
 By dissecting how the timeline used by social networks works, I have attempted to expose the fact that as a tool that attempts to be neutral and unopinionated, it is ultimately a deceptive and inefficient way of organising items once the amount of information is large enough. For interaction design, it is a challenge to organise information in a manner that is pertinent for users, and looking at alternative ways of representing time was important to be able to design an efficient system to retrieve memories from an archive. The workshop I have held also allowed me to obtain great insights from the potential users’ perspective, and what are important factors and concepts to think about when designing such a system: the need for different filters when looking up in an archive, when simply increasing the granularity is not sufficient to help finding something with the information we remember; the importance of careful design in terms of readability and separation, to allow complexity while retaining the user; the general use of periods and events as main reference points when asking people to visually describe their life, rather than time units such as years or months.
 The research presented here is a stepping stone for my honours project, and the observations made here will allow me to drive the development of new prototypes. However, it is far from being a comprehensive answer to all the questions originally asked. I have only obtained a limited understanding of people’s behaviour and attitudes towards the preservation of their online data, and the research done on visual representation is not sufficient to establish strong design guidelines for the design of such systems.
 To consolidate the research presented here and help in fully answering the questions asked, further research will be needed. Building prototypes and testing them with users, which is what I set out to do when originally planning this dissertation, actually requires a good understanding of the existing representations of time in the first place. I will now be able to do this with my honours project, but a more complete study with a wider variety of interface paradigms, as part of a MSc or PhD research, would reveal new insights. It would also be necessary to go further in depth when attempting to understand the processes used by users when retrieving old memories on social networks, using ethnographic observation with a careful ethical consideration, and a larger pool of participants.
-This area of study is complex, because it has a “futuristic” aspect to it: the full potential of a retrieval system would only be achieved once several decades of data have been accumulated, which has not happened yet since all the social networking sites are still relatively young. However, I am hoping that small pieces of research and experimentation such as this one will pave the way for larger projects in this field, so that powerful, user-friendly systems can be built to preserve emotionally important content before it disappears, and allow new experiences for exploring and recovering it.</Text>
+This area of study is complex, because it has a “futuristic” aspect to it: the full potential of a retrieval system would only be achieved once several decades of data have been accumulated, which has not happened yet since all the social networking sites are still relatively young. However, I am hoping that small pieces of research and experimentation such as this one will pave the way for larger projects in this field, so that powerful, user-friendly systems can be built to preserve emotionally important content before it disappears, and allow new experiences for its exploration and recovery.</Text>
             <Notes>- Longer section on the limitations of your research. 
 - need to emphasise the contribution that it makes to research.
 - need for future research. 
@@ -2205,13 +2209,13 @@ Important facts and figures not mentioned in the main body</Notes>
 Poor integrity: “So much contextual information may be lost that the materials themselves are unintelligible or not trusted even when they can be accessed”</Text>
         </Document>
         <Document ID="103">
-            <Title>Difficulty of keeping track of what we create</Title>
+            <Title>Keeping track</Title>
             <Synopsis>Banks, 2011, p. 124</Synopsis>
-            <Text>Banks (2011, pp. 124—136) thinks that the multiplication of online services is a good thing in general, allowing users to try several services until you try one that fits your need. However he notes that this is an issue for digital preservation as it scatters our data all over the network with few means to keep track of it:
-While I played around on Instagram I posted a number of images to their site, including a few of my daughter. I have a few more images posted up on Twitpic.com, a service that you can use for sharing images when publishing to Twitter. I may never use either of these services again, yet they have both got content on them that is a part of my personal history. (Banks, 2011, p. 128)]
-This problem is to be combined with the transience of such services (Twitpic, mentioned here, shut down in September 2014, after being around since 2008). As Banks reminds us, services that were highly popular a decade ago (MySpace, Geocities) have suffered from an “exodus” of their users towards new services, for new competitors that are seen as more attractive, or due to a decline in quality of the platforms (he cites MySpace becoming inundated with advertising as a possible reason). Such a loss of users would hit the company financially, and as such they may be forced to close down or reinvent their model, erasing their users’ data as a result.</Text>
-            <Comments>http://blog.twitpic.com/2014/09/twitpic-is-shutting-down/ [Accessed 20th October 2014]
-Bebo, which once was the most popular service in the UK, has shut down in 2013 and is reopening with different services, having completely erased the original website. http://bebo.com [Accessed 20th October 2014]</Comments>
+            <Text>Banks (2011, pp. 124-136) thinks that the multiplication of online services is a good thing, creating competition and allowing users to try several services until they try one that fits their needs. However he notes that this is an issue for digital preservation as it scatters our data all over the network with few means to keep track of it:
+“While I played around on Instagram I posted a number of images to their site, including a few of my daughter. I have a few more images posted up on Twitpic.com, a service that you can use for sharing images when publishing to Twitter. I may never use either of these services again, yet they have both got content on them that is a part of my personal history.” (Banks, 2011, p. 128)]
+This problem is to be combined with the transience of such services. As Banks reminds us, services that were highly popular a decade ago (MySpace, Geocities) have suffered from an “exodus” of their users towards new services, for new competitors that are seen as more attractive, or due to a decline in quality of the platforms (he cites MySpace becoming inundated with advertising as a possible reason). Such a loss of users would hit the company financially, and as such they may be forced to close down or reinvent their model, erasing their users’ data as a result.</Text>
+            <Comments>Twitpic, mentioned here, shut down in September 2014, after being around since 2008. (Everett, 2014)
+bebo.com, which once was the most popular service in the UK, has shut down in 2013 and is reopening with different services, having completely erased the original website.</Comments>
         </Document>
         <Document ID="15">
             <Title>Untitled</Title>
@@ -2226,10 +2230,10 @@ Similarly, Banks notes tools by Microsoft Research to recreate places in a 3D en
 Kirk and Sellen (2010) found however that ultimately, stories and narrative are more important than the preservation of the artifact itself. They propose that “technology might play a role in capturing and associating stories or narratives with different physical objects”, imagining that we could augment physical objects with RFID tags (and I would add, virtual reality technologies) to pass down stories attached to these objects.</Text>
         </Document>
         <Document ID="112">
-            <Title>Personal archiving</Title>
-            <Text>
-In The Future of Looking Back, Richard Banks (2011) analyses the reasons that lead us to keep or discard physical objects at home. He argues that while making a selection is a positive thing because it forces us to filter our belongings and focus on what is really meaningful, we also run the risk of ridding ourselves of things that we wish we would have kept in retrospect. He points out that the organisation of digital files make this trickier: because we we can keep pretty much everything on virtual space, it is easier to accidentally delete meaningful things alongside the less important. (Banks, 2011 p. 22).
-In the context of personal archiving, Banks notes that in the past, the legacy we leave behind us was a highly selective one. Because our possessions are limited by physical space, our ancestors until now “have implicitly indicated that an item is significant through the simple act of keeping it. Although thousands of objects likely crossed their path over their lifetime, the constraints of money and space meant that only a few were retained, often the most significant.” (Banks, 2011, p. 78). He does however argue that this is no longer true in a digital world, because new possibilities mean we simply accumulate digital objects without necessarily ordering them by importance.</Text>
+            <Title>The disappearance of constraints</Title>
+            <Text>Richard Banks, a researcher at Microsoft Cambridge, suggests that we first preserve artefacts for ourselves. The majority of the time, we simply keep what we consider significant to remind ourselves of particular people, events and places, and to share them with people we care about; we discard what is not meaningful to us by pragmatism (lack of physical space, lack of importance, redundancy) (Banks, 2011, p. 6). This selection process contributes to keeping what we want to remember, and what is the legacy we will want to leave to others after our deaths.
+However, the digital age changes this situation. First, the space to store our objects on computers and online is becoming virtually unlimited, and so we tend to accumulate data instead of selecting it (Banks, 2011); second, the abundance of online services makes it harder to keep track of everything we create. When analysing the reasons that lead us to keep or discard physical objects at home, Banks argues that while making a selection is a positive thing, because it forces us to filter our belongings and focus on what is really meaningful, we also run the risk of ridding ourselves of things that we wish we would have kept in retrospect. He points out that the organisation of digital files make this trickier: because we we can keep pretty much everything on virtual space, it is easier to accidentally delete meaningful things alongside the less important. (Banks, 2011 p. 22).
+In the context of personal archiving, Banks notes that in the past, the legacy we left behind us was a highly selective one. Because our possessions are limited by physical space, until now our ancestors “have implicitly indicated that an item is significant through the simple act of keeping it. Although thousands of objects likely crossed their path over their lifetime, the constraints of money and space meant that only a few were retained, often the most significant.” (Banks, 2011, p. 78). He does however argue that this is no longer true in a digital world, because new possibilities mean we simply accumulate digital objects without necessarily ordering them by importance.</Text>
             <Notes>Parrallel between generic &amp; personal stuff, that is museums/archives vs personal storage
 </Notes>
         </Document>
@@ -2376,22 +2380,14 @@ The UNESCO (2003) and Cook (2000) both however recognise that a middle ground sh
 </Notes>
         </Document>
         <Document ID="18">
-            <Title>Literature review</Title>
+            <Title>Literature review: the need for preservation</Title>
             <Synopsis>Reference (but edit) the literature review in line with what I have written before
 
 Go through methods of archiving, particularly</Synopsis>
+            <Text>The first chapter will look at some of the existing material concerned with the issues and interests surrounding personal digital archiving, and the preservation of social networking sites (SNS). For a review of the general issues around the practice of digital preservation, with more technical details, please refer to the literature review preceding this dissertation (Loux, 2014).</Text>
         </Document>
         <Document ID="130">
             <Title>Geocities</Title>
-            <Text>The Archive Team has notably rescued pages on GeoCities, a hosting site that was very popular in the mid- to late 90s. It was acquired by Yahoo! in 1999 (in what is now often referred to as one of the worst deals of the dot-com bubble) and suffered a great decline since, ultimately leading Yahoo! to close down Geocities in 2009.
-Although often considered of little value by the modern Internet community (Scott, 2009) due to the tacky and amateur design of the websites (animated GIFs, excessive animations, auto-playing MIDI music…), Jason Scott and the Archive Team have decided to back it up and place mirrors of it online for cultural reasons:
-But please recall, if you will, that for hundreds of thousands of people, this was their first website. This was where you went to get the chance to publish your ideas to the largest audience you might ever have dreamed of having. Your pet subject or conspiracy theory or collection of writings left the safe confines of your Windows 3.1 box and became something you could walk up to any internet-connected user, hand them the URL, and know they would be able to see your stuff. In full color. […] Already, little gems have shown up in the roughly 8000+ sites I’ve archived. Guitar tab archives. MP3s that surely took the owners hours to rip and generate. GIF files, untouched for 13 years. Fan fiction. Photographs and websites of people long dead. All stuff that, I think, down the line, will have meaning. It’s not for me to judge. It’s for me to collect. (Scott, 2009)
-There is certainly a cultural aspect to the whole archive; the visual style of 90s websites, although generally considered of poor taste, has a cultural meaning and brings a certain form of nostalgia and reminiscence when we see it. In 2012 the Museum of the Moving Image, in New York, set up an installation of “Under Construction” GIFs found in the GeoCities archive, small animated symbols that were so commonplace on personal websites that they became a symbol of this era in computing history, a meaning obviously acquired with time. But more importantly, there are indeed memories, photographs, stories, work shared by people 15 to 20 years ago that would otherwise be lost forever without this initiative.</Text>
-            <Comments>http://blogs.marketwatch.com/cody/2012/04/17/the-three-worst-timed-deals-of-the-dot-com-bust/
-
-http://fortune.com/2013/05/21/5-worst-internet-acquisitions-of-all-time/ [Accessed 21st Oct. 2014]
-http://www.movingimage.us/exhibitions/2012/12/04/detail/under-construction/ [Accessed 21st Oct. 2014]
-Include figure/example - see http://www.textfiles.com/underconstruction/</Comments>
         </Document>
         <Document ID="43">
             <Title>weather-camera-wilkins</Title>
@@ -2410,9 +2406,12 @@ Another important issue is integrity, i.e. “ensuring the object is complete an
 This is particularly important, Harvey (2012, p. 54) notes, for business archiving, where the legal value of a digital object could be lost if we cannot demonstrate that this object hasn’t been tampered with, or that a migration processes have not incurred data losses. However, as Lynch (2000) has argued, the integrity of objects is only a matter of trust. The guidelines of UNESCO (2003, p. 22) recommend that the best protection for authenticity is proper documentation of the archival process; Harvey (2012, p. 54) expands on this idea: “for instance, if it can be established that a digital object has always been kept in the custody of an archive in which every change to it has been recorded (such as changes resulting from migration of the bit-stream – the dates at which migration occurred, to which media, and so on), then we can be more secure about its integrity.”</Text>
         </Document>
         <Document ID="19">
-            <Title>Deconstructing the timeline</Title>
+            <Title>Literature review: Deconstructing the timeline</Title>
             <Synopsis>Origin of research - small review of what I have found about time representation
 </Synopsis>
+            <Text>Once we have chosen a suitable preservation scheme, there is another equally important question that must then be raised: how do we organise and retrieve our data? We cannot simply gather all digital items and let them pile up unorganised. In the context of a digital personal life, several artefacts are created daily (social network updates, emails, messages) and after a decade this can build up to tens of thousands of pieces of data, that we will need to go through once we are looking for something. This section of the dissertation discusses the gap in research that I want to explore, the experience of retrieval of memories. I will try to understand what encompasses this experience. 
+When organising any type of information, there are generally five ways to do so, known as the five hat racks, or LATCH: by Location, Alphabetically, by Time, Category or Hierarchy/ continuum (Wurman, 1989, cited in Lidwell et al., 2010, p. 100; see also Rendgen et al., 2012, p. 96). In the context of my project, I chose to investigate time exclusively. An alphabetical ordering would be irrelevant since there is a lot of non-textual items on a social network, and it would regardless not be helpful on textual updates; location would be impractical as well, as a lot of the content would be concentrated in a single area; and categories and continuum cannot be established computationally from raw data in a manner that would be precise enough to be meaningful to users, although the models can be combined. The following chapter is therefore looking at what is time, how it can be represented, and why it is relevant to look for alternative ways of representing time.</Text>
+            <Comments>Also called magnitude. For example, from lowest to highest price, or best to worst result.</Comments>
         </Document>
         <Document ID="44">
             <Title>README</Title>
@@ -2713,7 +2712,7 @@ Timelines/progressBarRTL
 Right-to-left progress bar
 web
 Timelines/Ouroboros
- Ouroboros drawing from a Byzantine Greek alchemical manuscript, 1478.
+The symbol of the Ouroboros, a snake or a dragon eating its tail, is extremely ancient; its first known representation can be found in the Enigmatic Book of the Netherworld, a funerary text written in the 14th century BC in ancient Egypt (Hornung, 1999). It has however been used by many cultures across the globes, and particularly for representing cyclical visions of time.
  Ouroboros drawing, from the 1478 manuscript  Parisinus graecus 2327, which was a copy of a lost manuscript of an early medieval tract attributed to Synosius of Cyrene (died in 412).
 
 
@@ -2725,7 +2724,16 @@ Detail from the 20-metre collectively drawn life map made by students and the ge
 Photos: Taya Hauer.
 Workshop/Evaluations-Results
 Average grades for the evaluation of historical time representations.
-Average grades for the evaluation of historical time representations. Full results in [appendix Q-EVALUATIONS].
+Average grades for the evaluation of historical time representations. Full results in [appendix I].
+Review/UnderConstruction
+An “under construction” graphic, popular in the 1990s
+A “under construction” graphic, popular in the 1990s. source: http://textfiles.com/underconstruction
+Review/Geocities
+Screenshot of a typical GeoCities page
+
+Review/SlideViewer
+Photograph of Digital Slide Viewer, a prototype by Microsoft Research, which allows to browse Flickr albums like an old-style slide viewer.
+Photograph of Digital Slide Viewer, a prototype by Microsoft Research, which allows to browse Flickr albums like an old-style slide viewer. Source: http://www.richardbanks.com/2010/03/16/techfest-2010-some-technology-heirlooms/
 </Text>
         </Document>
         <Document ID="115">
@@ -2738,7 +2746,6 @@ Average grades for the evaluation of historical time representations. Full resul
             <Title>Literature review</Title>
             <Text>AppleInsider. (2011) ‘Inside Mac OS X 10.7 Lion: Missing Front Row, Rosetta and Java runtime’. AppleInsider. [web page] Accessible at http://appleinsider.com/articles/11/02/26/mac_os_x_lion_drops_front_row_java_runtime_rosetta.html [Accessed: 19th Apr 2014] 
 Ayre, C. and Muir, A. (2004) ‘The right to preserve’. D-Lib Magazine, vol. 10 (No. 3). March. Available at http://www.dlib.org/dlib/march04/ayre/03ayre.html [Accessed: 11th Apr 2014]
-Banks, R. (2011) The Future of Looking Back. Sebastopol: Microsoft Press.
 Bearman, D. (1999) ‘Reality and Chimeras in the Preservation of Electronic Records’. D-Lib Magazine, vol. 5 (No. 4). April. Available at http://www.dlib.org/dlib/april99/bearman/04bearman.html [Accessed: 7th Apr 2014]
 Boyd, D. (2014) It’s Complicated: The Social Lives of Networked Teens. New Haven and London: Yale University Press.
 byuu. (2011) ‘Accuracy takes power: one man’s 3 GHz quest to build a perfect SNES emulator’. Ars Technica. [web page] Available at: http://arstechnica.com/gaming/2011/08/accuracy-takes-power-one-mans-3ghz-quest-to-build-a-perfect-snes-emulator/  [Accessed: 8th Apr 2014]
@@ -2774,27 +2781,21 @@ Zhou, M., Geng, G. and Wu, Z. (2012) Digital preservation technology for cultura
 In French.</Comments>
         </Document>
         <Document ID="132">
-            <Title>Obstacles to digital heritage</Title>
-            <Text>
-Odom et al., 2012:
-these instances highlighted tensions around integrating social networking content from members within the collective family archive. Participants made key distinctions between the thoughtful recording of one's life believed to be reflected in their ancestors' diaries, and their own practices of posting less mindful social networking content targeted at multiple audiences, often outside of the family.
-
-+ Might change how you post online, if you know that people will look at it later
-
-Related concerns also emerged around how a device like BackupBox could cause family members to self-censor the social networking content they posted, or paralyze these practices completely. Some families proposed ways to work around these tensions, such as using a special hash tag or a specific application to send updates only to Backup Box.
-</Text>
+            <Title>Reducing abstractions</Title>
+            <Text>Storing the data locally, in one’s own home — as opposed to an online service — is fundamental. Not only as a protection against online services shutting down eventually, but also as a reassurance by removing the abstraction that lets us access data, remarked by Banks (2011, p. 27):  “I have no idea what kind of hardware my files are now stored or even where they are geographically. I just expect to have access to them as long as I pay my bills.” Ethnographical research shows that this as a concern for most users: “knowing where one’s sensitive digital materials are located is bound to the sense that one is keeping them safe” (Odom et al. 2012a, p.9) and “the ‘materiality’ of digital artifacts is of prime importance for future HCI research” (Odom et al., 2012b).</Text>
+            <Comments>This was in the case of the photo storage service Flickr, which offered a premium option back then.</Comments>
         </Document>
         <Document ID="72">
             <Title>Bibliography/Further reading</Title>
-            <Text>Back, M.D. et al., 2010. Facebook profiles reflect actual personality, not self-idealization. Psychological Science, 21(3), pp.372–374.
+            <Text>Hammersley, B. (2012). 64 Things You Need to Know Now for Then,
+Hangal, S., Lam, M.S. &amp; Heer, J., 2011. MUSE: reviving memories using email archives, New York, New York, USA: ACM.
 Ivonin, L. et al., 2012. Unconscious emotions: quantifying and logging something we are not aware of. Personal and Ubiquitous Computing, 17(4), pp.663–673.
-Johnson, B.D., 2011. Science Fiction Prototyping, Morgan &amp; Claypool Publishers.
-Roberts, L., 2012. Mapping Cultures, Palgrave Macmillan.
+Kirk, D.S. and Sellen, A., 2010. On human remains. ACM Transactions on Computer-Human Interaction, 17(3), pp.1–43.
+Massimi, M. &amp; Baecker, R.M., 2011. Dealing with death in design: developing systems for the bereaved. In CHI '11: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. New York, New York, USA:  ACM Request Permissions, pp. 1001–1010.
+McCandless, D., 2009. Information is Beautiful, HarperCollins UK.
+Olsson, T., Soronen, H. and Väänänen-Vainio-Mattila, K. (2008). User needs and design guidelines for mobile services for sharing digital life memories. Proceedings of the 10th international conference on Human computer interaction with mobile devices and services - MobileHCI '08. Available at: {doi: 10.1145/1409240.1409270} [Accessed 03 Jan 2015]
 Taylor, A.S. &amp; Harper, R., 2003. The Gift of the Gab?: A Design Oriented Sociology of Young People's Use of Mobiles. Computer Supported Cooperative Work (CSCW), 12(3), pp.267–296.
-
-Brubaker, J.R., Hayes, G.R. &amp; Dourish, P., 2013. Beyond the Grave: Facebook as a Site for the Expansion of Death and Mourning. dx.doi.org, 29(3), pp.152–163.
-Moncur, W. &amp; Kirk, D., 2014. An emergent framework for digital memorials. In DIS '14: Proceedings of the 2014 conference on Designing interactive systems. New York, New York, USA:  ACM  Request Permissions, pp. 965–974.
-https://photoworld.com/photos-on-the-web/ &gt; physical amount of photographs over a year</Text>
+</Text>
         </Document>
         <Document ID="47">
             <Title>Objectives</Title>
@@ -2804,73 +2805,68 @@ https://photoworld.com/photos-on-the-web/ &gt; physical amount of photographs ov
         </Document>
         <Document ID="124">
             <Title>Reasons for preserving</Title>
-            <Text>Richard Banks, a researcher at Microsoft Cambridge, suggests that we first preserve artefacts for ourselves. The majority of the time, we simply keep what we consider significant to remind ourselves of particular people, events and places, and to share them with people we care about; we discard what is not meaningful to us by pragmatism (lack of physical space, lack of importance, redundancy) (Banks, 2011, p. 6). This selection process contributes to keeping what we want to remember, and what is the legacy we will want to leave to others after our deaths.
-However, the digital age changes this situation. First, the space to store our objects on computers and online is becoming virtually unlimited, and so we tend to accumulate data instead of selecting (Banks, 2011); second, the abundance of online services makes it harder to keep track of everything we create.</Text>
         </Document>
         <Document ID="107">
             <Title>Reflection on prototypes</Title>
         </Document>
         <Document ID="73">
-            <Title>Referenced</Title>
-            <Text>Banks, R. &amp; Kirk, D.S., 2008. O’clockn the design of technology heirlooms. SIMTech'08.
-Hammersley, B. (2012). 64 Things You Need to Know Now for Then,
-Boyd, D., 2014. It's Complicated. pp.1–296.
-Hangal, S., Lam, M.S. &amp; Heer, J., 2011. MUSE: reviving memories using email archives, New York, New York, USA: ACM.
-Hutton, L. and Henderson, T., 2013. An architecture for ethical and privacy-sensitive social network experiments. SIGMETRICS Performance Evaluation Review, 40(4), pp.90–95.
-Jung, M., 2013. Remembrance Value of Topics in Social Media,
-Kirk, D.S. and Sellen, A., 2010. On human remains. ACM Transactions on Computer-Human Interaction, 17(3), pp.1–43.
-Krotoski, A., 2013. Untangling the Web, Faber &amp; Faber.
-Massimi, M. &amp; Baecker, R.M., 2011. Dealing with death in design: developing systems for the bereaved. In CHI '11: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. New York, New York, USA:  ACM Request Permissions, pp. 1001–1010.
-McCandless, D., 2009. Information is Beautiful, HarperCollins UK.
-Odom, W. et al., 2012. Technology heirlooms?: considerations for passing down and inheriting digital materials. In CHI '12: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. New York, New York, USA:  ACM Request Permissions, pp. 337–346.
-Rendgen, S. et al., 2012. Information Graphics, Taschen America Llc.
-Rosenberg, D. and Grafton, A., 2010. Cartographies of Time, Princeton Architectural Press.
-Vashisht, G. and Thakur, S. (2014). Facebook as a Corpus for Emoticons-Based Sentiment Analysis. International Journal of Emerging Technology and Advanced Engineering, 4(5), pp. 904-908.
-Whittaker, S. &amp; Sellen, A., 2010. Beyond total capture: a constructive critique of lifelogging. Communications of the ACM, 53(5).
-MacDonald, C. and Atwood, M. (2014). What does it mean for a system to be useful?. Proceedings of the 2014 conference on Designing interactive systems - DIS '14. [online] Available at: http://dx.doi.org/10.1145/2598510.2598600 [Accessed 20 Oct. 2014].
-Scott, J. (2009). Geocities. [Blog] ASCII by Jason Scott. Available at: http://ascii.textfiles.com/archives/1956 [Accessed 21 Oct. 2014].
-Weger, U. and Pratt, J. (2008). Time flies like an arrow: Space-time compatibility effects suggest the use of a mental timeline. Psychonomic Bulletin &amp; Review, [online] 15(2), pp.426-430. Available at: http://dx.doi.org/10.3758/pbr.15.2.426 [Accessed 18 Oct. 2014].
-Santiago, J., Lupáñez, J., Pérez, E. and Funes, M. (2007). Time (also) flies from left to right. Psychonomic Bulletin &amp; Review, [online] 14(3), pp.512-516. Available at: http://dx.doi.org/10.3758/bf03194099 [Accessed 22 Oct. 2014].
-Baym, N. (2010). [Air-L] Library of Congress Acquires Entire (Public) Twitter Archive. [email]. Mailing list of the Association of Internet Researchers. Available at: https://web.archive.org/web/20101225053512/http://listserv.aoir.org/pipermail/air-l-aoir.org/2010-April/021125.html
-Library of Congress (2010). How Tweet It Is!: Library Acquires Entire Twitter Archive. [Blog] Library of Congress blog. Available at: http://blogs.loc.gov/loc/2010/04/how-tweet-it-is-library-acquires-entire-twitter-archive/ [Accessed 21 Oct. 2014].
+            <Title>References</Title>
+            <Text>Banks, R. (2010). The 40-Year Old Tweet. [presentation]. 5 February, IXDA interaction10. Savannah, GA: The Theater. Available at: https://vimeo.com/9664533 [Accessed: 09 Jan 2015]
+Banks, R. (2011) The Future of Looking Back. Sebastopol: Microsoft Press.
+Baym, N. (2010). [Air-L] Library of Congress Acquires Entire (Public) Twitter Archive. [email]. Mailing list of the Association of Internet Researchers. Available at: https://web.archive.org/web/20101225053512/http://listserv.aoir.org/pipermail/air-l-aoir.org/2010-April/021125.html 
+Boroditsky, L. (2011). How Languages Construct Time. In: S. Dehaene and E. M. Brannon, eds., Space, Time and Number in the Brain, 1st ed. San Diego: Academic Press, pp.333-341. Available at: doi:10.1016/B978-0-12-385948-8.00020-7(http://dx.doi.org/10.1016/B978-0-12-385948-8.00020-7) [Accessed 7 Dec. 2014].
+Chapman, J. (2009). Design for (Emotional) Durability. Design Issues, 25(4), pp.29-35.
+ebiz|MBA (2014) Top 15 Most Popular Social Networking Sites | October 2014. [online] Available at:  http://www.ebizmba.com/articles/social-networking-websites [Accessed 17/10/2014]
+Evans-Pritchard, E. E. (1940). The Nuer : a description of the modes of livelihood and political institutions of a Nilotic people. Oxford: Clarendon Press. Available at: https://archive.org/details/nuerdescriptiono00evan [Accessed: 29th Dec. 2014]. Chapter III, pp. 94-138.
+Everett, N., (2014). Twitpic is shutting down. Twitpic blog. [blog] Available at: http://blog.twitpic.com/2014/09/twitpic-is-shutting-down/ [Accessed 20th October 2014]
+Fowler, H. and Burchfield, R. (1996). The new Fowler's modern English usage. Oxford: Clarendon Press, pp. 197–198.
+Haynes, C. (2012). How to Map a Life. [Lecture at We Are The Time conference]. Studium Generale Rietveld Academie, Amsterdam.  Available at: https://www.youtube.com/watch?v=wWyKUy0MIJ4 [Accessed: 3rd Dec. 2014].
 Haynes, C. (2013a). Drawing Time. [Blog] Thinking in Practice. Available at: http://thinking-in-practice.com/drawing-time-petrie-museum-cathy-haynes [Accessed 6 Dec. 2014].
 Haynes, C. (2013b). How do you map a life?. [Blog] The Timekeeper Project. Available at: http://astormisblowing.org/2013/10/11/how-do-you-map-a-life/ [Accessed 6 Dec. 2014].
-Haynes, C. (2012). How to Map a Life. [Lecture at We Are The Time conference]. Studium Generale Rietveld Academie, Amsterdam.  Available at: https://www.youtube.com/watch?v=wWyKUy0MIJ4 [Accessed: 3rd Dec. 2014].
-Haynes, C. (2014). What would life be like without the word Time? [Blog] Stereochron Island. Available at: http://stereochron.org/post/93491431833/what-would-life-be-like-without-the-word-time [Accessed: 21st Dec. 2014]
-Sterne, L. (1761).  The Life and Opinions of Tristram Shandy, Gentleman. [ebook]. Reprint, Salt Lake City: Project Gutenberg, 2012. Available from: http://www.gutenberg.org/ebooks/39270 [Accessed: 7th Dec. 2014]. pp. 347-348 (Book IV, chapter XL).
-Boroditsky, L. (2011). How Languages Construct Time. In: S. Dehaene and E. M. Brannon, eds., Space, Time and Number in the Brain, 1st ed. San Diego: Academic Press, pp.333-341. Available at: doi:10.1016/B978-0-12-385948-8.00020-7(http://dx.doi.org/10.1016/B978-0-12-385948-8.00020-7) [Accessed 7 Dec. 2014].
-Strass, J. F. (1810). Descriptive Guide to “The Stream of Time,” or, General Outline of Universal History, Chronology, and Biography, at One View. 4th ed. Translated by W. Bell. London. Available at: http://access.bl.uk/item/viewer/ark:/81055/vdc_100023107350.0x000011 [Accessed 21 Dec. 2014]. pp. 8-10.
-Lewis, R. (2014). How Different Cultures Understand Time. Business Insider. [online] Available at: http://www.businessinsider.com/how-different-cultures-understand-time-2014-5 [Accessed 22 Dec. 2014].
-Fowler, H. and Burchfield, R. (1996). The new Fowler's modern English usage. Oxford: Clarendon Press, pp. 197–198.
+Haynes, C. (2014a). What would life be like without the word Time? [Blog] Stereochron Island. Available at: http://stereochron.org/post/93491431833/what-would-life-be-like-without-the-word-time [Accessed: 21st Dec. 2014]
+Haynes, C. (2014b). Four Geometries of Time. A storm is blowing. [blog] http://astormisblowing.org/2014/03/24/four-geometries-of-time/ [Accessed: 27 Oct. 2014] &gt;&gt;&gt;&gt; Convert other one to 2014a
 Hornung, E. (1999). The ancient Egyptian books of the afterlife. Translated by D. Lorton. Ithaca, N.Y.: Cornell University Press. p. 78.
-Stern, S. (2003). Time and Process in Ancient Judaism. Oxford and Portland, Oregon: The Littman Library of Jewish Civilization. p. 127.
+Hutton, L. and Henderson, T. (2013). An architecture for ethical and privacy-sensitive social network experiments. SIGMETRICS Performance Evaluation Review, 40(4), pp.90–95.
+Julius, M. (2014). [Blog] Multimedia Memories. Available at: http://multimedia-memories.tumblr.com/ [Accessed 2 Oct. 2014].
+Julius, M. (no date). Remembrance Value of Topics in Social Media. [online] pp. 6, 12. Available at: https://dl.dropboxusercontent.com/u/24440204/remembrance_value_of_topics_in_social_media.pdf [Accessed 12 Oct 2014].
+Kopytoff , V. (2013) 5 worst Internet acquisitions of all time. Fortune. [online] Available at: http://fortune.com/2013/05/21/5-worst-internet-acquisitions-of-all-time/ [Accessed 21st Oct. 2014]
+Lewis, R. (2014). How Different Cultures Understand Time. Business Insider. [online] Available at: http://www.businessinsider.com/how-different-cultures-understand-time-2014-5 [Accessed 22 Dec. 2014].
+Library of Congress (2010). How Tweet It Is!: Library Acquires Entire Twitter Archive. [Blog] Library of Congress blog. Available at: http://blogs.loc.gov/loc/2010/04/how-tweet-it-is-library-acquires-entire-twitter-archive/ [Accessed 21 Oct. 2014].
+Lidwell, W., Holden, K. and Butler, J. (2010). Universal Principles of Design: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design. Berverly, MA: Rockport Publishers, p. 100. 
 Lipton, D. (2005). Reviewed Work: Time and Process in Ancient Judaism by Sacha Stern. Bulletin of the School of Oriental and African Studies, University of London, [online] 68(1), pp. 103-104. Available at: http://www.jstor.org/stable/20181858 [Accessed 30 Dec. 2014].
-Evans-Pritchard, E. E. (1940). The Nuer : a description of the modes of livelihood and political institutions of a Nilotic people. Oxford: Clarendon Press. Available at: https://archive.org/details/nuerdescriptiono00evan [Accessed: 29th Dec. 2014]. Chapter III, pp. 94-138.
+Loux, V. (2014). Literature Review: Digital Preservation. [essay]. DJ32004 Research and Creative Practice Part 1, University of Dundee.
+Martin, B. and Hanington, B. (2012). Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions. Beverly, MA: Rockport Publishers, pp. 17, 32, 74, 156.
+Materialising Memories (2014). [Blog]. Available at: http://www.materialisingmemories.com/updates/ [Accessed 2 Oct. 2014].
+Moncur, W. &amp; Kirk, D., 2014. An emergent framework for digital memorials. In DIS '14: Proceedings of the 2014 conference on Designing interactive systems. New York, NY:  ACM, pp. 965–974.
+Museum of Moving Image. (2012) Under Construction. [online] Available at: http://www.movingimage.us/exhibitions/2012/12/04/detail/under-construction/ [Accessed 21st Oct. 2014]
+Odom, W., Banks, R., Kirk, D., Harper, R., Lindley, S. and Sellen, A. (2012a). Technology heirlooms?: considerations for passing down and inheriting digital materials. CHI '12: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. New York, New York, USA:  ACM, pp. 337–346. Available at: {doi: 10.1145/2207676.2207723} [Accessed 17 Sep 2014]
+Odom, W.,  Sellen, A., Harper, R. and Thereska, E. (2012b). Lost in translation: understanding the possession of digital things in the cloud. CHI '12: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. New York, New York, USA:  ACM, pp. 781-790. Available at: {doi: 10.1145/2207676.2207789} [Accessed 03 Jan 2015]
+Petrelli, D., Whittaker, S. and Brockmeier, J. (2008). AutoTopography: what can physical mementos tell us about digital memories?. Proceeding of the twenty-sixth annual CHI conference on Human factors in computing systems - CHI '08. Available at: {doi:10.1145/1357054.1357065} [Accessed 12 Dec 2015]
+Rendgen, S. et al., 2012. Information Graphics, Taschen America Llc.
+Rosenberg, D. and Grafton, A., 2010. Cartographies of Time, Princeton Architectural Press.
+Santiago, J., Lupáñez, J., Pérez, E. and Funes, M. (2007). Time (also) flies from left to right. Psychonomic Bulletin &amp; Review, [online] 14(3), pp.512-516. Available at: http://dx.doi.org/10.3758/bf03194099 [Accessed 22 Oct. 2014].
+Scott, J. (2009) Datapocalypso!. ASCII by Jason Scott. [blog] Available at: http://ascii.textfiles.com/archives/1649 [Accessed 20th October 2014]
+Scott, J. (2009). Geocities. [Blog] ASCII by Jason Scott. Available at: http://ascii.textfiles.com/archives/1956 [Accessed 21 Oct. 2014].
 Scott, J. (2014). The House is on Fire, the Fire Trucks are on Fire, The Fire is on Fire. [presentation]. 19 June, CALI 2014. Cambridge, MA: Harvard Law School. Available at: https://www.youtube.com/watch?v=qh7EARxkxoU [Accessed: 28th October 2014].
 Scott, J. (no date). A History of Jason Never Shutting Up. [videos] ASCII by Jason Scott. Available at: http://ascii.textfiles.com/speaking [Accessed 1 Nov. 2014].
-Julius, M. (2014). [Blog] Multimedia Memories. Available at: http://multimedia-memories.tumblr.com/ [Accessed 2 Oct. 2014].
-Materialising Memories (2014). [Blog]. Available at: http://www.materialisingmemories.com/updates/ [Accessed 2 Oct. 2014].
-The Timekeeper Project (2013). [Blog] Available at http://www.astormisblowing.net [Accessed: 22 Oct. 2014]
 Stereochron Island (2014). [Blog] Available at http://www.stereochron.org [Accessed: 24 Oct. 2014]
-Chapman, J. (2009). Design for (Emotional) Durability. Design Issues, 25(4), pp.29-35.
-Martin, B. and Hanington, B. (2012). Universal Methods of Design: 100 Ways to Research Complex Problems, Develop Innovative Ideas, and Design Effective Solutions. Beverly, MA: Rockport Publishers, pp. 17, 32, 74, 156.
-Lidwell, W., Holden, K. and Butler, J. (2010). Universal Principles of Design: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design. Berverly, MA: Rockport Publishers, p. 100. 
+Stern, S. (2003). Time and Process in Ancient Judaism. Oxford and Portland, Oregon: The Littman Library of Jewish Civilization. p. 127.
+Sterne, L. (1761).  The Life and Opinions of Tristram Shandy, Gentleman. [ebook]. Reprint, Salt Lake City: Project Gutenberg, 2012. Available from: http://www.gutenberg.org/ebooks/39270 [Accessed: 7th Dec. 2014]. pp. 347-348 (Book IV, chapter XL).
+Strass, J. F. (1810). Descriptive Guide to “The Stream of Time,” or, General Outline of Universal History, Chronology, and Biography, at One View. 4th ed. Translated by W. Bell. London. Available at: http://access.bl.uk/item/viewer/ark:/81055/vdc_100023107350.0x000011 [Accessed 21 Dec. 2014]. pp. 8-10.
+The Archive Team (2014). Why back up?. [online] http://archiveteam.org/index.php?title=Why_Back_Up%3F [Accessed 20th October 2014]
+The Timekeeper Project (2013). [Blog] Available at http://www.astormisblowing.net [Accessed: 22 Oct. 2014]
+Weger, U. and Pratt, J. (2008). Time flies like an arrow: Space-time compatibility effects suggest the use of a mental timeline. Psychonomic Bulletin &amp; Review, [online] 15(2), pp.426-430. Available at: http://dx.doi.org/10.3758/pbr.15.2.426 [Accessed 18 Oct. 2014].
+Willard, C. (2012). The three worst-timed deals of the dot-com bust. Marketwatch. [online] http://blogs.marketwatch.com/cody/2012/04/17/the-three-worst-timed-deals-of-the-dot-com-bust/ [Accessed 21st Oct. 2014]
 Wurman, R. S. (1989). Information Anxiety. New York, NY: Doubleday.
-Haynes, C. (2014b). Four Geometries of Time. A storm is blowing. [blog] http://astormisblowing.org/2014/03/24/four-geometries-of-time/ [Accessed: 27 Oct. 2014] &gt;&gt;&gt;&gt; Convert other one to 2014a
-Julius, M. (no date). Remembrance Value of Topics in Social Media. [online] pp. 6, 12. Available at: https://dl.dropboxusercontent.com/u/24440204/remembrance_value_of_topics_in_social_media.pdf [Accessed 12 Oct 2014].
-Olsson, T., Soronen, H. and Väänänen-Vainio-Mattila, K. (2008). User needs and design guidelines for mobile services for sharing digital life memories. Proceedings of the 10th international conference on Human computer interaction with mobile devices and services - MobileHCI '08. Available at: {doi: 10.1145/1409240.1409270} [Accessed 03 Jan 2015]
-Petrelli, D., Whittaker, S. and Brockmeier, J. (2008). AutoTopography: what can physical mementos tell us about digital memories?. Proceeding of the twenty-sixth annual CHI conference on Human factors in computing systems - CHI '08. Available at: {doi:10.1145/1357054.1357065} [Accessed 12 Dec 2015]</Text>
+Whittaker, S. &amp; Sellen, A., (2010). Beyond total capture: a constructive critique of lifelogging. Communications of the ACM, 53(5).
+</Text>
+            <Comments>The page and ranking is updated monthly; a snapshot of the page at the date it was accessed is available at https://web.archive.org/web/20141007035034/http://www.ebizmba.com/articles/social-networking-websites</Comments>
         </Document>
         <Document ID="141">
             <Title>Untitled</Title>
         </Document>
         <Document ID="48">
-            <Title>Back up SNS</Title>
-            <Text>Back up your SNS
-	⁃	Protect against networks going down &lt;make a § over that&gt;, being discontinued or forgotten
-	⁃	Protect against  technological obsolescence
-	⁃	Hard to retrieve data on long timelines
-	•</Text>
+            <Title>Backing up social networks</Title>
         </Document>
         <Document ID="133">
             <Title>A note about the draft</Title>
@@ -2889,19 +2885,16 @@ It is particularly worth saying that the literature review chapter is much longe
         </Document>
         <Document ID="150">
             <Title>Process-related</Title>
-            <Text>Finally, we can wonder whether trying to represent time is relevant at all. Haynes (2014) encourages us to stop trying to use units, and points out the historical and anthropological works of Sasha Stern and Evans-Pritchard, which respectively analyse the ancient Jews’ and the Nuer’s ways of constructing time in their day-to-day thinking.
-Stern believed that in ancient Judaism, for those speaking Hebrew and Aramaic, “the notion of time as an entity in itself, a human resource, a continuous flow, or a structure of dimension of the created world, [is] simply non-existent” (Stern, 2003, p. 127, cited in Lipton, 2005). While some considered that this belief was naïve (Lipton, 2005), it would be hard to argue that their perception of time was completely different from ours. Like the Nuer, they might have used events, processed and activities as points of reference for describing time, as opposed to units such as calendar dates, relative dates (two days ago)  and hours of the day. The “irregular, multiple, parallel phases are defined by the events they describe” (Haynes, 2014), and not by these units. In the case of the Nuer, Evans-Pritchard writes that while names existed for months, their day-to-day thinking was radically different:
-“In my experience Nuer do not to any great extent use the names of the months to indicate the time of an event, but generally refer instead to some outstanding activity in process at the time of its occurrence, e.g. at the time of early camps, at the time of weeding, at the time of harvesting, &amp;c., and it is easily understandable that they do so, since time is to them a relation between activities. During the rains the stages in the growth of millet and the steps taken in its culture are often used as points of reference. […] People indicate the occurrence of an event more than a day or two ago by reference to some other event which took place at the same time or by counting the number of intervening 'sleeps' or, less commonly, 'suns’.” (Evans-Pritchard, 1940, p. 100)
-And as Haynes (2014) reminds us, “vestiges of this are left in our language: the blink of an eye, the shake of a lamb’s tale, moons ago, the crack of dawn”. It is unclear whether these English expressions are actually coming from these specific cultures, but it indicates that we sometimes (though not primarily) also think of moments intervals based on previous events and not units.</Text>
+            <Text>Haynes (2014a) encourages us to stop trying to use units, and points out the works of Sasha Stern and Evans-Pritchard, who respectively analysed the ancient Jews’ and the Nuer’s ways of constructing time in their day-to-day thinking.
+Stern believed that in ancient Judaism, for those speaking Hebrew and Aramaic, “the notion of time as an entity in itself, a human resource, a continuous flow, or a structure of dimension of the created world, [is] simply non-existent” (Stern, 2003, p. 127, cited in Lipton, 2005). While some considered that this belief was naïve (Lipton, 2005), it would be hard to argue that their perception of time was completely different from ours. Like the Nuer, they used events, processed and activities as points of reference for describing time, as opposed to units such as calendar dates, relative dates (two days ago)  and hours of the day. The “irregular, multiple, parallel phases are defined by the events they describe” (Haynes, 2014a), and not by these units. In the case of the Nuer, Evans-Pritchard writes that while names existed for months, they were seldom used and their day-to-day thinking was radically different.
+“Nuer […] generally refer instead to some outstanding activity in process at the time of its occurrence, e.g. at the time of early camps, at the time of weeding, at the time of harvesting, &amp;c., and it is easily understandable that they do so, since time is to them a relation between activities. […] People indicate the occurrence of an event more than a day or two ago by reference to some other event which took place at the same time or by counting the number of intervening 'sleeps’.” (Evans-Pritchard, 1940, p. 100)
+And as Haynes (2014a) reminds us, “vestiges of this are left in our language: the blink of an eye, the shake of a lamb’s tale, moons ago, the crack of dawn”.</Text>
             <Notes>“Though I have spoken of time and units of time the Nuer have no expression equivalent to 'time' in our language, and they cannot, therefore, as we can, speak of time as though it were something actual, which passes, can be wasted, can be saved, and so forth. I do not think that they ever experience the same feeling of fighting against time or having to coordinate activities with an abstract passage of time, because their points of reference are mainly the activities themselves. […]  Events follow a logical order, but they are not controlled by an abstract system, there being no autonomous points of reference to which activities have to conform with precision.”
 (Evans Pritchard p 103)</Notes>
         </Document>
         <Document ID="49">
-            <Title>Make sustainable system</Title>
-            <Text>Make a sustainable system
-	⁃	Can be renewed/upgraded
-	⁃	Use strong technology (see embedded systems, SSDs with no moving parts) as recommended by R Banks
-	⁃	open design —  what is the purpose of it, what would happen to your company if such a product launched, who owns what, etc. [Tie in with part on open design in literature review]</Text>
+            <Title>Sustainable system</Title>
+            <Text>One of the greatest challenges in designing such a system is to make an object that is sustainable, and that can last for several decades. It should be possible to upgrade and renew the item without any loss to the content; as recommended by Richard Banks to me, use strong technology (looking at embedded systems, and components with no moving parts such as solid state drives), and consider open sourced design and software, by openly releasing the plans and code for accessing the data externally, so that it can be used and maintained even if the manufacturing organisation disappears after several years or decades.</Text>
         </Document>
         <Document ID="117">
             <Title>Manual curation</Title>
@@ -2919,11 +2912,13 @@ Give ~opinion~ and analysis
         <Document ID="142">
             <Title>Acknowledgements</Title>
             <Text>I am indebted to the work and help of a few key people which have pointed me to extremely valuable sources, and that helped me in setting more precise objectives and gaining valuable outlooks for both my honours project and my dissertation. Kay Orzech and Miriam Julius here at Duncan of Jordanstone; the latter’s research blog  (Julius, 2014); the research blog of the Materialising Memories (2014) team, led by Elise van den Hoven; the research blogs of Cathy Haynes, artist (The Timekeeper Project, 2013 and Stereochron Island, 2014) and the talks of Jason Scott (n. d. and 2014), technology archivist.
-Thanks to Katrina Gorkovenko, PhD student at Duncan of Jordanstone and alumni of the DIxD course, for recommending me the approach of generative research during Gurus’ Days, as she thought it would provide very valuable insights to encourage users to design their own for this particular issue.</Text>
+Thanks to Katrina Gorkovenko, PhD student at Duncan of Jordanstone and alumni of the DIxD course, for recommending me the approach of generative research during Gurus’ Days, as she thought it would provide very valuable insights to encourage users to design their own for this particular issue.
++ Thanks to the participants of my workshop for their time.
++ R Banks during Show &amp; Tell</Text>
         </Document>
         <Document ID="134">
-            <Title>Results</Title>
-            <Text>put PDFS
+            <Title>J Evaluation: Results table</Title>
+            <Text>[table of raw results]
 
 Mention that to respect confidentiality, participants IDs were swapped between each sheets to avoid cross-tabulation of results.</Text>
         </Document>
@@ -3038,21 +3033,6 @@ Before the straight timeline, people didn’t see the future as being necessaril
         </Document>
         <Document ID="160">
             <Title>Results</Title>
-            <Text>The usages that were most often rated as important were:
-1. Use groups for school/work/activities, and Chat with friends (same proportion)
-3. Keep in touch with friends far away and Follow news of friends (same proportion)
-5. Keep friends up to date
-
-The goals that were the least popular in terms of importance were:
-
-12. Stimulate friends to think about certain topics, and Leisure activities (same proportion)
-14. Follow celebrities or brands
-15. Preserve things that affect me emotionally 
-
-The results do not match with Julius’ (n. d.), who did a similar survey for other purposes and with fewer options. The methodology was however a bit different — she asked her participants to choose the most important goal for them on social networks, whereas I asked, for each goal, how important this goal was to them. Her sample was much larger and more varied (112 participants, in an online questionnaire) and might therefore be more representative. The study was also done two years earlier (December 2012-January 2013). In her results, the most popular goals were, in order: “Keep friends up to date”; “Preserve things that affect me emotionally”; “Stimulate friends to think about certain topics”; and “Satisfy a spontaneous need for communication”. The second and third most popular options in Julius’ (n. d.) results are at the bottom of my ranking.
-With a closer inspection to my results, we can see that while 6 out of 9 people have responded “not at all” (1 or 2) for the statement “Preserve things that affect me emotionally”, the other three have responded “sometimes” (5 or 6). While we can now clearly see that it isn’t a primary goal for my participants, there is a divided opinion and some users do store emotionally important information.
-On the second question, 4 people thought that Facebook would stay popular for 10 years; 3 thought it would stay popular for 5 years; one thought it would stay popular for two years; and one thought it would stay there forever.
-On the third question, a majority (7 respondents) answered that they would like to curate their social, network archive every year or so. Two would prefer the curation to be done automatically even if that meant a lower accuracy; although one of them explained (on the sheet and orally during the workshop) that they would still be able to manually sort artefacts if they thought that it was not curated correctly. One of the respondent who checked the option for manually curating every year or so, indicated that they would also be happy to do so more often (every few weeks).</Text>
         </Document>
         <Document ID="127">
             <Title>Copying/backup</Title>
@@ -3063,15 +3043,21 @@ On the third question, a majority (7 respondents) answered that they would like 
         </Document>
         <Document ID="152">
             <Title>Spatial model of timeline</Title>
-            <Text>Most social networks present our post history using a reverse timeline; newer posts at the top, older posts at the bottom. Viewing individual events in chronological order seem like a rational choice. It is however interesting to ask ourselves how do we think about time, in order to understand why this seems rational. Time itself is not a concept that can be visualised. Whenever we think about time, we actually transform it into space in order to picture it in our minds. The most natural way, for us, is to visualise an arrow going like the one in fig. Timeline/movement.
-[Fig. Timeline/movement]
-It goes into the realm of space because it is a movement; the past is behind us and the future is ahead of us. This idea of movement is repeated in our everyday language (Weger and Pratt, 2008, p. 426 and Boroditsky, 2010, p. 334); we use the words before, after, we have times that are short and long, we have intervals (literally, spaces in between) between two times; watches can be 5 minutes fast or ahead, and calendars and clocks make us think of time on segments with a start and an end (the beginning of the month, the middle of the day). However, languages vary and research has shown that different cultures and languages have a different mental representation of time, visually, and that this idea of a line going from left to right is in fact a cultural, nurtured interpretation of time that we have as Westerners, but is not innate.
+            <Text>Time itself is not a concept that can be visualised. Whenever we think about time, we actually transform it into space in order to picture it in our minds. The most natural way, for us, is to visualise an arrow going like the one in [fig. 3.1].
+[fig. 3.1]
+It goes into the realm of space because it is a movement; the past is behind us and goes to the future, ahead of us. This idea of movement is repeated in our everyday language (Weger and Pratt, 2008, p. 426 and Boroditsky, 2010, p. 334); we use the words before, after, we have times that are short and long, we have intervals (literally, spaces in between) between two times; watches can be 5 minutes fast or ahead, and calendars and clocks make us think of time on segments with a start and an end (the beginning of the month, the middle of the day). Most social networks present our post history using a reverse timeline; newer posts at the top, older posts at the bottom.
+However, languages vary and research has shown that different cultures and languages have a different mental representation of time, visually, and that this idea of a line going from left to right is in fact a cultural, nurtured interpretation of time that we have as Westerners, but is not innate.
 </Text>
         </Document>
         <Document ID="119">
             <Title>Digital heritage</Title>
-            <Text>A rare exception to this is Digital Heirlooms, a series of conceptual objects developed by Microsoft Research (Odom et al., 2012) to investigate how digital artefacts can be passed down and inherited. 
-[Todo: list downsides (too conceptual, representation of data is linear,  testing as a digital heirloom); reaction of users + what I want to test from that. + Tie in with section in Context about the reaction of users, and with W. Moncur’s papers on digital death]</Text>
+            <Text>A rare exception to this is Digital Heirlooms, a series of prototypes developed by Microsoft Research (Odom et al., 2012) to investigate how digital memories can be passed down and inherited. As the name implies, these conceptual objects were regarded as equivalents to photographic albums and diaries that can be passed down between generations. The three prototypes showed backups of Twitter,  locally-stored photographs, and Flickr [fig. 1.3].
+[fig 1.3]
+The testing of these prototypes with users revealed that while the experience was positive and led to engaging conversations in the families, doubts were raised on the recording of social networks:
+“these instances highlighted tensions around integrating social networking content from members within the collective family archive. Participants made key distinctions between the thoughtful recording of one's life believed to be reflected in their ancestors' diaries, and their own practices of posting less mindful social networking content targeted at multiple audiences, often outside of the family.” (Odom et al., 2012a)
+The question of privacy was also important. Users desired the have the ability to curate what was and wasn’t kept:
+“Related concerns also emerged around how a device like BackupBox could cause family members to self-censor the social networking content they posted, or paralyse these practices completely. Some families proposed ways to work around these tensions, such as using a special hashtag or a specific application to send updates only to Backup Box.” (Odom et al., 2012a)
+As Moncur (2014) also noted, Web 2.0 sites have largely changed the audience and publicity of memorials, and the ability to curate how one would like to be remembered is important. These insights encouraged me to focus first on designing for the users themselves, rather than exploring the much deeper question of digital heritage. While the idea behind these prototypes (particularly Backup Box, the Twitter archive) are close to my honours project idea, they did not fulfil the same goals. By being too conceptual and technologically fragile, they would not withstand decades of use; their representation of time was simplistic and linear, and not adapted to very large-scale archives; and the mindset going into designing and testing these was for heirlooms, in a family setting. The preliminary ethnographical research in this study, though, was very rich in insights for understanding how artefacts, sometimes valueless, become sentimentally important heirlooms (Odom et al, 2012a; see also Banks, 2010 and Petrelli et al., 2008).</Text>
         </Document>
         <Document ID="144">
             <Title>Table of Contents</Title>
@@ -3083,7 +3069,11 @@ It goes into the realm of space because it is a movement; the past is behind us 
             <Title>Questions asked</Title>
         </Document>
         <Document ID="161">
-            <Title>Retrieval</Title>
+            <Title>Retrieval of memorable content</Title>
+            <Text>In this task participants were to go on their Facebook account, using either their laptop, tablet or mobile phone, and retrieve 3 pictures that made them smile, or that stuck in their mind for any particular reason. The full methodology and motives for this activity are explained in [appendix D], and a table of the raw results can be read in [appendix E].
+The results of this activity were divided. For two thirds of the pictures, people knew on which profile to look; they associated, in their memory, the picture with the person who posted it. In over half of these cases, they knew exactly in which photo album it was (as albums are generally unique per particular event or date, or they were in the special profile/cover pictures album); in the remaining cases, they had to browse through a few albums to find the photo they were thinking about. Only one photo was sent in private message.
+For six photographs, the participants did not know in which album it was, and instead scrolled down the users’ timeline until they found the picture. One other browsed the timeline but used the links to access a specific time period, knowing when the photo was posted. Two photos could not be found at all; either by not remembering where it was located, or by remembering where it was located but could not find it there.
+Of the 27 (9⨉3) times a photo has been searched, 12 times it was considered a laborious process, and 11 times participants have had no trouble finding it. Two times it was considered really hard to find it, and in the last two cases the photo wasn’t found at all. The most interesting insights we can get from this activity are by comparing the experience of retrieval with the process used. In the 14 times the retrieval was considered either “laborious” or troublesome, none of them was for “I went to the profile and knew which [album] it was in”; this happened only when the exact location of the item was not known precisely, and some research through the albums, timeline or message history had to be done first. This isn’t exactly surprising (having to spend longer on finding a picture means it is more laborious than finding it straight away) but the amount of times this happened demonstrates that our ability to find data is limited to the amount of “metadata” that we have stored with it: most people knew which friend this memory was linked with, but less than half could remember in which “box” it was stored on the social network. This indicates that more levels of classification and sorting must be available when browsing a large archive; for example, being able to know which other friends were tagged with it, at which period it happened, and possibly where it happened, if the content is geotagged.</Text>
         </Document>
         <Document ID="128">
             <Title>Indexing &amp; cataloguing</Title>
@@ -3454,21 +3444,20 @@ Grades range from 1 to 5.
         </Document>
         <Document ID="162">
             <Title>Procedure followed</Title>
-            <Text>The workshop started with a short introduction to my project, so that participants understood what are my motivations and what I wanted to get from them. I have presented the topic of my dissertation and honours project, explained the challenges in visually mapping a life, and did a short lecture on time visualisation, summarising what I have discussed in the previous chapter — the cultural differences in time representations, the normalisation of timelines, and the issues with linear timelines for time representation. The slides and notes from the lecture are available in [appendix 2].
-The participants were then asked to perform four tasks. [__RW__] They were later asked to draw their life in a non-linear way, and perform a few tasks of retrieval on Facebook.</Text>
+            <Text>The workshop started with a short introduction to my project, so that participants understood what are my motivations and what I wanted to get from them. I have presented the topic of my dissertation and honours project, explained the challenges in visually mapping a life, and did a short lecture on time visualisation, summarising what I have discussed in the previous chapter — the cultural differences in time representations, the normalisation of timelines, and the issues with linear timelines for time representation. The slides and notes from the lecture are available in [appendix A].
+The participants were then asked to perform four tasks: draw their life in a non-linear way, retrieve old photographs on Facebook, answer a survey and evaluate different cartographies of time. Methodologies for each activity can be found in [appendices B, D, F and H] respectively.</Text>
         </Document>
         <Document ID="129">
-            <Title>Archive Team</Title>
-            <Text>In 2009, following the quick shutdown of hosting sites like AOL Hometown and Podango, technology historian and web archivist Jason Scott started the Archive Team, a “loose collective of rogue archivists, programmers, writers and loudmouths dedicated to saving our digital heritage”. The Archive Team aggressively downloads whole websites that risk to close down soon, and then mirrors them (i.e. put a static copy online so that the contents are still accessible). Their mission statement helps us understand why we cannot trust online services to be the only holders of our data:
-“Corporations do not contemplate their own inevitable end. At least, they don't do it in public, unless they are in really bad shape. When times are good, those thoughts are pushed away, and end users are encouraged to do the same. When times are bad, they tend to go very bad, very quickly - if you're lucky, you'll have an announcement. Your data is never totally safe. Backing up your data is always necessary, even if it's stored elsewhere.
-Entropy will rear its head, if you leave things up to chance. You will lose 4 years worth of email, including communications from the early days of your marriage, and the receipt to that flat panel monitor you bought online that now has tons of dead pixels. It doesn't take much for catastrophic data loss; one absent-minded mistake, or the ravages of time, can wipe out years of data.
-There is real convenience to web services like Google Apps. It's tempting to get wrapped up in that convenience and never take a step outside of it. [With a little work, convenience can be evenly matched with user control and agency.]
-Businesses can be extremely helpful, but they are also self-interested. As benevolent as Web services present themselves to be, your data is valuable to them - they aren't running this for your benefit. And it should be valuable to you, too.”</Text>
-            <Comments>http://ascii.textfiles.com/archives/1649 [Accessed 20th October 2014]
-http://archiveteam.org [Accessed 20th October 2014]
-Using “crawling”, a technique used by search engines to easily find all the pages of a website by copying a page and recursively going through all of its links.
-In information theory, entropy is the loss of information considered useful (Barrett, 1995, p.185)
-http://archiveteam.org/index.php?title=Why_Back_Up%3F [Accessed 20th October 2014]</Comments>
+            <Title>Collecting a culture</Title>
+            <Text>To combat this issue, following the quick shutdown of hosting sites like Geocities, AOL Hometown and Podango, technology historian and web archivist Jason Scott started the Archive Team in 2009 (Scott, 2009). Described as a  “loose collective of rogue archivists, programmers, writers and loudmouths dedicated to saving our digital heritage” (The Archive Team, 2014), The Archive Team aggressively downloads whole websites that risk to close down soon, and then mirrors them. Their mission statement helps us understand why we cannot trust online services to be the only holders of our data:
+“Corporations do not contemplate their own inevitable end. At least, they don't do it in public, unless they are in really bad shape. When times are good, those thoughts are pushed away, and end users are encouraged to do the same. When times are bad, they tend to go very bad, very quickly - if you're lucky, you'll have an announcement. Your data is never totally safe. Backing up your data is always necessary, even if it's stored elsewhere. […] Businesses can be extremely helpful, but they are also self-interested. As benevolent as Web services present themselves to be, your data is valuable to them - they aren't running this for your benefit. And it should be valuable to you, too.” (The Archive Team, 2014)
+
+The Archive Team has notably rescued pages on GeoCities, a hosting site that was very popular in the mid- to late 90s. It was acquired by Yahoo! in 1999 (in what is now often referred to as one of the worst deals of the dot-com bubble (Willard, 2012 and Kopytoff, 2013)) and suffered a great decline since, ultimately leading Yahoo! to close down Geocities in 2009.
+Although often considered of little value by the modern Internet community (Scott, 2009) due to the tacky and amateur design of the websites (animated GIFs, excessive animations, auto-playing MIDI music… [fig. 1.1]), archivists have decided to back it up and place mirrors of it online for cultural reasons:
+But please recall, if you will, that for hundreds of thousands of people, this was their first website. This was where you went to get the chance to publish your ideas to the largest audience you might ever have dreamed of having. Your pet subject or conspiracy theory or collection of writings left the safe confines of your Windows 3.1 box and became something you could walk up to any internet-connected user, hand them the URL, and know they would be able to see your stuff. In full color. […] Already, little gems have shown up in the roughly 8000+ sites I’ve archived. Guitar tab archives. MP3s that surely took the owners hours to rip and generate. GIF files, untouched for 13 years. Fan fiction. Photographs and websites of people long dead. All stuff that, I think, down the line, will have meaning. It’s not for me to judge. It’s for me to collect. (Scott, 2009)
+There is certainly a cultural aspect to the whole archive; the visual style of 90s websites, although generally considered of poor taste, has a cultural meaning and brings a certain form of nostalgia and reminiscence when we see it. The Museum of the Moving Image (2012), in New York, set up an installation of “Under Construction” GIFs [fig. 1.2] found in the GeoCities archive, small animated symbols that were so commonplace on personal websites that they became a symbol of this era in computing history, a meaning obviously acquired with time. But more importantly, there are indeed memories, photographs, stories, works shared by people 15 to 20 years ago that would otherwise be lost forever without this initiative.</Text>
+            <Comments>Using “crawling”, a technique used by search engines to easily find all the pages of a website by copying a page and recursively going through all of its links.
+Mirroring means putting up a static copy of the website on another website, so that its contents remain accessible</Comments>
         </Document>
         <Document ID="154">
             <Title>Intro</Title>
@@ -3486,7 +3475,10 @@ http://archiveteam.org/index.php?title=Why_Back_Up%3F [Accessed 20th October 201
             <Title>Recording</Title>
         </Document>
         <Document ID="163">
-            <Title>Life maps</Title>
+            <Title>Life mapping</Title>
+            <Text>In the first activity, participants of the workshop were invited to map their life visually. The full methodology is described in [appendix B], and the description of results are in [appendix C]
+Overall, we can notice that the line remains a mode of representation chosen by most people, even when asked to attempt to go away from it. A lot of people attempted to classify the events in their lives by emotional value, whether positive or negative; those used a single line. Of the people who used multiple lines, forking and merging again, there was a variety of contexts used. Most people considered schools as the main periods in their life, each change of school generally meaning a change in location and social circle; only Map 1 prefers to focus on a periodical change of goals and values. For all participants, events and ‘periods’ themselves were points of reference, and time units were not important at all; periods were not normalised and not proportional to each other compared to the amount of years they lasted.
+When looking at the highlighted sections of the maps, i. e. the life events that appear on social media, there was a large variation in the proportion of the life map that existed online; this emphasised the content that participants put on their map, a lot of them putting a large focus in their most recent years, whereas some others had a more global view, from earlier on. Given the age of participants (early twenties), it coincides with the emergence of social networks that most of them started sharing their life during high school, some of them only at the beginning of university. Most maps seem to say that there was a “before” and “after” social networks, where everything was suddenly logged online after they registered and started being active on social networks. But a look at maps 2 and 5, which provide a greater degree of precision about events, shows that obviously only some aspects of the life are shared socially; generally these were positive events.</Text>
         </Document>
         <Document ID="155">
             <Title>Five orders of magnitude</Title>
@@ -3494,52 +3486,53 @@ http://archiveteam.org/index.php?title=Why_Back_Up%3F [Accessed 20th October 201
         </Document>
         <Document ID="147">
             <Title>Cultural differences</Title>
-            <Text>For example, Tversky et al. (1991) demonstrated that the origin of the direction can stem in the reading direction. When we read, the upcoming (future) information is on the right; we make progress by going right in a sentence or book. Speakers of languages that are read from right to left actually think of time going from right to left, the opposite direction of how Western European cultures see it. Participants were asked to put various sets of stickers in the chronological order (for example breakfast, lunch and dinner, or pictures from a person from younger to older); Arabic and Hebrew speakers ordered them from right to left, whereas English speakers did the reverse. In every day life, it is possible to see this difference, for example, in computer software; progress bars are “reversed” in these languages, showing that progress is thought of going from the right to the left (see fig. Timeline/progressBarRTL). 
-[Fig. Timeline/progressBarWestern]
-[Fig. Timeline/progressBarRTL]
-But as Boroditsky (2010) explains, it is not simply the reading direction that influences our perception of time. The study has been done with the Pormpuraaw community of Australian aboriginals. Interestingly, their languages do not have words for left or right; instead they use absolute directions (North, South, West, East) for everything. They have a great knowledge of the world around them to know which way they are facing, and so they would say things like  “move your cup to the north-west a little bit”, or “the boy standing on the south of Mary is my brother”. And so when they have been asked to order stickers, instead of putting them from right to left in front of them, they lay the stickers down and have been ordering them from East to West — just like the sun, from morning to evening; proving that time can be visualised in other spatial models.  
-Mandarin speakers tend to think of time vertically, more often than we do, even though modern Chinese is read horizontally. Their conception of movement is also different — they see a moving timeline and a static observer, whereas we tend to visualise ourselves moving in the static timeline (Santiago et al., 2007, p. 512). Speakers of the Aymara language, in South America, think of time from left to right, like Arabic speakers, even though the language reads right-to-left; this is because they see the past as being in front of them, something that they can look at, whereas the future is in their back, it is the unknown, what you cannot see. (Boroditsky, 2010) </Text>
-            <Comments>Correct references - they are actually cross-referenced from other work in Santiago et al.’s paper (Times also flies from R to L) </Comments>
+            <Text>For example, Tversky et al. (1991) demonstrated that the origin of the direction can stem in the reading direction. When we read, the upcoming (future) information is on the right; we make progress by going right in a sentence or book. Speakers of languages that are read from right to left actually think of time going from right to left, the opposite direction of how Western European cultures see it, as demonstrated in Tversky et al.’s experiment. In every day life, it is possible to see this difference, for example, in computer software; progress bars are “reversed” in these languages, showing that progress is thought of going from the right to the left (see [fig. 3.2 and 3.3]). 
+[Fig. 3.2]
+[Fig. 3.3]
+But as Boroditsky (2010) explains, it is not simply the reading direction that influences our perception of time; the Pormpuraaw community of Australian aboriginals exclusively use absolute directions and do not have words for left or right. This influences their perception of time, which is linked to the sun’s (East to West). Mandarin speakers tend to think of time vertically, more often than we do, even though modern Chinese is read horizontally. Their conception of movement is also different — they see a moving timeline and a static observer, whereas we tend to visualise ourselves moving in the static timeline (Santiago et al., 2007, p. 512).</Text>
+        </Document>
+        <Document ID="172">
+            <Title>Tech review</Title>
         </Document>
         <Document ID="139">
-            <Title>Lecture slides/transcript</Title>
+            <Title>A Lecture slides/transcript and questionnaire</Title>
             <Text>Notes available at: http://socialdigital.dundee.ac.uk/~vloux/blog/archives/411
 Slides at: http://www.slideshare.net/victorloux/preserving-digital-memories-workshop
 + include questionnaire PDF</Text>
         </Document>
         <Document ID="164">
-            <Title>Methodology</Title>
-            <Text>In the last activity, I have asked participants to look at 13 historical representations of time, selected and extracted from Cartographies of Time (Rosenberg and Grafton, 2010), and rate each of them on four criteria: clarity (how self-explanatory the map is), relevance (how pertinent would that be to map a life), efficiency (how quickly could we find information on it) and beauty (the visual aesthetics of it). The objective of this activity was to find what are positive and negative patterns in the given designs, in order to inform a new design. 
-Ratings were to be made freely on a line segment, from “not at all” to “absolutely”, which were lated translated into notes from 1 to 5 for comparison. All the cartographies of time shown have been presented orally during the introductory presentation before the evaluation exercise.</Text>
+            <Title>H Evaluation:Methodology</Title>
+            <Text>In the last activity, I have asked participants to look at 13 historical representations of time, selected and extracted from Cartographies of Time (Rosenberg and Grafton, 2010), and rate each of them on four criteria: clarity (how self-explanatory the map is), relevance (how pertinent would that be to map a life), efficiency (how quickly could we find information on it) and beauty (the visual aesthetics of it). The objective of this activity was to find what are positive and negative patterns in the given designs, in order to inform a new design. Ratings were to be made freely on a line segment, from “not at all” to “absolutely”, which were lated translated into notes from 1 to 5 for comparison. All the cartographies of time shown have been presented orally during the introductory presentation before the evaluation exercise.</Text>
         </Document>
         <Document ID="156">
             <Title>Historical timelines</Title>
             <Synopsis>Timelines over history, quick history and particularly go over fact that they are new and they have been normalised on units in mid-18th century</Synopsis>
-            <Text>Our representations of time are always in the form of a line, or a circle. The direction may change, the perception in terms of movement changes, but the general concrete representation is a line. Over time though, this has changed heavily and the timeline as we know it hasn’t always been there, particularly in terms of normalisation of units; events were independent of markers, used to have multiple dimensions, be organised into streams of other events separating and merging, showing multiple events in parallel.
-The book Cartographies of Time by Rosenberg and Grafton (2010) is an excellent resource to understand the history and politics of time representations, from the earliest calendars to the modern timelines. Many examples are given, and  we can see that a variety of techniques and designs were used, and I have actually used some of these examples for my workshop (see chapter __EDIT CHAPTER NUMBER__). One of my favourite cartographies presented in the book is Strom der Zeiten [fig. Cartographies/11-StromDerZeiten], a novel design by Johannes Strass using the metaphor of streams. The full description that accompanied it is very rich and pertinent:
- “However natural it may be to assist the perceptive faculty in its assumption of abstract time by the idea of a line and however inseparable the sensible and mental objects may have become by the figurative method of speech it is astonishing that […] the image of a Stream should not have presented itself to any one whose consideration had been attracted to this object. The expressions of gliding, and rolling on; or of the rapid current, applied to time, are equally familiar to us with those of long and short. Neither does it require any great discernment to trace as a farther exemplification of this assertion, in the rise and fall of empire, an allusion to the source of a river, and to the increasing rapidity of its current, in proportion with the declivity of their channels towards the engulfing ocean. This metaphor, by presenting something more congenial to a common object of sense, and at the same time more agreeable in its variations to the nature of the abstract notion, gives greater liveliness to the ideas, and impresses events more forcibly upon the mind, than the stiff regularity of the straight line. Its diversified power likewise of separating the various currents into subordinate branches, or of uniting them into one vast ocean of power of dispersing them a second time, but still in such a manner that they are always ready under the guidance of some great conqueror to converge again into one point, tends to render the idea by its beauty more attractive, by its simplicity more perspicuous, and by its resemblance more consistent.” (Strass, 1810, pp. 8-10; original reference in Rosenberg and Grafton, 2010)
-It is only in the mid-18th century that Joseph Priestley designed the influential New Chart of History [fig. Cartographies/9-NewChartOfHistory], using normalised units and linear blocks, that is the foundation of what we are used to today [fig. Cartographies/HistoryCommunications]. </Text>
+            <Text>Although our general representation of time is this arrow with convenient units, the timeline as we know [fig. 3.5] it hasn’t always been there, particularly in terms of normalisation of units; events were independent of markers, used to have multiple dimensions, be organised into streams of other events separating and merging, showing multiple events in parallel.
+[fig. 3.5]
+The book Cartographies of Time by Rosenberg and Grafton (2010) is an excellent resource to understand the history and politics of time representations, from the earliest calendars to the modern timelines. Many examples are given, and we can see that a variety of techniques and designs were used, and I have actually used some of these examples for my workshop (see next chapter). One of my favourite cartographies presented in the book is Strom der Zeiten [fig. Cartographies/11-StromDerZeiten], a novel design by Johannes Strass using the metaphor of streams. The full description that accompanied its release is particularly pertinent:
+ “The expressions of gliding, and rolling on; or of the rapid current, applied to time, are equally familiar to us with those of long and short. Neither does it require any great discernment to trace as a farther exemplification of this assertion, in the rise and fall of empire, an allusion to the source of a river, and to the increasing rapidity of its current, in proportion with the declivity of their channels towards the engulfing ocean. […] Its diversified power likewise of separating the various currents into subordinate branches, or of uniting them into one vast ocean of power of dispersing them a second time, but still in such a manner that they are always ready under the guidance of some great conqueror to converge again into one point, tends to render the idea by its beauty more attractive, by its simplicity more perspicuous, and by its resemblance more consistent.” (Strass, 1810, pp. 8-10; cited in Rosenberg and Grafton, 2010)
+It is only in the mid-18th century that Joseph Priestley designed the influential New Chart of History [fig. 3.6], using normalised units and linear blocks, that is the foundation of what we are used to today. </Text>
         </Document>
         <Document ID="148">
             <Title>Circular representation</Title>
-            <Text>[Fig. Timelines/Ouroboros]
-This linear timeline, however, is not the only way of representing time; it can also be seen as a recurring cycle. On our day-to-day life, we mostly use this representation for analog clock dials; this is borrowed from sundials, and makes sense when we think of the rotation of the Earth. It really is a continuous cycle, which doesn’t really start nor end happening, but that we can still quantify — a day has passed when a full rotation has been done, and we can map time units to it, from midnight to 11:59pm. This representation, however, is rarely used nowadays when talking about months or years, even though the same astronomical principles apply. Would it however be relevant for representing history, or individual lives?
-The symbol of the Ouroboros, a snake or a dragon eating its tail, is extremely ancient; its first known representation can be found in the Enigmatic Book of the Netherworld, a funerary text written in the 14th century BC in ancient Egypt (Hornung, 1999). It has however been used by many cultures across the globes, in different epochs and contexts (mythological, religious, alchemical) and for various purposes. In many cases, for example Mayan and Pagan traditions, life itself was represented as an ouroboros; birth wasn’t seen as a starting point, and death not as an end point, but it was rather a continuation of someone else’s life, with each cycle being an incarnation. Again, languages and expressions reflect these ways of visualising time spans or lives; in Balinese, the word for grandparent and grandchildren is the same (kumpi), as they would be the same person ultimately.</Text>
+            <Text>This linear timeline, however, is not the only way of representing time; it can also be seen as a recurring cycle. On our day-to-day life, we mostly use this representation for analog clock dials; this is borrowed from sundials, and makes sense when we think of the rotation of the Earth. It really is a continuous cycle, which doesn’t really start nor end happening, but that we can still quantify — a day has passed when a full rotation has been done, and we can map time units to it, from midnight to 11:59pm. This representation, however, is rarely used nowadays when talking about months or years, even though the same astronomical principles apply. Would it however be relevant for representing history, or individual lives?
+[fig. 3.4]
+In many traditions (Mayan and Pagan, for example), lives were seen as the continuation of someone else’s life; birth wasn’t seen as a starting point, and death not as an end point, but it was rather a recurring cycle. Graphically, these lives could be represented as an ouroboros [fig. 3.4].</Text>
+            <Comments>Again, languages and expressions reflect these ways of visualising time spans or lives; traditionally, in Bali, the word for grandparent and grandchildren is the same (kumpi), as they would be the same person ultimately. (Haynes, 2014b)</Comments>
+        </Document>
+        <Document ID="173">
+            <Title>Conclusion</Title>
         </Document>
         <Document ID="165">
             <Title>Results</Title>
-            <Text>The detail of results are available in [appendix Q-RETRIEVAL]. The results of this activity were divided. For two thirds of the pictures, people knew on which profile to look; they associated, in their memory, the picture with the person who posted it. In over half of these cases, they knew exactly in which photo album it was (as albums are generally unique per particular event or date, or they were in the special profile/cover pictures album); in the remaining cases, they had to browse through a few albums to find the photo they were thinking about. Only one photo was sent in private message.
-For six photographs, the participants did not know in which album it was, and instead scrolled down the users’ timeline until they found the picture. One other browsed the timeline but used the links to access a specific time period, knowing when the photo was posted. Two photos could not be found at all; either by not remembering where it was located, or by remembering where it was located but could not find it there.
-Of the 27 (9⨉3) times a photo has been searched, 12 times it was considered a laborious process, and 11 times participants have had no trouble finding it. Two times it was considered really hard to find it, and in the last two cases the photo wasn’t found at all. The most interesting insights we can get from this activity are by comparing the experience of retrieval with the process used. In the 14 times the retrieval was considered either “laborious” or troublesome, none of them was for “I went to the profile and knew which [album] it was in”; this happened only when the exact location of the item was not known precisely, and some research through the albums, timeline or message history had to be done first. This isn’t exactly surprising (having to spend longer on finding a picture means it is more laborious than finding it straight away) but the amount of times this happened demonstrates that our ability to find data is limited to the amount of “metadata” that we have stored with it: most people knew which friend this memory was linked with, but less than half could remember in which “box” it was stored on the social network. This indicates that more levels of classification and sorting must be available when browsing a large archive; for example, being able to know which other friends were tagged with it, at which period it happened, and possibly where it happened, if the content is geotagged.</Text>
         </Document>
         <Document ID="157">
-            <Title>Methodology</Title>
+            <Title>D Retrieval:Methodology</Title>
             <Text>In this task participants to go on their Facebook account, using either their laptop, tablet or mobile phone, and retrieve 3 pictures that made them smile, or that stuck in their mind for any particular reason. The main rule was that this picture had to be at least one year old (by the time of the workshop, this meant posted before December 2013). It did not matter whether the picture was on their own profile, on a friend’s profile, on a community page, or on a group. They did not have to be photos on which the participants or their friends were; funny pictures or memes that particularly stuck in their mind would have been fine too. 
 The objective of this exercise was to get an understanding of the mental process they go through and how they proceed to find what they want, when they are looking to retrieve old content on Facebook. For each of the three photographs they were asked to describe which method they used to fetch it, how easy for them it was to find it, and if they found it at all (in cases where the picture was not where the user originally thought it was, or if the picture was deleted, or if the account holder deactivated his account).</Text>
         </Document>
         <Document ID="20">
             <Title>Intro</Title>
-            <Text>As we have seen, the technical complexity of preserving digital information is a problem in itself. But even once we have chosen a suitable preservation scheme, there is another equally important question that must then be raised: how do we organise and retrieve our data? We cannot simply gather all digital items and let them pile up unorganised. In the context of a digital personal life, several artefacts are created daily (social network updates, emails, messages) and after a decade this can build up to tens of thousands of pieces of data, that we will need to go through once we are looking for something.</Text>
             <Notes>Find exact ref in Rendgen et al, possibly quote from it</Notes>
         </Document>
         <Document ID="149">
@@ -3548,41 +3541,50 @@ The objective of this exercise was to get an understanding of the mental process
 
  “However natural it may be to assist the perceptive faculty in its assumption of abstract time by the idea of a line and however inseparable the sensible and mental objects may have become by the figurative method of speech it is astonishing that upon this near advance and with similar assistance from the delicate preciseness of language the image of a Stream should not have presented itself to any one whose consideration had been attracted to this object. The expressions of gliding, and rolling on; or of the rapid current, applied to time, are equally familiar to us with those of long and short. Neither does it require any great discernment to trace as a farther exemplification of this assertion, in the rise and fall of empire, an allusion to the source of a river, and to the increasing rapidity of its current, in proportion with the declivity of their channels towards the engulfing ocean. This metaphor, by presenting something more congenial to a common object of sense, and at the same time more agreeable in its variations to the nature of the abstract notion, gives greater liveliness to the ideas, and impresses events more forcibly upon the mind, than the stiff regularity of the straight line. Its diversified power likewise of separating the various currents into subordinate branches, or of uniting them into one vast ocean of power of dispersing them a second time, but still in such a manner that they are always ready under the guidance of some great conqueror to converge again into one point, tends to render the idea by its beauty more attractive, by its simplicity more perspicuous, and by its resemblance more consistent.” (Strass, 1810, pp. 8-10)</Text>
         </Document>
+        <Document ID="174">
+            <Title>E Retrieval: Results table</Title>
+            <Text>[table of results for Retrieval activity]</Text>
+        </Document>
         <Document ID="166">
-            <Title>Methodology</Title>
-            <Text>In the first activity, participants of the workshop were invited to map their life visually. The method used is known as projective generative research: an ambiguous, open-ended instruction was given to participants (“draw your life, without using a one-axis/linear timeline”), to give them the opportunity to think about their life in a non-conventional way and inform my concept developments with different perspectives. This type of generative research is called projective as it is “focusing on expressive exercises enabling participants to articulate thoughts, feelings, and desires that are difficult to communicate through more conventional verbal means.” (Martin and Hanington, 2012, p. 94); this is in opposition to constructive generative research, which is more constrained and less expressive, and more appropriate for later stages of designing (Martin and Hanington, 2012). 
+            <Title>B Maps:Methodology</Title>
+            <Text>The method used is known as projective generative research: an ambiguous, open-ended instruction was given to participants (“draw your life, without using a one-axis/linear timeline”), to give them the opportunity to think about their life in a non-conventional way and inform my concept developments with different perspectives. This type of generative research is called projective as it is “focusing on expressive exercises enabling participants to articulate thoughts, feelings, and desires that are difficult to communicate through more conventional verbal means.” (Martin and Hanington, 2012, p. 94); this is in opposition to constructive generative research, which is more constrained and less expressive, and more appropriate for later stages of designing (Martin and Hanington, 2012). 
 This activity has already been done at a conference by Haynes (2012), and a slide of examples was shown during the activity [fig. Cartographies/CathyHaynesHowtoMapaLife2012]. However, once the participants of my workshop were finished drawing their map, they were also asked to highlight the parts of their map which were visible or published on social networks, allowing me to grasp the extent of a life that we could display using these alternative life cartographies.</Text>
         </Document>
         <Document ID="21">
             <Title>Applying it to a personal life</Title>
-            <Text>But should we think using events more than with units? Timelines and mechanical clocks are devices that have appeared relatively recently, over the course of the 18th century (Haynes, 2013a); yet they have shaped our vision of time to be incredibly linear and normalised. But Joseph Priestley, the inventor of the modern history timeline as we know it, admitted this drawback:
-“[…] his innovations posed problems too: historical narrative is not linear. It moves backward and forward making comparisons and contrasts, and branches irregularly following plots and subplots. Part of the advantage of the matrix form was that it facilitated the scholar’s understanding of the many intersecting trajectories of history. The form of the timeline, by contrast, emphasised overarching patterns and the big story. This proved a great advantage in some respects, but not all. And Priestley readily admitted this. For him, the timeline was a “most excellent mechanical help to the knowledge of history,” not an image of history itself.” (Rosenberg and Grafton, 2010, p. 20)
-
-The future wasn’t always seen as being progressive; the Apocalypse was awaiting for us, and the wars and diseases never seemed to stop. According to Haynes (2014b), it is only in the 1620s that Francis Bacon challenged this idea, thinking that the technological and scientific revolutions would mean we would keep perfecting ourselves and the nature. That is the reasoning and model that influenced the timeline (and as we have seen, a symbolism that’s also reused in progress bars, on computers): the further we get on the line, the more progress we have made. But this idea is not necessarily true of our lives. Just like history, reducing them to lines reduces their complexity, and does not picture them accurately.  Lives are knotty and elusive, and would maybe better be represented like these representations of Tristram Shandy’s life:
-[Fig: TristamShandy/diagA]
-[fig. TristamShandy/diagB]
+            <Text>Should we think using events more than with units? Timelines and mechanical clocks are devices that have appeared relatively recently, over the course of the 18th century (Haynes, 2013a); yet they have shaped our vision of time to be incredibly linear and normalised. But Joseph Priestley, the inventor of the modern history timeline as we know it, admitted this drawback:
+“Historical narrative is not linear. It moves backward and forward making comparisons and contrasts, and branches irregularly following plots and subplots. Part of the advantage of the matrix form was that it facilitated the scholar’s understanding of the many intersecting trajectories of history. The form of the timeline, by contrast, emphasised overarching patterns and the big story. This proved a great advantage in some respects, but not all. And Priestley readily admitted this. For him, the timeline was a “most excellent mechanical help to the knowledge of history,” not an image of history itself.” (Rosenberg and Grafton, 2010, p. 20)
+The concept of progress is key to the timeline: the further we get on the line, the more progress we have made. But just like history, reducing our lives to lines reduces their complexity, and does not picture them accurately.  Lives are knotty and elusive, and would maybe better be represented like these representations of Tristram Shandy’s life [fig. 3.7 and 3.8]:
+[fig 3.7]
+[fig. 3.8]
 Sadly, the linear timelines offered by social networks offer none of this complexity. I think however that for my project, it is relevant to explore these different options and go away from the classical, linear representation of time. It would not be ambitious and meaningful to keep this model, because the memories, people and places we know link to each other and that is how they make sense, that is what makes them valuable to our eyes. Cathy Haynes did question it for her Timekeeper residency:
 “So what if we tried an experiment and mapped our life as we really experience it to be: a map without measurements? One that gives space to events according to their significance rather than their length in clock-time?
 What if we made that map just for our self and included what we would leave out of a job application – a map that includes the mazes and trapdoors along with the parades of glory and the leaps of progress? Might we value the failures and the ‘time wasted’ more then? And when we accept and value our past experience in all its fullness, how does that change our view of the future?” (Haynes, 2013b)
 Of all the different models that I have shown here, the critical question is now to figure out which one is more relevant, and works best, for representing a life based on the data available on social networks and, hopefully, change our view of the future. </Text>
+            <Comments>According to Haynes (2014b), the future wasn’t always seen as being progressive; the Apocalypse was awaiting for us, and the wars and diseases never seemed to stop. It is only in the 1620s that Francis Bacon challenged this idea, advancing that technological and scientific revolutions would mean we would keep perfecting our world.</Comments>
             <Notes>“And it surely is faulty. A measurement is only a shadow of the thing. If we mistake the map for the land, the score for the performance, the timeline for the life, then we reduce existence to its shadows. As the philosopher Henri Bergson warned, lived time in all its fullness can’t be measured. Doing so risks reducing a life to a machine or commodity.”
 
 (Haynes, 2013b)</Notes>
         </Document>
         <Document ID="158">
-            <Title>Methodology</Title>
-            <Text>The third task was a questionnaire, asking the participants about their use of social media and their opinion of the project. These questions will only be useful for the honours project, so while I have included the results here, the results will not be analysed in too much depth. The questionnaire was structured, with limited response options, for quantitative results; although self-reporting may lead to uncontrolled and inaccurate results (Martin and Hanington, 2012, p. 127), it was the most appropriate choice for these questions. A comprehensive ethnographic analysis of  behaviours on social networks would be more accurate but would raise privacy concerns, and the development of an ethical framework for such a study (see Hutton and Henderson, 2013) was not an option given the timeframe and relatively low importance of the results.
- The first question, “What do you use social media for?”, asked users to rate, for 15 statements (based on Julius, n. d., p. 6), how strongly they used social media for. For examples, to the statements “Keep friends up to date”,  “Define my reputation” or “Follow celebrities or brands”, they could, on a scale, define how much if it wasn’t their use at all, not primarily, or if it was mostly what they used it for. The 15 statements can be found in [see appendix Q-QUESTIONS] and the raw results can be found in [see appendix R-QUESTIONS].
-The second question simply asked them to estimate, in their opinion, how many years would Facebook stay popular before being replaced by another social network, if they thought that it would be replaced at all. The third and last question, centred on the honours project, asked participants whether they would be willing to periodically curate their ‘archive’ manually— and if so, how frequently would they be willing to do it. Full questions are in [appendix Q-QUESTIONS].</Text>
+            <Title>F Questions:Methodology</Title>
+            <Text>The questionnaire was structured, with limited response options, for quantitative results; although self-reporting may lead to uncontrolled and inaccurate results (Martin and Hanington, 2012, p. 127), it was the most appropriate choice for these questions. A comprehensive ethnographic analysis of  behaviours on social networks would be more accurate but would raise privacy concerns, and the development of an ethical framework for such a study (see Hutton and Henderson, 2013) was not an option given the timeframe and relatively low importance of the results.
+ The first question, “What do you use social media for?”, asked users to rate, for 15 statements (based on Julius, n. d., p. 6), how strongly they used social media for. For examples, to the statements “Keep friends up to date”,  “Define my reputation” or “Follow celebrities or brands”, they could, on a scale, define how much if it wasn’t their use at all, not primarily, or if it was mostly what they used it for. The 15 statements can be found in [appendix A] and the raw results can be found in [appendix G].
+The second question simply asked them to estimate, in their opinion, how many years would Facebook stay popular before being replaced by another social network, if they thought that it would be replaced at all. The third and last question, centred on the honours project, asked participants whether they would be willing to periodically curate their ‘archive’ manually— and if so, how frequently would they be willing to do it. Full questions are in [appendix A].</Text>
         </Document>
         <Document ID="22">
             <Title>Screen based interaction patterns</Title>
             <Notes>possibly physical? (see PeDeTe boxes exemple)</Notes>
         </Document>
+        <Document ID="175">
+            <Title>G Questions:Results table</Title>
+            <Text>[table of raw results for questions]</Text>
+        </Document>
         <Document ID="167">
-            <Title>Description of results</Title>
-            <Text>Scans of the resulting drawings can be found in [appendix M-LIFEMAPS]. Note that to preserve the confidentiality of participants, identifying information such as names, birth years or places names have been blurred.
-All but one of the cartographies keep a line going from left to right, the last one being a web going from the centre to the outside. The first half of these eight linear cartographies only had one line, but chose, through different visual cues, to indicate different feelings during their lives. Maps 3 and 6 only took for analogy “up and downs”, and their line looked like an oscillogram’s wave, with positive moments going up and negative moments going down. Maps 2 and 5 combined this technique with squiggles and abstract shapes on the timeline to indicate chaotic moments, in contrast with the straighter, calmer parts of the line; this was highly reminiscent of Tristram Shandy’s life map [see fig. Cartographies/TristramShandy], which was shown during my presentation and could have influenced them. 
+            <Title>C Maps:Description of results</Title>
+            <Text>Note that to preserve the confidentiality of participants, identifying information such as names, birth years or places names have been blurred.
+[scans of all results]
+All but one of the cartographies keep a line going from left to right, the last one being a web going from the centre to the outside. The first half of these eight linear cartographies only had one line, but chose, through different visual cues, to indicate different feelings during their lives. Maps 3 and 6 only took for analogy “up and downs”, and their line looked like an oscillogram’s wave, with positive moments going up and negative moments going down. Maps 2 and 5 combined this technique with squiggles and abstract shapes on the timeline to indicate chaotic moments, in contrast with the straighter, calmer parts of the line; this was highly reminiscent of Tristram Shandy’s life map [see fig. 3.7 and 3.8], which was shown during my presentation and could have influenced them. 
 The other half of the maps used other systems, or multiple timelines. Map 1 split different life sections into “scopes”, each one with the life goal the participant had at that age, and enclosing the previous scope; as we grow older, it reflects on the fact we are still what we used to be, but have richer thoughts and ambitions. Map 4 uses bubbles of different sizes to represent events by their importance, each one getting more or less into the others (like a Venn diagram, but not enclosing them like in Map 1) to indicate how events are linking with each other. Here, it shows how college was a “stepping stone” linking high school and university; sadly it is limited in depth, but it is an interesting idea. Map 7 intends to be something much more graphical, starting from a central point (birth) and branching out into different directions, much like a tree, with each ‘branch’ being drawn differently (oscillogram, tree, river, leaves) and representing different aspects of life (education, connections, friends, personality). However, besides primary and secondary school, no events or periods were placed on it, making it rather unclear on time mapping.
 Map 8 presented three major events on a timeline. After each event a series of different branches was presented, most going in unknown directions and only one going to the next event. This map clearly emphasises life choices that have to be made, and unknown possibilities coming out of the choices that have been settled or that will have to be made (post-university). Finally, the ninth map showed two parallel timelines, separating different aspects of the participant’s life that happened over the same period of time (here, the progression in different schools and the changes in their family/household, until they came to university and merged them as they were now living alone). </Text>
         </Document>
@@ -3590,27 +3592,28 @@ Map 8 presented three major events on a timeline. After each event a series of d
             <Title>Reflection on experiments</Title>
         </Document>
         <Document ID="159">
-            <Title>Evaluation</Title>
-            <Text>Eval of different models
-Reference Methods of design</Text>
+            <Title>Evaluation of time cartographies</Title>
+            <Text>In the last activity participants were asked to evaluate different representations of time. Methodology is described in [appendix H]; the evaluated images, along with individual comments, are in [appendix I]. A summary of the averages for each result is presented in the table below [fig. 4.1]; full results lie in [appendix J].
+
+[fig. 4.1]
+
+Looking at the individual reviews, it appears clear that simplicity is key. The charts that were considered most relevant for being used as life maps were linear, with little to no branching and separation [fig. I.2, I.5, I.6, I.13], contradicting the intuitions that I have had when discussing streams and the knottiness and elusiveness of lives in the previous chapters. Those which fared well for clarity [fig. I.4, I.5, I.10, I.13] are not necessarily the least complex, indicating that richness of information is not necessarily a bad thing although it should be very carefully designed to avoid overcrowding the chart and confusing the user. 
+Regarding efficiency, we can see overall that the averages are low or intermediate for all the charts, only one of them exceeding 3.67. The criteria of efficiency and clarity almost always received similar results. We can however get a new insight from this: it is those which are complex but extremely crowded, where it is hard to distinguish information and what belongs to which group of data, that received the worst results [fig. I.3, I.6, I.7, I.11, I.12]. This confirms the previous statement in regards to smart design for associating readability with complexity.
+The criterion of beauty, or aesthetic quality, inversely received the most positive reviews, with only two exceptions going below an average of 3.00. In terms of patterns, we can see that the use of colour is not very incidental on the result, as both the best [fig. I.1 and I.2] and worst [fig. I.6 and I.8] charts were monochromatic or bicolour; Strom der Zeiten [fig. I.12], with its liberal use of colour to separate streams, was rated highly for beauty but poorly for clarity, so it should not necessarily be a deciding factor. Ornamentation did not seem to be influential either, charts who were “plain” and not highly decorated getting both honourable grades ([fig. I.2, I.5, I.9, I.11]) and terrible ones ([fig. I.8]); likewise richly illustrated ones had both great ([fig. I.1, I.3, I.4]) and lower ([fig. I.6 and I.7]) reviews. Looking at the individual reviews chart in [appendix I], we can see that while the grades for beauty were generally consistent, in a few cases this aspect was controversial (some charts getting both “5”s and “1”s), and reminded us that beauty is always subjective.</Text>
+            <Comments>Considering the evaluation was not made with full-size charts asking the user to look for particular information, but only as a rapid rating of images, the metric of efficiency is not going to be accurate; and so we can expect participants to judge hastily based on their perception of clarity</Comments>
         </Document>
         <Document ID="24">
             <Title>Issues of the project</Title>
         </Document>
         <Document ID="168">
             <Title>Analysis</Title>
-            <Text>Overall, we can notice that the line remains a mode of representation chosen by most people, even when asked to attempt to go away from it. A lot of people attempted to classify the events in their lives by emotional value, whether positive or negative; those used a single line. Of the people who used multiple lines, forking and merging again, there was a variety of contexts used. Most people considered schools as the main periods in their life, each change of school generally meaning a change in location and social circle; only Map 1 prefers to focus on a periodical change of goals and values. For all participants, events and ‘periods’ themselves were points of reference, and time units were not important at all; periods were not normalised and not proportional to each other compared to the amount of years they lasted.
-When looking at the highlighted sections of the maps, i. e. the life events that appear on social media, there was a large variation in the proportion of the life map that existed online; this emphasised the content that participants put on their map, a lot of them putting a large focus in their most recent years, whereas some others had a more global view, from earlier on. Given the age of participants (early twenties), it coincides with the emergence of social networks that most of them started sharing their life during high school, some of them only at the beginning of university. Most maps seem to say that there was a “before” and “after” social networks, where everything was suddenly logged online after they registered and started being active on social networks. But a look at maps 2 and 5, which provide a greater degree of precision about events, shows that obviously only some aspects of the life are shared socially; generally these were positive events.</Text>
         </Document>
         <Document ID="25">
             <Title>Evaluate them</Title>
         </Document>
         <Document ID="50">
-            <Title>Adding context</Title>
-            <Text>Add context to data, not just a representation of the existing data
-	⁃	Possibly copy experience/UI of the social networks, quote R Banks - experience of person opening up laptop after 10 years and finding everything as is, or creating a Virtual PC from the hard drive of his deceased father. It goes along with the retrieval of the memory
-	⁃	Hierarchise the data - finding ways to classify data and make more sense out of it - explore complex representations
-</Text>
+            <Title>Maintaining context</Title>
+            <Text>It is important to add or maintain context with the data (transforming data into information), and not just copy the raw data. Kirk and Sellen (2010) found that ultimately, stories and narrative are more important than the preservation of the artefacts themselves; this is particularly important in the situation of heirlooms, where transmitting the emotional value and stories is more important than a meaningless photograph.</Text>
         </Document>
         <Document ID="26">
             <Title>Tech Heirlooms - considerations</Title>
@@ -3766,10 +3769,8 @@ REFERENCES
 	⁃	Laborious methods are currently used to retrieve old posts]</Text>
         </Document>
         <Document ID="169">
-            <Title>Results</Title>
-            <Text>__ CAREFUL: fig numbers in the questionnaire don’t match those in Figures list, need to change them. Move to appendice?? __
-
-[fig. Cartographies/1]
+            <Title>I Evaluation:Images</Title>
+            <Text>[fig. Cartographies/1]
 
 The idea of genealogical tree in [fig. Cartographies/1] was rated positively, with the best score overall for aesthetic beauty (a 4.33 average out of 5), generally clear  and efficient, and moderately relevant (3.5).
 

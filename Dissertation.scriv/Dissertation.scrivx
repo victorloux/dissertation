@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2015-01-14 11:09:20 +0000">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2015-01-16 16:45:45 +0000">
     <Binder>
         <BinderItem ID="145" Type="Folder" Created="2014-12-22 18:44:59 +0000" Modified="2014-12-22 18:45:45 +0000">
             <Title>Front matter</Title>
@@ -86,7 +86,7 @@
                 </OutlinerExpandedState>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="11" Type="Text" Created="2014-10-10 15:21:18 +0100" Modified="2015-01-13 19:03:29 +0000">
+                <BinderItem ID="11" Type="Text" Created="2014-10-10 15:21:18 +0100" Modified="2015-01-14 11:28:46 +0000">
                     <Title>Introduction</Title>
                     <MetaData>
                         <StatusID>1</StatusID>
@@ -95,7 +95,7 @@
                         <NotesTextSelection>1003,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1996,0</TextSelection>
+                        <TextSelection>0,3377</TextSelection>
                         <Target Type="Words" Notify="No">600</Target>
                     </TextSettings>
                 </BinderItem>
@@ -108,7 +108,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>384,0</TextSelection>
+                        <TextSelection>0,384</TextSelection>
                         <Target Type="Words" Notify="No">2000</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -125,37 +125,37 @@
                                 <NotesTextSelection>89,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>987,0</TextSelection>
+                                <TextSelection>561,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="103" Type="Text" Created="2014-10-18 16:12:47 +0100" Modified="2015-01-13 19:45:37 +0000">
+                        <BinderItem ID="103" Type="Text" Created="2014-10-18 16:12:47 +0100" Modified="2015-01-14 11:28:46 +0000">
                             <Title>Keeping track</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>243,0</TextSelection>
+                                <TextSelection>0,1299</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="129" Type="Text" Created="2014-10-20 18:43:53 +0100" Modified="2015-01-14 11:06:07 +0000">
+                        <BinderItem ID="129" Type="Text" Created="2014-10-20 18:43:53 +0100" Modified="2015-01-14 12:10:01 +0000">
                             <Title>Collecting a culture</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3203,0</TextSelection>
+                                <TextSelection>1705,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="96" Type="Text" Created="2014-10-18 16:05:15 +0100" Modified="2015-01-13 19:13:30 +0000">
+                        <BinderItem ID="96" Type="Text" Created="2014-10-18 16:05:15 +0100" Modified="2015-01-14 11:28:46 +0000">
                             <Title>For social networks</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>1303,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1490,0</TextSelection>
+                                <TextSelection>0,1498</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="119" Type="Text" Created="2014-10-18 19:35:54 +0100" Modified="2015-01-14 11:06:07 +0000">
@@ -165,7 +165,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>444,0</TextSelection>
+                                <TextSelection>1546,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -197,7 +197,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>378,0</TextSelection>
+                                <TextSelection>0,426</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="49" Type="Text" Created="2014-10-10 20:36:52 +0100" Modified="2015-01-13 18:10:44 +0000">
@@ -207,22 +207,22 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>620,0</TextSelection>
+                                <TextSelection>0,620</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="132" Type="Text" Created="2014-10-22 01:28:32 +0100" Modified="2015-01-13 18:10:59 +0000">
+                        <BinderItem ID="132" Type="Text" Created="2014-10-22 01:28:32 +0100" Modified="2015-01-14 11:28:46 +0000">
                             <Title>Reducing abstractions</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>772,0</TextSelection>
+                                <TextSelection>0,772</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="19" Type="Text" Created="2014-10-10 18:28:57 +0100" Modified="2015-01-13 14:52:23 +0000">
+                <BinderItem ID="19" Type="Text" Created="2014-10-10 18:28:57 +0100" Modified="2015-01-14 11:28:46 +0000">
                     <Title>Literature review: Deconstructing the timeline</Title>
                     <MetaData>
                         <LabelID>1</LabelID>
@@ -230,7 +230,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1665,0</TextSelection>
+                        <TextSelection>0,1665</TextSelection>
                         <Target Type="Words" Notify="No">2000</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -245,7 +245,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>255,0</TextSelection>
+                                <TextSelection>0,1231</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="147" Type="Text" Created="2014-12-27 16:50:12 +0000" Modified="2015-01-14 11:07:07 +0000">
@@ -255,17 +255,17 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>711,0</TextSelection>
+                                <TextSelection>0,1365</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="148" Type="Text" Created="2014-12-27 16:50:55 +0000" Modified="2015-01-14 11:07:07 +0000">
+                        <BinderItem ID="148" Type="Text" Created="2014-12-27 16:50:55 +0000" Modified="2015-01-14 11:28:46 +0000">
                             <Title>Circular representation</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1031,0</TextSelection>
+                                <TextSelection>0,1033</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="156" Type="Text" Created="2015-01-04 01:00:34 +0000" Modified="2015-01-14 11:09:18 +0000">
@@ -286,10 +286,10 @@
                                 <NotesTextSelection>693,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>13,0</TextSelection>
+                                <TextSelection>1836,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="21" Type="Text" Created="2014-10-10 18:30:42 +0100" Modified="2015-01-14 11:09:18 +0000">
+                        <BinderItem ID="21" Type="Text" Created="2014-10-10 18:30:42 +0100" Modified="2015-01-14 11:28:46 +0000">
                             <Title>Applying it to a personal life</Title>
                             <MetaData>
                                 <StatusID>0</StatusID>
@@ -297,7 +297,7 @@
                                 <NotesTextSelection>372,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1408,0</TextSelection>
+                                <TextSelection>1383,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -311,18 +311,18 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>564,0</TextSelection>
+                        <TextSelection>0,564</TextSelection>
                         <Target Type="Words" Notify="No">2000</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="64" Type="Text" Created="2014-10-17 13:18:09 +0100" Modified="2015-01-12 17:48:38 +0000">
+                        <BinderItem ID="64" Type="Text" Created="2014-10-17 13:18:09 +0100" Modified="2015-01-14 11:28:46 +0000">
                             <Title>Demographics</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>864,0</TextSelection>
+                                <TextSelection>0,864</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="162" Type="Text" Created="2015-01-07 01:27:07 +0000" Modified="2015-01-13 18:29:35 +0000">
@@ -332,7 +332,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>875,0</TextSelection>
+                                <TextSelection>0,875</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="163" Type="Text" Created="2015-01-07 01:28:21 +0000" Modified="2015-01-13 19:16:18 +0000">
@@ -342,37 +342,37 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>194,0</TextSelection>
+                                <TextSelection>0,2001</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="161" Type="Text" Created="2015-01-07 01:26:34 +0000" Modified="2015-01-13 19:17:25 +0000">
+                        <BinderItem ID="161" Type="Text" Created="2015-01-07 01:26:34 +0000" Modified="2015-01-15 15:31:51 +0000">
                             <Title>Retrieval of memorable content</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>694,0</TextSelection>
+                                <TextSelection>0,2738</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="65" Type="Text" Created="2014-10-17 13:18:13 +0100" Modified="2015-01-13 19:24:09 +0000">
+                        <BinderItem ID="65" Type="Text" Created="2014-10-17 13:18:13 +0100" Modified="2015-01-14 11:28:46 +0000">
                             <Title>Questionnaire on the usage of social media</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>54,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1664,0</TextSelection>
+                                <TextSelection>0,2285</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="159" Type="Text" Created="2015-01-06 09:41:52 +0000" Modified="2015-01-14 11:09:18 +0000">
+                        <BinderItem ID="159" Type="Text" Created="2015-01-06 09:41:52 +0000" Modified="2015-01-14 11:28:46 +0000">
                             <Title>Evaluation of time cartographies</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>292,0</TextSelection>
+                                <TextSelection>0,2665</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -380,11 +380,12 @@
                 <BinderItem ID="14" Type="Text" Created="2014-10-10 15:22:30 +0100" Modified="2015-01-13 19:27:27 +0000">
                     <Title>Conclusion</Title>
                     <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>828,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>437,0</TextSelection>
+                        <TextSelection>0,3535</TextSelection>
                         <Target Type="Words" Notify="No">650</Target>
                     </TextSettings>
                 </BinderItem>
@@ -421,7 +422,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1845,11</TextSelection>
+                                <TextSelection>0,9097</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="72" Type="Text" Created="2014-10-17 16:02:50 +0100" Modified="2015-01-14 03:06:21 +0000">
@@ -431,7 +432,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1302,0</TextSelection>
+                                <TextSelection>0,1302</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -454,7 +455,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>191,0</TextSelection>
+                                <TextSelection>0,191</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="166" Type="Text" Created="2015-01-07 01:30:04 +0000" Modified="2015-01-13 18:35:42 +0000">
@@ -464,17 +465,17 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>214,0</TextSelection>
+                                <TextSelection>0,1265</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="167" Type="Text" Created="2015-01-07 01:30:10 +0000" Modified="2015-01-13 18:27:20 +0000">
+                        <BinderItem ID="167" Type="Text" Created="2015-01-07 01:30:10 +0000" Modified="2015-01-14 11:25:11 +0000">
                             <Title>C Maps:Description of results</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>167,0</TextSelection>
+                                <TextSelection>0,2812</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="157" Type="Text" Created="2015-01-06 09:08:16 +0000" Modified="2015-01-13 18:15:40 +0000">
@@ -484,7 +485,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>334,0</TextSelection>
+                                <TextSelection>0,1165</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="174" Type="Text" Created="2015-01-13 18:15:57 +0000" Modified="2015-01-13 18:20:36 +0000">
@@ -504,7 +505,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>586,0</TextSelection>
+                                <TextSelection>0,1541</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="175" Type="Text" Created="2015-01-13 18:16:27 +0000" Modified="2015-01-13 18:20:36 +0000">
@@ -524,17 +525,17 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>622,0</TextSelection>
+                                <TextSelection>0,837</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="169" Type="Text" Created="2015-01-10 21:03:49 +0000" Modified="2015-01-14 11:05:08 +0000">
+                        <BinderItem ID="169" Type="Text" Created="2015-01-10 21:03:49 +0000" Modified="2015-01-15 19:45:08 +0000">
                             <Title>I Evaluation:Images</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>42,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1126,0</TextSelection>
+                                <TextSelection>3785,384</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="134" Type="Text" Created="2014-12-11 16:06:06 +0000" Modified="2015-01-13 18:51:55 +0000">
@@ -653,7 +654,7 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem ID="123" Type="Text" Created="2014-10-20 15:44:05 +0100" Modified="2015-01-12 10:47:00 +0000">
+                <BinderItem ID="123" Type="Text" Created="2014-10-20 15:44:05 +0100" Modified="2015-01-15 18:46:46 +0000">
                     <Title>Grammar/spelling checks</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -661,7 +662,7 @@
                         <IconFileName>Lectern.tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>392,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="54" Type="Text" Created="2014-10-14 20:23:26 +0100" Modified="2014-10-14 20:23:46 +0100">
@@ -1914,7 +1915,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2014-10-27 12:30:22 +0000" IgnoreDeadline="No">7500</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="4-5" CanWriteOnDeadlineDate="No">500</SessionTarget>
-        <PreviousSession Words="-18" Characters="-246" Date="2015-01-14 00:48:09 +0000"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2015-01-16 10:48:03 +0000"></PreviousSession>
     </ProjectTargets>
     <ProjectReferences>
         <Reference Destination="file://localhost/Users/DeadPx/Dropbox/DIxD/3rdYear/Research%20&amp;%20Creative%20Practice/ebooks/Tech%20Heirlooms%20-%20considerations.pdf">Tech Heirlooms - considerations</Reference>
